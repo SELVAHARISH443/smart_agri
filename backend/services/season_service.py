@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 
+from .lazy_resource import LazyResource
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(BASE_DIR))
 DATASET_PATH = os.path.join(PROJECT_ROOT, "dataset", "crop_season_dataset.csv")
@@ -8,20 +10,37 @@ DATASET_PATH = os.path.join(PROJECT_ROOT, "dataset", "crop_season_dataset.csv")
 class SeasonService:
     def __init__(self):
         self.df = None
-        self.load_dataset()
+        self._dataset_resource = LazyResource("crop season dataset")
 
     def load_dataset(self):
-        if os.path.exists(DATASET_PATH):
-            self.df = pd.read_csv(DATASET_PATH)
+        def initialize():
+            if not os.path.isfile(DATASET_PATH):
+                raise FileNotFoundError(f"Dataset not found: {DATASET_PATH}")
+
+            dataset = pd.read_csv(DATASET_PATH)
+            required_columns = {
+                "crop", "season", "sowing_month", "harvesting_month",
+                "temperature_range", "rainfall_requirement",
+                "water_requirement", "suitable_soil_types", "state", "region",
+            }
+            missing_columns = required_columns.difference(dataset.columns)
+            if missing_columns:
+                raise ValueError(
+                    f"Dataset is missing required columns: {', '.join(sorted(missing_columns))}"
+                )
+
+            self.df = dataset
             print("Crop Season Dataset loaded successfully.")
-        else:
-            print("WARNING: Crop Season CSV not found!")
+            return dataset
+
+        return self._dataset_resource.get(initialize)
+
+    @property
+    def initialization_status(self):
+        return self._dataset_resource.status
 
     def get_crop_season(self, crop_name, region=None):
-        if self.df is None:
-            self.load_dataset()
-            if self.df is None:
-                return {"error": "Crop season dataset unavailable."}
+        self.load_dataset()
 
         crop_clean = crop_name.strip().lower()
         matches = self.df[self.df["crop"].str.lower() == crop_clean]
@@ -68,10 +87,7 @@ class SeasonService:
         }
 
     def list_available_crops(self):
-        if self.df is None:
-            self.load_dataset()
-        if self.df is not None:
-            return sorted(list(self.df["crop"].unique()))
-        return []
+        dataset = self.load_dataset()
+        return sorted(list(dataset["crop"].unique()))
 
 season_service = SeasonService()

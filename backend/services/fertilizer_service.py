@@ -3,6 +3,8 @@ import joblib
 import pandas as pd
 import numpy as np
 
+from .lazy_resource import LazyResource
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(BASE_DIR))
 MODEL_DIR = os.path.join(PROJECT_ROOT, "models", "fertilizer_model")
@@ -14,21 +16,33 @@ class FertilizerService:
     def __init__(self):
         self.model = None
         self.encoders = None
-        self.load_model()
+        self._model_resource = LazyResource("fertilizer recommendation model")
 
     def load_model(self):
-        if os.path.exists(MODEL_PATH) and os.path.exists(ENCODERS_PATH):
-            self.model = joblib.load(MODEL_PATH)
-            self.encoders = joblib.load(ENCODERS_PATH)
+        def initialize():
+            if not os.path.isfile(MODEL_PATH):
+                raise FileNotFoundError(f"Model file not found: {MODEL_PATH}")
+            if not os.path.isfile(ENCODERS_PATH):
+                raise FileNotFoundError(f"Label encoders not found: {ENCODERS_PATH}")
+
+            model = joblib.load(MODEL_PATH)
+            encoders = joblib.load(ENCODERS_PATH)
+            if not isinstance(encoders, dict):
+                raise ValueError(f"Invalid label encoders in {ENCODERS_PATH}")
+
+            self.model = model
+            self.encoders = encoders
             print("Fertilizer Recommendation Model loaded successfully.")
-        else:
-            print("WARNING: Fertilizer Model or Encoders not found!")
+            return model, encoders
+
+        self.model, self.encoders = self._model_resource.get(initialize)
+
+    @property
+    def initialization_status(self):
+        return self._model_resource.status
 
     def recommend(self, soil_type, crop="Rice", N=50, P=40, K=35, pH=6.5, organic_matter=2.0, moisture=45, temperature=28, season="Kharif"):
-        if not self.model or not self.encoders:
-            self.load_model()
-            if not self.model:
-                return {"error": "Fertilizer model unavailable"}
+        self.load_model()
 
         # Safe encoding helper
         def safe_encode(encoder, val, default_idx=0):

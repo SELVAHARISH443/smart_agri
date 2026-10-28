@@ -12,6 +12,7 @@ from services.soil_service import soil_service
 from services.crop_service import crop_service
 from services.fertilizer_service import fertilizer_service
 from services.season_service import season_service
+from services.lazy_resource import ResourceLoadError
 
 app = Flask(__name__)
 CORS(app)
@@ -26,6 +27,12 @@ def health():
             "crop_disease_model": crop_service.model is not None,
             "fertilizer_model": fertilizer_service.model is not None,
             "crop_season_dataset": season_service.df is not None
+        },
+        "initialization": {
+            "soil_model": soil_service.initialization_status["status"],
+            "crop_disease_model": crop_service.initialization_status["status"],
+            "fertilizer_model": fertilizer_service.initialization_status["status"],
+            "crop_season_dataset": season_service.initialization_status["status"],
         }
     })
 
@@ -106,14 +113,18 @@ def analyze_soil():
     pH = request.form.get("pH", None)
 
     image_bytes = image_file.read()
-    result = soil_service.analyze_soil_image(
-        image_bytes,
-        crop=crop,
-        N=N,
-        P=P,
-        K=K,
-        pH=pH
-    )
+    try:
+        result = soil_service.analyze_soil_image(
+            image_bytes,
+            crop=crop,
+            N=N,
+            P=P,
+            K=K,
+            pH=pH
+        )
+    except ResourceLoadError as error:
+        app.logger.error("%s", error)
+        return jsonify({"error": str(error)}), 503
 
     if "error" in result:
         return jsonify(result), 400
@@ -132,7 +143,11 @@ def analyze_crop():
         return jsonify({"error": "Empty image filename."}), 400
 
     image_bytes = image_file.read()
-    result = crop_service.analyze_crop_image(image_bytes)
+    try:
+        result = crop_service.analyze_crop_image(image_bytes)
+    except ResourceLoadError as error:
+        app.logger.error("%s", error)
+        return jsonify({"error": str(error)}), 503
 
     if "error" in result:
         return jsonify(result), 400
@@ -155,11 +170,15 @@ def recommend_fertilizer():
     temperature = data.get("temperature", 28)
     season = data.get("season", "Kharif")
 
-    result = fertilizer_service.recommend(
-        soil_type=soil_type, crop=crop, N=N, P=P, K=K, pH=pH,
-        organic_matter=organic_matter, moisture=moisture,
-        temperature=temperature, season=season
-    )
+    try:
+        result = fertilizer_service.recommend(
+            soil_type=soil_type, crop=crop, N=N, P=P, K=K, pH=pH,
+            organic_matter=organic_matter, moisture=moisture,
+            temperature=temperature, season=season
+        )
+    except ResourceLoadError as error:
+        app.logger.error("%s", error)
+        return jsonify({"error": str(error)}), 503
 
     return jsonify(result)
 
@@ -178,14 +197,22 @@ def crop_season():
     if not crop:
         return jsonify({"error": "Please specify a crop name parameter."}), 400
 
-    result = season_service.get_crop_season(crop_name=crop, region=region)
+    try:
+        result = season_service.get_crop_season(crop_name=crop, region=region)
+    except ResourceLoadError as error:
+        app.logger.error("%s", error)
+        return jsonify({"error": str(error)}), 503
     return jsonify(result)
 
 # Helper API: List Available Crops
 @app.route("/api/crops", methods=["GET"])
 @require_auth
 def list_crops():
-    crops = season_service.list_available_crops()
+    try:
+        crops = season_service.list_available_crops()
+    except ResourceLoadError as error:
+        app.logger.error("%s", error)
+        return jsonify({"error": str(error)}), 503
     return jsonify({"crops": crops})
 
 if __name__ == "__main__":

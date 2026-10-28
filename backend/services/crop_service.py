@@ -6,6 +6,8 @@ from torchvision import transforms, models
 from PIL import Image
 import io
 
+from .lazy_resource import LazyResource
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(os.path.dirname(BASE_DIR))
 MODEL_DIR = os.path.join(PROJECT_ROOT, "models", "crop_disease_model")
@@ -17,20 +19,27 @@ class CropService:
     def __init__(self):
         self.model = None
         self.labels = {}
+        self._model_resource = LazyResource("crop disease classification model")
         self.transform = transforms.Compose([
             transforms.Resize((224, 224)),
             transforms.ToTensor(),
             transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
-        self.load_model()
 
     def load_model(self):
-        if os.path.exists(MODEL_PATH) and os.path.exists(LABELS_PATH):
+        def initialize():
+            if not os.path.isfile(MODEL_PATH):
+                raise FileNotFoundError(f"Model weights not found: {MODEL_PATH}")
+            if not os.path.isfile(LABELS_PATH):
+                raise FileNotFoundError(f"Class labels not found: {LABELS_PATH}")
+
             with open(LABELS_PATH, "r") as f:
                 raw_labels = json.load(f)
-                self.labels = {int(k): v for k, v in raw_labels.items()}
+            labels = {int(k): v for k, v in raw_labels.items()}
+            if not labels:
+                raise ValueError(f"No class labels found in {LABELS_PATH}")
 
-            num_classes = len(self.labels)
+            num_classes = len(labels)
             model = models.mobilenet_v2(weights=None)
             in_features = model.classifier[1].in_features
             model.classifier = nn.Sequential(
@@ -39,18 +48,26 @@ class CropService:
                 nn.ReLU(),
                 nn.Linear(128, num_classes)
             )
-            model.load_state_dict(torch.load(MODEL_PATH, map_location=torch.device('cpu')))
+            state_dict = torch.load(
+                MODEL_PATH,
+                map_location=torch.device("cpu"),
+                weights_only=True,
+            )
+            model.load_state_dict(state_dict)
             model.eval()
             self.model = model
+            self.labels = labels
             print("Crop Disease Image Classification Model loaded successfully.")
-        else:
-            print("WARNING: Crop Disease Model weights missing!")
+            return model
+
+        return self._model_resource.get(initialize)
+
+    @property
+    def initialization_status(self):
+        return self._model_resource.status
 
     def analyze_crop_image(self, image_bytes):
-        if not self.model:
-            self.load_model()
-            if not self.model:
-                return {"error": "Crop disease ML model unavailable."}
+        self.load_model()
 
         try:
             image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
