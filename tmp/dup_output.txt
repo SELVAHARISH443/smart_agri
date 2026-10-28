@@ -1,0 +1,18 @@
+=== soil detailed check ===
+Total files: 720, Unique hashes: 720, Duplicates: 0
+  Class 'Black_Soil': 120 files, 120 unique
+  Class 'Clay_Soil': 120 files, 120 unique
+  Class 'Laterite_Soil': 120 files, 120 unique
+  Class 'Loamy_Soil': 120 files, 120 unique
+  Class 'Red_Soil': 120 files, 120 unique
+  Class 'Sandy_Soil': 120 files, 120 unique
+=== crop_disease detailed check ===
+Total files: 960, Unique hashes: 960, Duplicates: 0
+  Class 'Corn_Common_Rust': 120 files, 120 unique
+  Class 'Corn_Healthy': 120 files, 120 unique
+  Class 'Potato_Early_Blight': 120 files, 120 unique
+  Class 'Potato_Healthy': 120 files, 120 unique
+  Class 'Potato_Late_Blight': 120 files, 120 unique
+  Class 'Tomato_Early_Blight': 120 files, 120 unique
+  Class 'Tomato_Healthy': 120 files, 120 unique
+  Class 'Tomato_Late_Blight': 120 files, 120 unique

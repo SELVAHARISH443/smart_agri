@@ -1,0 +1,16 @@
+=== SOIL DATASET ===
+Black_Soil                | Total: 120 | Splits: {'test': 30, 'train': 90}
+Clay_Soil                 | Total: 120 | Splits: {'test': 30, 'train': 90}
+Laterite_Soil             | Total: 120 | Splits: {'test': 30, 'train': 90}
+Loamy_Soil                | Total: 120 | Splits: {'test': 30, 'train': 90}
+Red_Soil                  | Total: 120 | Splits: {'test': 30, 'train': 90}
+Sandy_Soil                | Total: 120 | Splits: {'test': 30, 'train': 90}
+=== CROP_DISEASE DATASET ===
+Corn_Common_Rust          | Total: 120 | Splits: {'test': 30, 'train': 90}
+Corn_Healthy              | Total: 120 | Splits: {'test': 30, 'train': 90}
+Potato_Early_Blight       | Total: 120 | Splits: {'test': 30, 'train': 90}
+Potato_Healthy            | Total: 120 | Splits: {'test': 30, 'train': 90}
+Potato_Late_Blight        | Total: 120 | Splits: {'test': 30, 'train': 90}
+Tomato_Early_Blight       | Total: 120 | Splits: {'test': 30, 'train': 90}
+Tomato_Healthy            | Total: 120 | Splits: {'test': 30, 'train': 90}
+Tomato_Late_Blight        | Total: 120 | Splits: {'test': 30, 'train': 90}

@@ -1,0 +1,2501 @@
+soil_type,crop,nitrogen,phosphorus,potassium,ph,organic_matter,moisture,temperature,season,recommended_fertilizer
+Laterite Soil,Cotton,92,89,66,7.4,1.26,25,18,Zaid,NPK 19-19-19
+Clay Soil,Cotton,66,69,36,5.5,1.19,50,22,Zaid,Organic Neem Cake
+Red Soil,Wheat,99,66,38,6.8,2.9,16,24,Zaid,Zinc Sulfate
+Black Soil,Corn,76,98,49,7.1,3.52,29,22,Rabi,NPK 19-19-19
+Loamy Soil,Tomato,23,90,55,8.4,0.64,37,23,Zaid,Urea
+Red Soil,Onion,117,60,77,7.0,1.17,33,28,Rabi,Vermicompost
+Black Soil,Groundnut,74,30,16,6.8,2.86,57,38,Zaid,DAP
+Loamy Soil,Sugarcane,139,81,32,5.7,2.45,55,27,Zaid,Organic Neem Cake
+Red Soil,Groundnut,140,67,59,7.4,1.68,31,20,Kharif,NPK 19-19-19
+Red Soil,Banana,95,49,35,5.6,2.13,45,26,Kharif,Organic Neem Cake
+Red Soil,Corn,38,44,19,7.4,2.02,21,21,Zaid,Urea
+Clay Soil,Sugarcane,55,40,46,6.4,2.56,17,29,Kharif,NPK 19-19-19
+Red Soil,Onion,43,80,36,6.1,0.68,32,40,Kharif,Urea
+Loamy Soil,Rice,32,16,37,6.9,3.27,26,30,Zaid,NPK 19-19-19
+Laterite Soil,Tomato,92,18,30,5.4,1.93,62,35,Zaid,DAP
+Loamy Soil,Banana,30,80,45,6.9,1.32,25,29,Kharif,Urea
+Laterite Soil,Potato,56,20,58,7.4,1.7,17,28,Kharif,DAP
+Loamy Soil,Corn,107,85,42,5.5,2.28,65,32,Rabi,Organic Neem Cake
+Clay Soil,Onion,87,88,32,8.1,2.45,60,40,Kharif,NPK 19-19-19
+Clay Soil,Cotton,44,86,25,6.8,2.66,69,23,Kharif,DAP
+Sandy Soil,Groundnut,99,65,33,6.6,0.78,68,18,Rabi,Vermicompost
+Red Soil,Onion,31,39,58,7.4,2.46,17,34,Kharif,Urea
+Clay Soil,Banana,119,55,66,7.6,1.88,46,40,Kharif,NPK 19-19-19
+Loamy Soil,Potato,91,39,56,8.0,3.51,24,29,Zaid,NPK 19-19-19
+Clay Soil,Wheat,80,18,55,5.0,0.75,67,37,Rabi,DAP
+Laterite Soil,Potato,109,55,33,6.3,2.05,67,18,Rabi,NPK 19-19-19
+Clay Soil,Tomato,132,67,71,7.4,2.73,18,24,Kharif,NPK 19-19-19
+Clay Soil,Potato,131,25,28,8.1,0.85,74,24,Zaid,DAP
+Laterite Soil,Wheat,32,69,21,7.6,1.33,41,32,Rabi,Urea
+Sandy Soil,Corn,71,55,20,7.7,3.6,32,26,Zaid,MOP (Muriate of Potash)
+Clay Soil,Rice,48,47,43,6.1,0.88,72,22,Zaid,Urea
+Red Soil,Wheat,60,70,13,5.3,3.55,26,35,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Rice,71,57,45,6.6,1.69,69,32,Kharif,NPK 19-19-19
+Red Soil,Wheat,118,47,11,7.2,1.1,49,30,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Tomato,59,74,33,5.3,0.66,49,19,Zaid,Organic Neem Cake
+Sandy Soil,Onion,62,51,22,6.9,3.81,28,39,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Onion,30,36,63,7.9,1.6,27,21,Rabi,Urea
+Laterite Soil,Onion,60,50,76,8.0,2.0,32,33,Zaid,NPK 19-19-19
+Red Soil,Corn,136,46,22,5.2,1.12,67,32,Rabi,MOP (Muriate of Potash)
+Red Soil,Sugarcane,26,11,54,5.6,3.3,35,19,Kharif,NPK 19-19-19
+Loamy Soil,Groundnut,101,88,21,7.3,2.12,73,39,Zaid,MOP (Muriate of Potash)
+Black Soil,Sugarcane,102,99,27,5.0,1.55,36,26,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Corn,131,23,42,5.2,3.85,62,34,Zaid,DAP
+Loamy Soil,Corn,117,71,58,5.8,2.2,43,29,Kharif,NPK 19-19-19
+Loamy Soil,Onion,30,25,21,8.2,2.85,64,32,Rabi,NPK 19-19-19
+Loamy Soil,Wheat,77,56,11,7.9,1.04,34,22,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Wheat,129,50,46,7.4,1.13,25,27,Kharif,Vermicompost
+Black Soil,Banana,115,66,70,7.7,0.88,63,31,Rabi,Vermicompost
+Laterite Soil,Groundnut,119,11,41,5.3,3.52,62,32,Zaid,DAP
+Sandy Soil,Wheat,125,50,48,6.6,0.81,38,36,Kharif,Vermicompost
+Black Soil,Tomato,23,91,15,7.2,2.6,32,25,Kharif,Urea
+Laterite Soil,Banana,34,28,43,5.6,2.17,16,26,Rabi,NPK 19-19-19
+Laterite Soil,Wheat,128,70,59,6.4,1.28,31,31,Zaid,Zinc Sulfate
+Loamy Soil,Sugarcane,94,82,50,8.0,1.99,74,40,Zaid,NPK 19-19-19
+Red Soil,Cotton,26,70,63,5.5,2.69,19,31,Rabi,Urea
+Loamy Soil,Corn,64,82,13,5.3,1.62,15,40,Kharif,MOP (Muriate of Potash)
+Red Soil,Corn,18,54,69,6.7,1.2,42,26,Rabi,Urea
+Laterite Soil,Rice,23,33,78,7.5,0.66,73,36,Zaid,NPK 19-19-19
+Sandy Soil,Cotton,23,60,69,5.5,2.48,55,34,Kharif,Urea
+Clay Soil,Rice,68,42,60,5.8,1.39,31,40,Zaid,NPK 19-19-19
+Clay Soil,Potato,63,21,53,7.2,2.27,51,28,Zaid,DAP
+Laterite Soil,Cotton,140,59,38,6.7,3.09,36,29,Zaid,NPK 19-19-19
+Black Soil,Tomato,42,81,54,5.1,1.27,38,36,Zaid,Urea
+Laterite Soil,Banana,32,14,43,6.2,2.79,54,35,Zaid,NPK 19-19-19
+Laterite Soil,Banana,136,13,25,7.8,0.73,67,35,Rabi,Organic Neem Cake
+Laterite Soil,Groundnut,19,73,11,6.9,1.4,44,26,Zaid,Urea
+Clay Soil,Rice,138,54,35,5.0,1.89,68,29,Kharif,Organic Neem Cake
+Sandy Soil,Potato,42,63,55,5.3,0.84,50,32,Rabi,Urea
+Sandy Soil,Wheat,124,11,27,6.3,3.56,45,32,Rabi,DAP
+Clay Soil,Onion,14,50,43,7.4,3.88,26,31,Kharif,Urea
+Clay Soil,Wheat,40,10,64,6.8,1.74,48,25,Rabi,NPK 19-19-19
+Laterite Soil,Tomato,110,83,38,7.4,3.02,74,30,Zaid,NPK 19-19-19
+Loamy Soil,Onion,128,45,40,5.6,1.9,74,34,Kharif,Organic Neem Cake
+Red Soil,Groundnut,98,75,56,8.1,1.17,50,35,Zaid,Vermicompost
+Red Soil,Banana,134,56,31,8.3,1.46,40,34,Kharif,NPK 19-19-19
+Sandy Soil,Cotton,106,57,45,5.4,2.71,21,31,Rabi,Organic Neem Cake
+Sandy Soil,Groundnut,31,89,77,5.7,3.75,49,28,Rabi,Urea
+Loamy Soil,Sugarcane,38,60,59,6.9,1.98,54,40,Zaid,Urea
+Laterite Soil,Rice,130,95,62,6.5,2.57,32,29,Rabi,Zinc Sulfate
+Red Soil,Groundnut,81,13,63,8.1,1.41,33,33,Rabi,DAP
+Black Soil,Potato,119,33,40,7.6,2.71,33,25,Kharif,Urea
+Sandy Soil,Wheat,132,48,80,6.0,2.4,28,22,Rabi,Zinc Sulfate
+Sandy Soil,Banana,48,90,77,5.7,3.97,54,18,Kharif,Urea
+Sandy Soil,Onion,20,41,20,7.1,1.19,47,37,Zaid,Urea
+Red Soil,Onion,90,37,45,6.7,2.86,72,23,Kharif,NPK 19-19-19
+Sandy Soil,Corn,121,44,39,7.1,3.61,46,28,Kharif,DAP
+Red Soil,Onion,112,39,24,6.2,0.87,48,40,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Rice,117,75,42,6.1,3.6,44,33,Zaid,Zinc Sulfate
+Loamy Soil,Banana,109,76,53,8.1,3.74,33,24,Zaid,NPK 19-19-19
+Black Soil,Corn,95,73,37,6.5,3.05,41,24,Rabi,NPK 19-19-19
+Laterite Soil,Rice,15,80,31,5.4,3.84,26,34,Zaid,Urea
+Red Soil,Tomato,127,10,11,8.5,2.5,25,22,Zaid,DAP
+Clay Soil,Banana,111,18,23,7.2,1.13,70,40,Kharif,DAP
+Loamy Soil,Cotton,12,40,30,5.9,3.51,57,25,Rabi,Urea
+Sandy Soil,Tomato,48,29,10,8.0,2.83,50,21,Kharif,Urea
+Loamy Soil,Tomato,64,37,56,5.4,3.45,68,29,Zaid,Organic Neem Cake
+Black Soil,Tomato,47,28,45,7.3,0.91,69,35,Kharif,Urea
+Sandy Soil,Sugarcane,106,69,75,5.4,0.65,23,33,Zaid,Organic Neem Cake
+Clay Soil,Potato,95,55,76,6.0,2.49,29,36,Kharif,NPK 19-19-19
+Laterite Soil,Corn,67,11,75,5.7,2.52,15,29,Zaid,DAP
+Clay Soil,Cotton,35,81,67,5.4,2.71,64,30,Rabi,Urea
+Laterite Soil,Corn,35,42,58,7.5,1.52,71,25,Kharif,Urea
+Loamy Soil,Tomato,118,95,45,6.4,1.33,31,33,Kharif,NPK 19-19-19
+Red Soil,Wheat,39,35,23,5.9,1.69,40,28,Zaid,Urea
+Laterite Soil,Wheat,77,72,75,8.1,1.7,21,19,Rabi,NPK 19-19-19
+Loamy Soil,Groundnut,20,93,11,7.8,3.62,29,20,Zaid,Urea
+Laterite Soil,Banana,50,77,12,7.8,1.43,54,26,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Banana,58,29,34,8.3,1.15,26,34,Kharif,DAP
+Laterite Soil,Groundnut,15,24,22,7.4,3.55,45,18,Zaid,NPK 19-19-19
+Red Soil,Corn,66,27,80,6.6,2.86,33,36,Kharif,DAP
+Black Soil,Onion,70,77,45,5.2,1.29,56,23,Zaid,Organic Neem Cake
+Red Soil,Potato,56,28,22,8.1,1.03,53,33,Rabi,DAP
+Sandy Soil,Rice,128,51,33,7.2,2.22,39,27,Rabi,Zinc Sulfate
+Black Soil,Tomato,84,69,78,8.1,3.27,65,26,Zaid,NPK 19-19-19
+Clay Soil,Banana,52,54,13,5.9,2.5,53,26,Zaid,MOP (Muriate of Potash)
+Black Soil,Wheat,127,40,49,5.6,0.75,30,23,Zaid,Organic Neem Cake
+Loamy Soil,Tomato,53,97,61,8.4,2.74,55,19,Zaid,NPK 19-19-19
+Loamy Soil,Wheat,68,77,68,6.7,3.74,69,23,Kharif,NPK 19-19-19
+Laterite Soil,Corn,117,85,60,7.9,1.32,49,33,Zaid,NPK 19-19-19
+Laterite Soil,Wheat,108,28,45,5.1,1.23,46,37,Rabi,DAP
+Loamy Soil,Banana,73,53,49,8.1,1.76,73,36,Kharif,NPK 19-19-19
+Black Soil,Potato,49,54,78,5.5,1.13,24,31,Kharif,Urea
+Clay Soil,Groundnut,20,54,70,7.6,2.98,72,25,Rabi,Urea
+Clay Soil,Cotton,52,77,39,7.5,1.84,67,24,Kharif,NPK 19-19-19
+Laterite Soil,Wheat,130,55,13,8.1,1.62,67,27,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,51,13,36,5.6,2.47,22,34,Rabi,Urea
+Clay Soil,Wheat,107,74,22,5.3,3.87,74,23,Rabi,MOP (Muriate of Potash)
+Clay Soil,Onion,88,16,29,8.1,0.64,54,24,Rabi,DAP
+Sandy Soil,Cotton,108,60,69,6.8,1.24,49,37,Rabi,NPK 19-19-19
+Laterite Soil,Corn,56,43,43,6.8,3.59,27,25,Kharif,NPK 19-19-19
+Sandy Soil,Cotton,40,61,14,7.5,3.7,68,26,Zaid,Urea
+Laterite Soil,Banana,131,24,65,8.2,3.91,59,31,Kharif,DAP
+Red Soil,Corn,117,73,21,6.3,3.32,48,32,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Rice,52,79,49,8.5,0.96,43,40,Kharif,Vermicompost
+Sandy Soil,Onion,41,46,67,7.4,3.94,15,18,Zaid,Urea
+Black Soil,Corn,88,17,70,8.0,1.94,27,28,Rabi,DAP
+Red Soil,Wheat,66,70,40,7.8,2.61,23,28,Kharif,NPK 19-19-19
+Laterite Soil,Potato,87,69,60,6.9,2.04,25,29,Zaid,NPK 19-19-19
+Clay Soil,Groundnut,53,68,13,7.8,2.14,64,30,Rabi,MOP (Muriate of Potash)
+Red Soil,Corn,75,100,49,5.9,1.09,62,31,Rabi,Vermicompost
+Black Soil,Rice,118,96,72,8.0,1.53,46,37,Rabi,Zinc Sulfate
+Red Soil,Sugarcane,42,38,21,5.1,1.54,66,40,Kharif,Urea
+Sandy Soil,Banana,77,22,28,5.3,1.06,19,30,Rabi,NPK 19-19-19
+Red Soil,Tomato,57,55,73,6.8,2.46,37,30,Zaid,NPK 19-19-19
+Laterite Soil,Tomato,18,37,58,8.5,3.95,17,21,Zaid,Urea
+Black Soil,Rice,131,18,72,6.3,3.1,53,19,Zaid,DAP
+Loamy Soil,Groundnut,100,38,60,7.1,1.93,71,37,Rabi,DAP
+Loamy Soil,Cotton,22,40,30,6.6,2.41,24,27,Zaid,Urea
+Clay Soil,Groundnut,38,95,60,7.8,2.72,20,28,Zaid,Urea
+Black Soil,Corn,133,97,30,7.6,1.36,69,32,Kharif,NPK 19-19-19
+Clay Soil,Tomato,56,67,80,6.3,3.98,26,22,Rabi,NPK 19-19-19
+Laterite Soil,Banana,69,24,12,6.3,3.82,72,22,Rabi,DAP
+Clay Soil,Banana,50,92,77,7.4,1.16,73,32,Rabi,Vermicompost
+Black Soil,Onion,118,79,22,6.2,1.16,40,21,Rabi,MOP (Muriate of Potash)
+Red Soil,Sugarcane,137,15,47,7.7,1.43,70,18,Rabi,DAP
+Sandy Soil,Cotton,70,30,37,8.3,1.97,36,38,Zaid,DAP
+Clay Soil,Banana,42,18,27,6.0,3.07,19,27,Zaid,NPK 19-19-19
+Clay Soil,Sugarcane,140,30,41,7.3,1.03,43,19,Rabi,DAP
+Sandy Soil,Wheat,26,82,72,6.0,2.88,72,21,Zaid,Urea
+Black Soil,Groundnut,27,93,43,7.5,2.18,66,33,Rabi,Urea
+Loamy Soil,Wheat,14,10,76,6.8,2.29,39,18,Zaid,NPK 19-19-19
+Clay Soil,Potato,21,96,59,7.5,2.2,37,24,Zaid,Urea
+Clay Soil,Groundnut,45,95,44,6.5,2.07,66,21,Kharif,Urea
+Sandy Soil,Groundnut,87,43,28,6.2,3.82,25,23,Zaid,MOP (Muriate of Potash)
+Clay Soil,Wheat,76,50,13,7.6,0.98,18,36,Zaid,Vermicompost
+Red Soil,Banana,94,62,79,6.5,1.05,41,34,Zaid,Vermicompost
+Sandy Soil,Cotton,62,45,16,7.9,3.53,31,26,Rabi,MOP (Muriate of Potash)
+Red Soil,Cotton,23,26,50,7.2,3.94,46,27,Zaid,NPK 19-19-19
+Sandy Soil,Cotton,32,84,52,5.8,0.94,60,30,Zaid,Urea
+Laterite Soil,Cotton,74,16,36,5.6,3.4,73,38,Kharif,DAP
+Black Soil,Corn,84,67,43,5.6,1.73,56,30,Rabi,Organic Neem Cake
+Sandy Soil,Tomato,60,58,57,5.4,0.62,21,39,Kharif,Vermicompost
+Clay Soil,Rice,16,36,40,7.5,3.13,35,27,Zaid,Urea
+Red Soil,Rice,81,39,52,7.1,2.07,63,37,Rabi,Zinc Sulfate
+Sandy Soil,Corn,61,38,59,8.5,3.69,71,24,Zaid,NPK 19-19-19
+Sandy Soil,Corn,39,35,62,5.6,3.31,26,38,Zaid,Urea
+Clay Soil,Tomato,37,98,38,5.0,2.02,55,31,Kharif,Urea
+Laterite Soil,Tomato,60,40,31,6.9,3.95,60,34,Kharif,NPK 19-19-19
+Sandy Soil,Sugarcane,43,84,22,7.7,2.61,52,29,Zaid,Urea
+Black Soil,Sugarcane,65,23,76,6.4,1.68,32,26,Zaid,DAP
+Black Soil,Cotton,133,74,38,5.8,2.63,29,31,Rabi,NPK 19-19-19
+Sandy Soil,Wheat,122,13,16,7.6,0.82,37,34,Rabi,DAP
+Sandy Soil,Wheat,90,39,79,6.8,1.65,54,39,Zaid,Zinc Sulfate
+Red Soil,Onion,117,31,16,8.2,0.65,19,22,Kharif,DAP
+Laterite Soil,Banana,28,45,63,6.4,3.16,71,28,Rabi,Urea
+Loamy Soil,Corn,94,50,67,7.2,2.05,19,25,Kharif,NPK 19-19-19
+Loamy Soil,Onion,35,65,18,6.4,0.65,37,19,Zaid,Urea
+Black Soil,Groundnut,34,49,56,6.7,1.52,53,26,Rabi,Urea
+Clay Soil,Rice,101,56,59,7.9,0.88,22,21,Zaid,Vermicompost
+Red Soil,Potato,44,60,76,5.2,3.4,32,25,Kharif,Urea
+Red Soil,Sugarcane,73,21,13,5.2,0.88,42,30,Zaid,DAP
+Sandy Soil,Wheat,42,41,32,8.4,2.24,16,33,Zaid,Urea
+Red Soil,Banana,135,70,23,5.3,3.45,41,21,Rabi,MOP (Muriate of Potash)
+Red Soil,Onion,83,58,24,5.7,1.01,61,18,Zaid,MOP (Muriate of Potash)
+Red Soil,Sugarcane,83,87,30,8.0,1.87,42,32,Kharif,NPK 19-19-19
+Loamy Soil,Wheat,31,31,50,8.3,2.51,40,27,Kharif,NPK 19-19-19
+Sandy Soil,Corn,63,20,49,6.2,1.86,39,19,Kharif,DAP
+Sandy Soil,Potato,126,88,14,8.1,3.06,33,40,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Potato,52,87,12,7.2,1.81,41,19,Rabi,MOP (Muriate of Potash)
+Red Soil,Sugarcane,124,51,18,5.1,1.12,50,23,Kharif,MOP (Muriate of Potash)
+Clay Soil,Cotton,75,80,31,7.5,2.11,74,19,Kharif,NPK 19-19-19
+Loamy Soil,Rice,97,47,19,7.8,3.36,53,24,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Onion,31,62,12,6.7,2.63,21,29,Kharif,Urea
+Sandy Soil,Potato,68,11,75,7.6,2.08,66,39,Rabi,DAP
+Black Soil,Banana,123,34,31,8.1,2.07,64,36,Rabi,DAP
+Loamy Soil,Groundnut,33,34,55,6.0,0.66,19,26,Rabi,NPK 19-19-19
+Sandy Soil,Tomato,140,37,20,7.1,1.08,46,23,Rabi,MOP (Muriate of Potash)
+Red Soil,Cotton,69,26,50,5.1,3.32,22,27,Kharif,DAP
+Laterite Soil,Wheat,92,47,23,6.9,1.47,69,30,Kharif,MOP (Muriate of Potash)
+Black Soil,Groundnut,94,84,34,5.3,1.35,49,29,Rabi,Organic Neem Cake
+Sandy Soil,Rice,140,88,11,5.3,3.91,15,38,Zaid,MOP (Muriate of Potash)
+Black Soil,Potato,106,98,78,8.2,2.05,28,29,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,101,48,62,8.0,1.84,25,18,Zaid,Zinc Sulfate
+Laterite Soil,Banana,30,22,23,5.7,2.1,75,30,Zaid,Vermicompost
+Clay Soil,Cotton,51,73,52,6.1,0.75,34,24,Kharif,Vermicompost
+Sandy Soil,Potato,124,56,58,5.3,3.36,54,26,Rabi,Organic Neem Cake
+Clay Soil,Onion,105,67,42,5.8,3.03,36,34,Kharif,NPK 19-19-19
+Clay Soil,Banana,47,72,54,5.2,1.19,75,34,Kharif,Urea
+Laterite Soil,Corn,126,55,34,8.4,2.13,74,26,Zaid,NPK 19-19-19
+Black Soil,Corn,88,39,22,8.0,0.77,59,29,Rabi,MOP (Muriate of Potash)
+Clay Soil,Rice,81,21,26,7.7,3.48,67,37,Rabi,DAP
+Loamy Soil,Tomato,68,75,59,5.0,2.48,36,28,Kharif,Organic Neem Cake
+Loamy Soil,Wheat,47,76,65,7.0,2.24,21,18,Zaid,Urea
+Black Soil,Onion,136,65,27,6.4,3.65,60,24,Rabi,MOP (Muriate of Potash)
+Black Soil,Rice,14,55,60,7.7,2.76,58,20,Kharif,Urea
+Sandy Soil,Potato,55,88,33,5.9,2.26,59,35,Zaid,NPK 19-19-19
+Black Soil,Potato,117,36,45,5.2,1.06,38,39,Kharif,Organic Neem Cake
+Laterite Soil,Groundnut,92,83,19,6.2,3.78,65,28,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Cotton,32,58,22,8.3,2.84,49,34,Kharif,Urea
+Loamy Soil,Groundnut,22,65,35,6.9,3.34,23,40,Kharif,Urea
+Black Soil,Banana,58,78,59,6.4,3.02,63,21,Zaid,NPK 19-19-19
+Loamy Soil,Cotton,95,59,32,8.3,3.44,57,37,Zaid,NPK 19-19-19
+Red Soil,Cotton,71,88,62,5.7,3.76,19,19,Rabi,Organic Neem Cake
+Clay Soil,Potato,137,80,20,8.0,3.21,17,36,Kharif,MOP (Muriate of Potash)
+Black Soil,Cotton,81,83,44,7.0,2.63,38,21,Kharif,Urea
+Sandy Soil,Banana,38,93,10,6.0,4.0,39,30,Zaid,Urea
+Red Soil,Groundnut,118,79,48,5.5,3.72,27,39,Kharif,Organic Neem Cake
+Sandy Soil,Sugarcane,19,77,77,8.3,2.08,65,28,Kharif,Urea
+Clay Soil,Sugarcane,32,22,19,8.0,0.97,74,18,Kharif,NPK 19-19-19
+Black Soil,Wheat,125,57,34,5.7,2.6,47,20,Zaid,Organic Neem Cake
+Laterite Soil,Wheat,58,76,78,6.4,3.98,47,30,Zaid,NPK 19-19-19
+Clay Soil,Tomato,52,49,13,6.8,2.02,43,37,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Corn,45,67,80,8.4,1.02,70,33,Zaid,Urea
+Clay Soil,Cotton,79,76,12,6.6,1.56,67,21,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Potato,111,78,34,7.5,1.96,22,39,Rabi,NPK 19-19-19
+Laterite Soil,Groundnut,40,71,24,5.2,2.18,68,35,Rabi,Urea
+Sandy Soil,Rice,113,62,58,7.6,1.99,35,30,Rabi,Zinc Sulfate
+Black Soil,Sugarcane,140,29,76,5.2,3.61,54,32,Zaid,DAP
+Laterite Soil,Potato,53,26,16,5.5,2.56,29,23,Rabi,DAP
+Sandy Soil,Rice,131,88,76,6.8,1.23,33,23,Rabi,Zinc Sulfate
+Sandy Soil,Onion,132,97,30,6.3,3.48,54,24,Rabi,NPK 19-19-19
+Loamy Soil,Corn,135,77,46,5.9,1.5,48,36,Rabi,NPK 19-19-19
+Black Soil,Tomato,103,70,15,7.3,3.2,73,37,Kharif,MOP (Muriate of Potash)
+Red Soil,Onion,107,69,24,6.3,1.28,28,21,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Wheat,75,91,68,5.7,2.5,22,33,Rabi,Organic Neem Cake
+Laterite Soil,Sugarcane,42,40,54,5.6,2.8,26,24,Zaid,Urea
+Clay Soil,Banana,129,28,10,5.8,3.36,31,24,Zaid,DAP
+Laterite Soil,Banana,12,47,13,8.0,2.52,68,34,Kharif,Urea
+Laterite Soil,Groundnut,118,64,80,6.9,2.16,15,22,Kharif,NPK 19-19-19
+Laterite Soil,Groundnut,131,56,68,8.4,3.67,23,26,Zaid,NPK 19-19-19
+Red Soil,Groundnut,46,29,45,5.4,3.02,46,36,Zaid,Urea
+Sandy Soil,Banana,109,81,57,5.6,2.85,67,27,Zaid,Organic Neem Cake
+Sandy Soil,Tomato,50,89,55,7.0,3.83,59,19,Kharif,NPK 19-19-19
+Clay Soil,Wheat,45,41,22,5.4,1.43,66,18,Kharif,Urea
+Sandy Soil,Banana,93,100,19,8.1,1.29,41,31,Kharif,MOP (Muriate of Potash)
+Clay Soil,Corn,117,78,62,5.3,3.58,55,32,Zaid,Organic Neem Cake
+Clay Soil,Wheat,118,20,69,6.0,3.08,67,38,Kharif,DAP
+Loamy Soil,Wheat,82,91,67,7.7,3.03,36,25,Zaid,Zinc Sulfate
+Sandy Soil,Onion,98,36,69,6.3,2.03,50,19,Rabi,NPK 19-19-19
+Red Soil,Groundnut,54,57,44,8.1,3.02,36,29,Rabi,NPK 19-19-19
+Clay Soil,Cotton,77,90,47,5.8,3.76,30,28,Zaid,NPK 19-19-19
+Sandy Soil,Sugarcane,10,65,61,8.0,2.9,20,32,Rabi,Urea
+Clay Soil,Corn,72,60,77,5.7,1.42,51,20,Zaid,Organic Neem Cake
+Laterite Soil,Onion,55,75,68,7.7,2.45,69,39,Rabi,NPK 19-19-19
+Loamy Soil,Potato,92,80,31,6.4,2.63,38,35,Kharif,NPK 19-19-19
+Laterite Soil,Sugarcane,89,74,29,8.1,0.85,16,26,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Rice,108,18,16,7.6,3.35,66,20,Kharif,DAP
+Red Soil,Tomato,106,93,15,7.7,1.2,29,25,Rabi,MOP (Muriate of Potash)
+Black Soil,Banana,27,41,45,8.1,1.74,55,23,Zaid,Urea
+Sandy Soil,Rice,112,92,55,8.4,2.45,55,29,Zaid,Zinc Sulfate
+Sandy Soil,Groundnut,115,51,29,5.4,2.52,70,35,Rabi,MOP (Muriate of Potash)
+Red Soil,Groundnut,73,47,22,5.3,3.51,31,23,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Banana,88,46,24,7.0,1.99,18,28,Rabi,MOP (Muriate of Potash)
+Red Soil,Cotton,128,51,43,5.8,3.18,73,22,Kharif,NPK 19-19-19
+Red Soil,Wheat,47,64,75,7.0,1.37,23,38,Kharif,Urea
+Black Soil,Cotton,33,63,70,8.0,2.96,50,21,Kharif,Urea
+Sandy Soil,Groundnut,89,19,77,7.2,2.5,73,30,Rabi,DAP
+Loamy Soil,Onion,84,87,41,6.0,3.7,53,32,Zaid,NPK 19-19-19
+Laterite Soil,Rice,68,78,43,5.8,1.82,74,35,Kharif,NPK 19-19-19
+Sandy Soil,Potato,124,50,37,8.3,2.86,30,34,Zaid,NPK 19-19-19
+Laterite Soil,Groundnut,60,62,47,8.2,2.13,54,34,Rabi,NPK 19-19-19
+Clay Soil,Tomato,139,65,63,6.2,1.5,50,20,Rabi,NPK 19-19-19
+Clay Soil,Groundnut,54,25,17,6.4,1.42,63,38,Rabi,DAP
+Laterite Soil,Banana,71,33,40,8.4,1.32,59,26,Rabi,DAP
+Clay Soil,Rice,20,41,43,7.7,3.59,18,24,Rabi,Urea
+Red Soil,Cotton,39,78,68,6.4,2.52,44,32,Rabi,Urea
+Clay Soil,Groundnut,98,42,24,8.1,2.57,38,31,Kharif,MOP (Muriate of Potash)
+Red Soil,Sugarcane,19,85,37,8.2,3.65,48,22,Zaid,Urea
+Clay Soil,Rice,117,59,22,7.3,2.2,28,25,Zaid,MOP (Muriate of Potash)
+Black Soil,Tomato,115,55,37,5.4,2.42,33,30,Rabi,Organic Neem Cake
+Clay Soil,Rice,100,80,61,6.8,0.85,38,26,Rabi,Vermicompost
+Loamy Soil,Cotton,100,89,35,6.1,2.81,19,37,Rabi,Organic Neem Cake
+Loamy Soil,Corn,126,28,24,5.3,1.87,28,19,Zaid,DAP
+Clay Soil,Corn,41,93,44,7.5,3.49,37,40,Kharif,Urea
+Black Soil,Sugarcane,109,40,38,5.9,2.98,57,38,Kharif,NPK 19-19-19
+Clay Soil,Banana,64,100,33,7.1,1.86,26,18,Kharif,NPK 19-19-19
+Sandy Soil,Banana,92,82,36,7.1,2.16,54,32,Rabi,NPK 19-19-19
+Clay Soil,Groundnut,121,62,78,8.1,2.11,66,37,Zaid,NPK 19-19-19
+Loamy Soil,Cotton,23,60,16,7.1,1.65,47,19,Kharif,Urea
+Loamy Soil,Onion,75,11,50,6.4,3.36,60,28,Kharif,DAP
+Laterite Soil,Corn,48,74,71,8.4,2.68,24,34,Kharif,Urea
+Red Soil,Wheat,39,12,15,6.8,1.92,47,30,Rabi,NPK 19-19-19
+Red Soil,Sugarcane,91,11,50,6.1,2.05,31,24,Kharif,DAP
+Loamy Soil,Potato,117,31,11,6.5,1.07,72,26,Kharif,DAP
+Black Soil,Onion,79,10,58,5.1,2.66,15,23,Kharif,DAP
+Laterite Soil,Banana,74,63,31,5.2,1.53,57,30,Kharif,Organic Neem Cake
+Clay Soil,Sugarcane,32,96,28,6.5,2.62,21,32,Zaid,Urea
+Red Soil,Cotton,72,56,28,6.7,2.14,34,30,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Potato,65,70,51,6.2,0.75,64,37,Zaid,Vermicompost
+Loamy Soil,Wheat,61,96,25,7.4,2.78,56,19,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Onion,136,11,32,7.6,1.72,37,26,Zaid,DAP
+Red Soil,Banana,93,80,77,6.0,0.66,74,19,Rabi,Vermicompost
+Loamy Soil,Banana,96,10,67,7.7,0.58,64,37,Zaid,DAP
+Red Soil,Potato,123,99,56,6.3,3.15,31,34,Zaid,NPK 19-19-19
+Clay Soil,Rice,46,38,17,8.4,3.86,24,25,Rabi,Urea
+Laterite Soil,Onion,49,90,74,5.8,2.46,32,29,Zaid,Urea
+Sandy Soil,Potato,12,25,15,8.4,3.03,45,35,Kharif,NPK 19-19-19
+Loamy Soil,Sugarcane,75,43,13,7.7,2.47,26,22,Rabi,MOP (Muriate of Potash)
+Red Soil,Banana,90,88,44,6.7,1.39,71,18,Zaid,NPK 19-19-19
+Red Soil,Tomato,132,18,33,7.7,3.02,50,32,Zaid,Vermicompost
+Loamy Soil,Banana,91,62,38,6.7,1.89,29,38,Rabi,NPK 19-19-19
+Clay Soil,Corn,137,65,27,7.9,2.38,70,23,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Banana,40,85,35,5.1,3.71,16,33,Kharif,Urea
+Sandy Soil,Sugarcane,112,70,24,6.4,3.92,59,22,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Onion,18,65,42,8.4,2.95,61,33,Rabi,Urea
+Red Soil,Tomato,102,15,59,7.5,2.57,51,21,Kharif,DAP
+Sandy Soil,Groundnut,45,61,74,6.5,3.39,30,34,Rabi,Urea
+Black Soil,Onion,125,18,17,7.5,3.67,74,22,Zaid,DAP
+Laterite Soil,Sugarcane,32,15,32,7.1,2.95,61,36,Zaid,NPK 19-19-19
+Clay Soil,Banana,91,11,75,7.4,2.06,30,26,Zaid,DAP
+Loamy Soil,Rice,61,95,75,8.4,2.2,62,22,Rabi,NPK 19-19-19
+Laterite Soil,Groundnut,120,22,78,6.9,2.1,71,22,Kharif,DAP
+Sandy Soil,Cotton,90,42,49,6.5,3.32,49,28,Kharif,NPK 19-19-19
+Black Soil,Groundnut,63,40,77,5.7,3.94,22,20,Zaid,Organic Neem Cake
+Black Soil,Potato,76,51,29,5.1,2.08,43,32,Rabi,MOP (Muriate of Potash)
+Red Soil,Wheat,118,74,32,8.4,2.53,22,18,Kharif,Zinc Sulfate
+Laterite Soil,Potato,47,78,10,5.7,2.76,65,37,Zaid,Urea
+Laterite Soil,Rice,67,52,16,8.4,1.24,37,40,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Tomato,74,33,77,5.3,2.86,44,27,Rabi,DAP
+Red Soil,Cotton,11,88,14,6.8,2.3,63,38,Rabi,Urea
+Sandy Soil,Rice,72,92,37,5.2,2.48,69,33,Rabi,Organic Neem Cake
+Sandy Soil,Tomato,134,80,17,5.5,0.81,66,21,Zaid,MOP (Muriate of Potash)
+Black Soil,Banana,139,48,53,8.0,2.46,31,29,Zaid,NPK 19-19-19
+Black Soil,Banana,119,67,59,8.1,2.55,26,35,Rabi,NPK 19-19-19
+Loamy Soil,Cotton,29,67,60,6.4,3.04,61,34,Rabi,Urea
+Black Soil,Sugarcane,138,30,30,5.1,3.15,74,28,Kharif,DAP
+Sandy Soil,Cotton,47,35,38,5.6,1.01,37,20,Zaid,Urea
+Clay Soil,Corn,13,87,30,7.3,2.99,35,24,Zaid,Organic Neem Cake
+Laterite Soil,Groundnut,20,92,77,5.3,3.06,28,26,Rabi,Urea
+Clay Soil,Tomato,19,95,71,7.2,0.54,22,33,Kharif,Urea
+Laterite Soil,Groundnut,94,78,43,7.7,2.5,41,34,Zaid,NPK 19-19-19
+Loamy Soil,Banana,134,39,53,5.4,0.62,17,31,Rabi,Organic Neem Cake
+Red Soil,Cotton,121,45,20,5.5,1.41,21,37,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Onion,54,37,38,6.7,3.14,56,20,Kharif,NPK 19-19-19
+Loamy Soil,Corn,54,91,53,6.5,2.66,32,24,Kharif,DAP
+Clay Soil,Tomato,91,44,41,7.5,1.84,67,32,Kharif,NPK 19-19-19
+Loamy Soil,Tomato,33,22,52,8.5,3.94,33,25,Kharif,Urea
+Sandy Soil,Potato,43,10,36,7.2,3.75,73,22,Rabi,NPK 19-19-19
+Loamy Soil,Onion,101,90,71,6.1,2.23,31,26,Rabi,NPK 19-19-19
+Loamy Soil,Onion,70,97,66,5.9,3.01,43,40,Rabi,NPK 19-19-19
+Sandy Soil,Rice,134,19,44,7.0,1.48,73,24,Rabi,DAP
+Red Soil,Rice,17,86,71,7.8,0.75,25,22,Kharif,Urea
+Loamy Soil,Potato,96,77,10,6.9,1.61,42,22,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Onion,18,66,45,6.7,1.33,71,33,Zaid,Urea
+Red Soil,Rice,32,17,46,6.8,1.58,66,22,Rabi,NPK 19-19-19
+Laterite Soil,Onion,131,61,31,5.7,2.76,21,35,Rabi,Organic Neem Cake
+Loamy Soil,Sugarcane,104,49,24,5.4,2.07,32,23,Kharif,MOP (Muriate of Potash)
+Black Soil,Sugarcane,112,70,15,7.5,1.58,62,31,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Cotton,104,71,56,5.7,2.76,43,31,Zaid,Organic Neem Cake
+Clay Soil,Groundnut,111,48,34,6.9,1.4,46,29,Rabi,NPK 19-19-19
+Red Soil,Cotton,101,43,26,5.3,2.8,71,29,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,70,82,37,5.7,1.95,52,26,Kharif,Organic Neem Cake
+Loamy Soil,Onion,20,62,38,7.4,2.58,69,28,Rabi,Urea
+Black Soil,Corn,79,75,43,8.1,3.56,73,39,Rabi,NPK 19-19-19
+Sandy Soil,Groundnut,49,89,38,6.8,2.82,16,25,Zaid,Urea
+Clay Soil,Rice,48,49,50,5.1,3.25,58,38,Zaid,Urea
+Laterite Soil,Tomato,100,30,35,8.5,2.59,68,21,Kharif,DAP
+Black Soil,Tomato,13,76,45,8.0,2.76,42,28,Kharif,Urea
+Laterite Soil,Tomato,66,15,11,8.1,1.42,48,32,Rabi,DAP
+Clay Soil,Banana,100,32,31,5.2,0.87,31,26,Kharif,DAP
+Red Soil,Rice,129,33,43,7.9,0.78,42,37,Zaid,DAP
+Clay Soil,Cotton,17,75,30,5.6,1.67,19,28,Rabi,Urea
+Clay Soil,Sugarcane,105,14,39,8.4,1.1,26,40,Rabi,DAP
+Red Soil,Cotton,86,100,14,6.2,2.7,58,27,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Corn,24,67,25,6.3,1.22,71,32,Zaid,Urea
+Loamy Soil,Potato,92,47,79,6.4,0.94,33,20,Zaid,Vermicompost
+Sandy Soil,Rice,46,100,71,5.7,2.62,34,22,Rabi,Urea
+Laterite Soil,Sugarcane,58,40,77,8.2,3.56,33,26,Kharif,NPK 19-19-19
+Red Soil,Potato,82,64,61,5.3,3.05,44,38,Zaid,Organic Neem Cake
+Black Soil,Wheat,136,71,48,8.3,1.61,74,35,Rabi,Zinc Sulfate
+Laterite Soil,Onion,12,92,66,7.5,1.01,73,37,Kharif,Urea
+Sandy Soil,Potato,101,87,32,5.3,3.1,30,36,Kharif,Organic Neem Cake
+Clay Soil,Onion,87,66,34,5.9,2.76,70,31,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,123,62,39,5.2,2.29,22,23,Rabi,Organic Neem Cake
+Red Soil,Tomato,117,57,25,6.4,2.82,51,24,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Groundnut,78,47,22,6.7,2.86,27,31,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Corn,15,66,74,6.0,3.42,47,18,Kharif,NPK 19-19-19
+Clay Soil,Cotton,24,42,49,8.4,1.24,53,30,Zaid,Urea
+Black Soil,Rice,56,23,61,8.5,0.95,30,26,Kharif,DAP
+Sandy Soil,Wheat,110,97,73,8.3,2.74,53,35,Rabi,Zinc Sulfate
+Loamy Soil,Rice,134,70,65,7.7,2.21,41,36,Zaid,Zinc Sulfate
+Red Soil,Sugarcane,36,21,68,8.5,0.8,31,22,Rabi,NPK 19-19-19
+Laterite Soil,Cotton,59,49,36,7.1,1.46,62,20,Zaid,NPK 19-19-19
+Clay Soil,Potato,131,46,43,6.8,2.57,17,38,Zaid,NPK 19-19-19
+Sandy Soil,Cotton,127,69,32,8.4,1.01,74,24,Rabi,Vermicompost
+Clay Soil,Onion,19,45,13,7.8,2.63,60,39,Kharif,Urea
+Laterite Soil,Rice,103,89,13,7.0,0.55,40,32,Kharif,MOP (Muriate of Potash)
+Clay Soil,Groundnut,93,43,21,7.9,2.79,37,31,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,36,97,61,7.6,1.1,52,24,Rabi,Urea
+Sandy Soil,Sugarcane,111,73,17,6.6,2.1,72,34,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,19,28,77,6.8,3.73,53,27,Zaid,Urea
+Laterite Soil,Banana,98,47,22,8.1,2.48,71,39,Kharif,MOP (Muriate of Potash)
+Red Soil,Tomato,59,38,50,5.5,3.17,60,34,Kharif,Organic Neem Cake
+Loamy Soil,Groundnut,80,83,72,7.5,2.2,47,25,Zaid,NPK 19-19-19
+Black Soil,Sugarcane,113,63,79,7.4,3.73,61,33,Zaid,NPK 19-19-19
+Red Soil,Groundnut,98,88,80,5.1,2.58,16,40,Zaid,Organic Neem Cake
+Sandy Soil,Groundnut,82,55,46,5.7,1.38,20,25,Zaid,Organic Neem Cake
+Loamy Soil,Onion,135,45,79,5.4,2.84,44,26,Kharif,Organic Neem Cake
+Red Soil,Onion,50,23,52,7.4,1.97,53,39,Kharif,DAP
+Red Soil,Banana,59,83,42,6.6,1.18,68,29,Kharif,Vermicompost
+Red Soil,Cotton,115,39,13,5.5,2.68,53,23,Zaid,MOP (Muriate of Potash)
+Black Soil,Onion,74,81,43,5.8,1.77,50,26,Kharif,NPK 19-19-19
+Sandy Soil,Cotton,107,78,28,7.4,1.1,39,21,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Wheat,42,38,78,5.9,1.84,54,25,Zaid,Urea
+Laterite Soil,Rice,49,31,58,5.0,1.08,31,21,Kharif,Urea
+Loamy Soil,Rice,91,25,25,8.5,0.92,69,39,Kharif,DAP
+Clay Soil,Potato,99,88,68,7.2,2.43,55,18,Kharif,NPK 19-19-19
+Clay Soil,Potato,61,56,63,5.3,1.04,18,24,Zaid,Organic Neem Cake
+Black Soil,Cotton,58,84,22,5.0,0.64,65,40,Zaid,MOP (Muriate of Potash)
+Black Soil,Tomato,15,30,38,7.8,2.38,65,32,Rabi,NPK 19-19-19
+Clay Soil,Onion,57,26,33,6.9,2.36,40,31,Kharif,DAP
+Sandy Soil,Onion,82,39,79,6.0,3.73,48,22,Rabi,NPK 19-19-19
+Clay Soil,Cotton,84,78,30,5.4,3.46,18,29,Kharif,Organic Neem Cake
+Red Soil,Potato,115,93,65,6.2,3.31,27,36,Zaid,NPK 19-19-19
+Laterite Soil,Sugarcane,20,27,67,6.4,3.47,38,38,Kharif,NPK 19-19-19
+Loamy Soil,Tomato,44,78,26,7.0,1.79,70,32,Kharif,Urea
+Red Soil,Onion,19,33,56,5.3,0.52,70,21,Rabi,NPK 19-19-19
+Red Soil,Corn,46,47,70,7.5,1.67,68,19,Zaid,Urea
+Sandy Soil,Sugarcane,65,53,65,5.9,2.03,49,18,Zaid,NPK 19-19-19
+Loamy Soil,Cotton,66,36,32,6.3,3.54,51,35,Rabi,NPK 19-19-19
+Loamy Soil,Tomato,53,69,25,5.7,2.35,69,25,Rabi,MOP (Muriate of Potash)
+Black Soil,Wheat,42,19,42,5.6,0.58,56,40,Kharif,NPK 19-19-19
+Loamy Soil,Rice,31,22,12,8.5,1.09,42,28,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,58,31,65,6.1,0.5,49,33,Rabi,DAP
+Loamy Soil,Rice,84,38,69,8.3,2.0,42,20,Zaid,Zinc Sulfate
+Loamy Soil,Onion,19,55,50,7.7,3.34,69,25,Rabi,Urea
+Black Soil,Tomato,20,36,42,5.2,1.95,25,27,Rabi,Urea
+Laterite Soil,Banana,27,31,70,7.0,2.0,45,23,Zaid,NPK 19-19-19
+Laterite Soil,Rice,128,95,20,8.4,0.62,25,32,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Potato,81,80,62,6.7,3.11,18,37,Rabi,NPK 19-19-19
+Red Soil,Cotton,22,61,11,8.2,2.05,17,21,Zaid,Urea
+Red Soil,Groundnut,140,54,26,6.7,3.45,65,27,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Groundnut,96,64,52,7.6,1.52,21,28,Zaid,Urea
+Loamy Soil,Onion,48,96,44,5.7,0.75,45,32,Rabi,Urea
+Loamy Soil,Wheat,139,28,25,6.3,3.19,22,27,Zaid,DAP
+Laterite Soil,Cotton,16,57,34,5.9,2.42,35,18,Rabi,Urea
+Loamy Soil,Onion,118,37,62,6.1,0.53,63,21,Kharif,Vermicompost
+Sandy Soil,Potato,10,61,70,6.2,2.5,65,18,Rabi,Urea
+Sandy Soil,Cotton,26,57,62,7.3,2.8,39,40,Kharif,Urea
+Laterite Soil,Potato,71,32,17,5.0,2.84,36,21,Zaid,DAP
+Clay Soil,Banana,11,34,23,6.8,0.81,42,29,Zaid,NPK 19-19-19
+Clay Soil,Corn,83,99,51,7.9,1.95,22,40,Kharif,NPK 19-19-19
+Black Soil,Potato,105,17,29,7.0,3.88,45,28,Rabi,DAP
+Laterite Soil,Sugarcane,111,34,56,8.1,1.6,21,25,Rabi,DAP
+Sandy Soil,Cotton,44,19,45,5.2,1.97,58,28,Zaid,NPK 19-19-19
+Sandy Soil,Sugarcane,134,34,54,8.4,0.88,52,32,Rabi,DAP
+Sandy Soil,Potato,45,28,40,8.1,1.4,58,38,Kharif,Urea
+Red Soil,Wheat,54,18,60,5.9,2.83,29,20,Rabi,DAP
+Black Soil,Potato,86,49,42,7.5,2.29,37,38,Kharif,NPK 19-19-19
+Sandy Soil,Onion,10,31,28,6.6,3.14,27,39,Kharif,NPK 19-19-19
+Clay Soil,Wheat,98,49,57,6.3,1.92,64,27,Rabi,Zinc Sulfate
+Laterite Soil,Banana,110,94,17,5.3,1.7,49,36,Zaid,MOP (Muriate of Potash)
+Clay Soil,Wheat,93,51,56,5.2,3.03,42,19,Kharif,Organic Neem Cake
+Red Soil,Tomato,112,44,16,5.2,2.29,52,38,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Groundnut,110,77,57,7.1,2.96,34,36,Rabi,NPK 19-19-19
+Black Soil,Banana,98,55,24,7.3,2.41,58,31,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Tomato,123,22,42,6.1,1.3,17,25,Rabi,DAP
+Sandy Soil,Rice,86,82,19,6.1,2.88,39,30,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Potato,119,46,10,6.7,3.84,52,39,Kharif,NPK 19-19-19
+Red Soil,Sugarcane,35,41,22,7.4,3.52,17,35,Kharif,Urea
+Red Soil,Groundnut,85,82,63,6.9,1.44,50,39,Zaid,NPK 19-19-19
+Clay Soil,Potato,87,44,65,6.6,2.33,31,29,Kharif,NPK 19-19-19
+Sandy Soil,Corn,39,47,14,5.2,2.4,34,38,Zaid,DAP
+Loamy Soil,Potato,94,53,15,6.8,3.99,40,20,Zaid,NPK 19-19-19
+Laterite Soil,Rice,32,90,24,6.1,3.53,21,39,Kharif,Urea
+Sandy Soil,Corn,22,96,17,5.5,2.77,44,34,Zaid,Urea
+Loamy Soil,Corn,55,17,74,6.5,3.85,69,33,Zaid,DAP
+Laterite Soil,Sugarcane,78,38,22,7.4,3.22,70,38,Zaid,MOP (Muriate of Potash)
+Black Soil,Cotton,62,49,34,7.1,2.91,50,40,Zaid,NPK 19-19-19
+Laterite Soil,Onion,37,16,18,5.9,1.06,43,34,Kharif,Urea
+Clay Soil,Corn,37,14,77,7.4,3.55,17,39,Rabi,NPK 19-19-19
+Loamy Soil,Groundnut,108,20,19,7.4,1.4,20,33,Rabi,DAP
+Clay Soil,Sugarcane,84,93,63,5.5,2.41,41,25,Kharif,Organic Neem Cake
+Laterite Soil,Groundnut,25,89,33,8.4,1.12,45,38,Kharif,Urea
+Laterite Soil,Banana,46,14,44,8.1,0.82,17,31,Kharif,Urea
+Clay Soil,Onion,62,57,60,7.3,1.38,41,33,Kharif,NPK 19-19-19
+Sandy Soil,Potato,27,17,76,5.2,1.26,40,28,Kharif,NPK 19-19-19
+Black Soil,Potato,116,15,27,6.5,3.86,23,34,Kharif,DAP
+Black Soil,Banana,81,45,71,5.6,0.76,30,33,Kharif,Organic Neem Cake
+Clay Soil,Sugarcane,104,67,27,8.3,1.26,30,27,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Onion,96,27,44,8.1,1.24,26,31,Zaid,DAP
+Clay Soil,Rice,74,96,11,6.8,0.8,66,21,Kharif,MOP (Muriate of Potash)
+Red Soil,Sugarcane,51,46,49,8.4,3.53,56,31,Kharif,NPK 19-19-19
+Laterite Soil,Onion,52,46,19,5.2,2.94,43,27,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Corn,110,11,24,7.5,2.45,62,21,Zaid,DAP
+Laterite Soil,Wheat,40,74,66,7.8,2.18,72,35,Zaid,Urea
+Clay Soil,Sugarcane,27,35,37,5.1,3.65,63,22,Rabi,Urea
+Red Soil,Sugarcane,75,80,59,7.0,2.97,64,20,Kharif,NPK 19-19-19
+Laterite Soil,Groundnut,95,81,15,6.9,0.77,34,26,Kharif,MOP (Muriate of Potash)
+Black Soil,Cotton,65,92,59,8.2,3.92,57,39,Kharif,NPK 19-19-19
+Sandy Soil,Wheat,57,85,69,8.3,0.74,52,33,Kharif,Vermicompost
+Clay Soil,Banana,58,35,71,6.8,1.5,36,24,Rabi,NPK 19-19-19
+Laterite Soil,Tomato,124,43,57,8.1,2.46,16,29,Rabi,NPK 19-19-19
+Black Soil,Wheat,74,40,17,7.9,3.87,53,39,Rabi,MOP (Muriate of Potash)
+Black Soil,Banana,95,67,30,6.4,2.72,27,22,Rabi,NPK 19-19-19
+Red Soil,Sugarcane,53,56,29,8.1,3.97,58,22,Kharif,MOP (Muriate of Potash)
+Clay Soil,Tomato,96,53,63,5.7,1.12,51,40,Zaid,Organic Neem Cake
+Sandy Soil,Cotton,32,37,24,7.0,3.17,64,23,Rabi,Urea
+Sandy Soil,Corn,97,22,47,8.2,1.75,52,25,Kharif,DAP
+Loamy Soil,Corn,117,51,62,7.3,1.16,16,19,Rabi,Vermicompost
+Loamy Soil,Potato,130,30,21,5.0,3.04,67,29,Zaid,DAP
+Red Soil,Sugarcane,121,49,67,6.2,0.56,70,21,Rabi,Vermicompost
+Loamy Soil,Potato,42,35,61,7.7,1.18,60,38,Zaid,Urea
+Loamy Soil,Banana,111,67,73,6.6,1.44,55,26,Zaid,NPK 19-19-19
+Laterite Soil,Banana,39,24,61,7.8,3.3,59,21,Rabi,NPK 19-19-19
+Sandy Soil,Corn,24,92,28,7.7,0.97,25,30,Zaid,Urea
+Black Soil,Wheat,73,67,80,7.9,3.47,25,39,Rabi,NPK 19-19-19
+Sandy Soil,Onion,104,57,42,7.0,2.91,28,35,Zaid,NPK 19-19-19
+Red Soil,Cotton,14,34,38,7.3,3.49,33,19,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,80,23,36,5.9,3.55,24,29,Zaid,DAP
+Black Soil,Sugarcane,139,80,44,6.8,1.26,40,24,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,30,66,17,5.5,1.39,23,26,Rabi,Urea
+Red Soil,Cotton,61,34,72,5.1,1.84,62,22,Kharif,DAP
+Sandy Soil,Banana,134,35,17,6.7,2.48,54,32,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Tomato,114,99,32,7.3,0.83,30,19,Zaid,Vermicompost
+Sandy Soil,Wheat,91,18,38,7.4,1.2,38,18,Kharif,DAP
+Sandy Soil,Wheat,118,16,80,5.1,0.92,75,35,Rabi,DAP
+Red Soil,Rice,49,25,67,8.0,0.79,21,40,Rabi,Urea
+Laterite Soil,Onion,61,52,54,5.4,2.2,20,40,Kharif,Organic Neem Cake
+Red Soil,Groundnut,17,54,14,7.7,2.15,74,22,Zaid,Urea
+Black Soil,Rice,33,89,61,6.6,1.79,58,23,Kharif,Urea
+Black Soil,Cotton,71,66,26,5.2,2.34,43,34,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Wheat,25,21,52,7.3,2.04,50,24,Kharif,NPK 19-19-19
+Black Soil,Rice,34,72,22,7.4,0.71,33,30,Kharif,Urea
+Red Soil,Sugarcane,27,64,79,7.8,3.46,61,24,Zaid,Urea
+Red Soil,Potato,53,44,18,8.3,2.74,18,18,Kharif,MOP (Muriate of Potash)
+Red Soil,Sugarcane,36,49,78,8.3,3.9,37,38,Rabi,Urea
+Laterite Soil,Tomato,30,63,20,8.5,3.69,17,27,Zaid,Urea
+Sandy Soil,Sugarcane,64,19,73,6.9,2.4,17,18,Kharif,DAP
+Sandy Soil,Groundnut,36,87,43,6.2,0.57,27,18,Kharif,Urea
+Sandy Soil,Onion,13,54,22,8.1,2.73,59,30,Rabi,Urea
+Black Soil,Banana,41,56,18,6.0,3.01,31,35,Kharif,Urea
+Clay Soil,Potato,94,11,80,7.0,1.17,32,19,Zaid,DAP
+Loamy Soil,Cotton,112,15,36,5.3,0.92,69,35,Rabi,DAP
+Laterite Soil,Cotton,127,11,75,7.2,0.89,19,29,Rabi,DAP
+Sandy Soil,Groundnut,121,32,63,8.1,3.36,64,31,Rabi,DAP
+Sandy Soil,Potato,111,82,38,8.3,1.73,40,26,Kharif,NPK 19-19-19
+Red Soil,Corn,103,65,65,5.7,3.58,41,21,Rabi,Organic Neem Cake
+Laterite Soil,Rice,114,29,35,6.3,2.96,38,34,Rabi,DAP
+Laterite Soil,Cotton,98,59,74,5.2,3.72,68,21,Rabi,Organic Neem Cake
+Black Soil,Cotton,139,92,65,6.4,0.93,72,28,Zaid,Vermicompost
+Red Soil,Onion,23,16,23,6.7,2.4,68,33,Zaid,NPK 19-19-19
+Red Soil,Corn,43,61,69,8.4,1.88,47,23,Zaid,Urea
+Clay Soil,Cotton,104,82,22,5.6,0.52,42,23,Zaid,MOP (Muriate of Potash)
+Clay Soil,Cotton,95,71,42,6.6,0.51,46,22,Zaid,Vermicompost
+Sandy Soil,Sugarcane,34,38,11,5.9,2.86,16,27,Kharif,Urea
+Red Soil,Groundnut,96,71,63,7.6,3.19,22,39,Kharif,NPK 19-19-19
+Sandy Soil,Rice,47,29,25,6.8,3.59,69,40,Zaid,Urea
+Laterite Soil,Corn,66,31,68,8.4,2.87,74,26,Zaid,DAP
+Clay Soil,Wheat,83,50,54,6.8,3.31,39,39,Zaid,Zinc Sulfate
+Sandy Soil,Onion,101,92,44,6.6,2.87,34,26,Rabi,NPK 19-19-19
+Black Soil,Sugarcane,67,94,64,8.5,2.6,31,26,Kharif,NPK 19-19-19
+Laterite Soil,Banana,72,80,39,8.0,0.63,21,34,Rabi,Vermicompost
+Red Soil,Tomato,48,70,54,5.1,2.67,53,32,Zaid,Urea
+Loamy Soil,Banana,101,35,19,6.8,3.42,74,20,Rabi,MOP (Muriate of Potash)
+Clay Soil,Corn,69,56,78,6.3,3.17,29,26,Zaid,NPK 19-19-19
+Red Soil,Wheat,28,97,19,5.4,1.36,38,19,Zaid,Urea
+Red Soil,Cotton,13,49,14,5.5,2.17,41,37,Rabi,Urea
+Loamy Soil,Banana,126,89,43,8.3,3.29,65,26,Rabi,NPK 19-19-19
+Red Soil,Tomato,34,71,19,5.8,3.34,46,40,Rabi,Urea
+Clay Soil,Banana,70,79,20,5.2,0.76,24,36,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Potato,55,29,11,6.5,3.8,26,34,Rabi,DAP
+Clay Soil,Banana,108,99,27,6.0,1.99,73,20,Zaid,NPK 19-19-19
+Sandy Soil,Potato,36,67,79,5.2,3.93,30,26,Zaid,Urea
+Clay Soil,Potato,116,83,12,7.6,2.4,59,25,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Sugarcane,115,45,42,7.7,3.26,61,19,Kharif,NPK 19-19-19
+Black Soil,Rice,83,66,18,6.8,2.08,71,28,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Onion,126,44,37,5.2,2.28,70,34,Rabi,Organic Neem Cake
+Loamy Soil,Corn,94,91,11,6.9,1.71,69,32,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,109,37,39,6.3,3.02,72,34,Kharif,DAP
+Red Soil,Potato,101,14,30,6.3,3.57,49,19,Zaid,DAP
+Clay Soil,Potato,104,47,35,7.8,2.91,65,29,Zaid,NPK 19-19-19
+Loamy Soil,Rice,82,60,14,6.1,1.71,16,24,Rabi,MOP (Muriate of Potash)
+Red Soil,Rice,29,92,21,7.8,3.48,33,19,Kharif,Urea
+Red Soil,Corn,19,91,67,6.6,2.23,71,21,Zaid,Urea
+Loamy Soil,Wheat,42,27,16,8.2,3.02,75,27,Rabi,NPK 19-19-19
+Loamy Soil,Banana,54,31,45,8.2,1.55,54,30,Kharif,DAP
+Laterite Soil,Corn,58,73,26,7.1,0.97,58,38,Zaid,MOP (Muriate of Potash)
+Clay Soil,Wheat,104,29,14,7.2,2.48,61,32,Kharif,DAP
+Laterite Soil,Onion,129,45,69,7.1,3.69,39,31,Zaid,NPK 19-19-19
+Black Soil,Potato,93,25,29,6.0,2.16,37,33,Kharif,DAP
+Red Soil,Corn,39,73,67,5.2,0.86,68,31,Kharif,Urea
+Clay Soil,Potato,120,39,49,7.6,3.86,40,30,Kharif,NPK 19-19-19
+Sandy Soil,Cotton,83,56,64,5.6,3.33,67,20,Rabi,Organic Neem Cake
+Black Soil,Cotton,128,25,51,6.4,2.43,30,22,Rabi,DAP
+Sandy Soil,Rice,113,62,40,6.5,1.21,39,21,Zaid,Zinc Sulfate
+Laterite Soil,Onion,122,10,38,7.6,2.51,34,32,Rabi,DAP
+Loamy Soil,Sugarcane,61,85,51,7.6,1.06,59,38,Kharif,Vermicompost
+Sandy Soil,Cotton,127,29,56,6.4,0.51,47,38,Rabi,DAP
+Red Soil,Tomato,70,23,45,6.6,1.63,63,24,Zaid,DAP
+Loamy Soil,Potato,137,69,67,8.0,3.7,41,19,Kharif,NPK 19-19-19
+Clay Soil,Tomato,83,14,20,6.3,3.11,34,35,Kharif,DAP
+Black Soil,Sugarcane,77,48,71,6.1,1.04,52,28,Kharif,Vermicompost
+Red Soil,Corn,50,63,66,7.9,2.66,22,38,Zaid,NPK 19-19-19
+Laterite Soil,Banana,51,28,34,5.2,2.12,44,19,Rabi,DAP
+Laterite Soil,Groundnut,82,44,64,7.4,1.57,27,36,Kharif,NPK 19-19-19
+Red Soil,Wheat,86,37,60,8.4,1.16,65,37,Zaid,Vermicompost
+Red Soil,Potato,40,40,33,5.5,1.13,75,19,Rabi,Urea
+Laterite Soil,Onion,128,20,43,6.2,3.09,52,32,Kharif,DAP
+Loamy Soil,Banana,40,68,47,5.0,2.39,69,23,Zaid,Urea
+Red Soil,Sugarcane,43,30,78,7.9,3.89,32,26,Rabi,NPK 19-19-19
+Laterite Soil,Rice,65,26,76,7.3,2.51,72,20,Rabi,DAP
+Sandy Soil,Potato,111,21,28,8.1,1.81,39,18,Rabi,DAP
+Loamy Soil,Wheat,18,62,75,7.0,0.77,69,24,Kharif,Urea
+Laterite Soil,Tomato,37,88,45,5.9,1.16,52,33,Rabi,Urea
+Red Soil,Cotton,104,17,56,5.2,2.31,38,37,Kharif,DAP
+Red Soil,Groundnut,99,74,74,5.5,3.21,33,27,Kharif,Organic Neem Cake
+Black Soil,Cotton,10,87,20,6.7,0.73,31,33,Rabi,Urea
+Red Soil,Wheat,125,17,75,7.8,2.42,35,34,Rabi,DAP
+Clay Soil,Rice,118,75,52,5.4,3.26,41,26,Rabi,Organic Neem Cake
+Clay Soil,Cotton,61,19,40,8.2,3.61,20,26,Zaid,DAP
+Loamy Soil,Groundnut,119,58,67,6.2,1.02,17,30,Zaid,NPK 19-19-19
+Sandy Soil,Groundnut,129,41,34,5.9,3.57,67,31,Zaid,NPK 19-19-19
+Red Soil,Groundnut,96,16,52,5.4,2.18,56,39,Kharif,DAP
+Laterite Soil,Onion,133,87,69,6.9,2.33,25,40,Zaid,NPK 19-19-19
+Black Soil,Corn,12,16,73,5.2,2.12,34,39,Rabi,NPK 19-19-19
+Loamy Soil,Corn,94,45,19,7.2,1.91,47,26,Zaid,MOP (Muriate of Potash)
+Black Soil,Sugarcane,86,97,18,7.7,2.55,16,30,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Rice,17,19,13,7.2,1.07,71,27,Zaid,NPK 19-19-19
+Black Soil,Tomato,120,46,56,8.5,3.74,56,26,Zaid,NPK 19-19-19
+Sandy Soil,Banana,57,76,19,5.2,1.79,65,27,Zaid,MOP (Muriate of Potash)
+Clay Soil,Onion,70,80,47,5.5,1.68,34,24,Kharif,Organic Neem Cake
+Laterite Soil,Tomato,67,26,46,8.2,1.78,61,23,Zaid,DAP
+Black Soil,Potato,113,44,43,5.7,1.79,49,25,Kharif,Organic Neem Cake
+Laterite Soil,Potato,132,72,29,7.8,1.55,71,40,Zaid,Organic Neem Cake
+Black Soil,Tomato,75,35,58,8.0,1.71,30,26,Rabi,NPK 19-19-19
+Loamy Soil,Groundnut,112,98,60,6.2,2.4,35,39,Kharif,DAP
+Black Soil,Sugarcane,83,16,17,6.2,3.96,58,26,Kharif,DAP
+Loamy Soil,Banana,78,90,47,7.2,1.22,71,39,Zaid,NPK 19-19-19
+Black Soil,Wheat,38,52,67,6.0,1.76,20,20,Kharif,Organic Neem Cake
+Sandy Soil,Rice,72,31,40,7.2,0.69,27,26,Zaid,DAP
+Laterite Soil,Cotton,27,61,75,8.0,2.12,29,38,Rabi,Urea
+Loamy Soil,Potato,96,57,33,5.4,2.9,21,29,Zaid,Organic Neem Cake
+Red Soil,Onion,80,29,29,5.1,3.94,15,23,Kharif,DAP
+Loamy Soil,Potato,96,75,10,6.4,2.16,54,34,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Cotton,108,79,52,6.0,3.03,61,35,Zaid,NPK 19-19-19
+Sandy Soil,Banana,23,91,78,7.3,2.52,37,34,Zaid,Urea
+Red Soil,Banana,101,79,62,5.7,1.99,55,25,Rabi,Organic Neem Cake
+Laterite Soil,Wheat,25,40,42,5.1,0.64,26,23,Zaid,Urea
+Sandy Soil,Groundnut,68,37,74,8.4,2.8,56,25,Rabi,NPK 19-19-19
+Laterite Soil,Potato,23,79,19,5.1,3.16,47,19,Rabi,Urea
+Black Soil,Groundnut,69,34,15,7.5,1.26,48,24,Zaid,DAP
+Red Soil,Cotton,108,64,12,8.2,1.86,38,33,Kharif,MOP (Muriate of Potash)
+Clay Soil,Tomato,50,61,13,8.1,2.98,31,33,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,84,64,33,6.6,2.98,28,22,Zaid,NPK 19-19-19
+Clay Soil,Cotton,117,81,59,8.1,1.94,19,24,Zaid,NPK 19-19-19
+Clay Soil,Banana,136,32,15,7.5,2.51,60,20,Zaid,DAP
+Loamy Soil,Groundnut,99,52,36,8.1,3.97,19,40,Zaid,NPK 19-19-19
+Black Soil,Corn,101,95,54,5.7,3.11,52,22,Rabi,Organic Neem Cake
+Laterite Soil,Wheat,69,60,42,5.3,3.52,29,23,Kharif,Organic Neem Cake
+Sandy Soil,Banana,81,49,17,5.0,3.01,59,34,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Banana,114,71,35,8.0,2.82,61,39,Kharif,NPK 19-19-19
+Loamy Soil,Sugarcane,113,55,78,7.8,1.07,67,20,Kharif,Vermicompost
+Red Soil,Banana,101,100,47,7.7,3.36,69,38,Kharif,NPK 19-19-19
+Sandy Soil,Potato,86,70,55,8.5,3.84,52,23,Zaid,NPK 19-19-19
+Clay Soil,Onion,53,57,49,7.1,2.44,65,20,Rabi,NPK 19-19-19
+Red Soil,Rice,39,23,52,5.6,1.63,47,22,Rabi,NPK 19-19-19
+Sandy Soil,Banana,104,74,32,6.5,3.04,20,31,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,91,52,60,6.3,0.52,39,39,Rabi,DAP
+Red Soil,Wheat,139,13,75,8.4,3.49,52,18,Kharif,DAP
+Black Soil,Onion,36,21,32,8.1,1.15,71,27,Rabi,NPK 19-19-19
+Loamy Soil,Cotton,10,27,70,7.5,2.58,66,26,Zaid,NPK 19-19-19
+Black Soil,Banana,25,39,16,5.6,1.85,55,22,Rabi,Urea
+Red Soil,Tomato,140,100,22,7.9,0.59,59,27,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Rice,116,41,12,5.2,2.63,28,24,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Tomato,65,95,75,7.0,1.7,40,31,Zaid,NPK 19-19-19
+Red Soil,Onion,76,95,18,8.3,1.68,23,26,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Potato,101,82,46,7.0,1.8,16,18,Rabi,NPK 19-19-19
+Clay Soil,Wheat,136,35,25,5.3,2.04,35,27,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Potato,98,77,17,5.1,2.98,22,38,Rabi,MOP (Muriate of Potash)
+Black Soil,Wheat,115,78,22,6.2,3.22,25,34,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,66,19,62,5.6,3.96,69,35,Rabi,DAP
+Clay Soil,Rice,84,81,29,7.9,1.87,59,23,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Sugarcane,116,40,28,7.0,0.56,27,27,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Potato,131,61,78,7.5,3.0,52,24,Kharif,NPK 19-19-19
+Clay Soil,Potato,122,13,15,7.8,1.22,58,35,Kharif,DAP
+Clay Soil,Sugarcane,55,77,45,7.1,2.84,38,18,Kharif,NPK 19-19-19
+Black Soil,Sugarcane,52,49,30,5.4,3.46,19,34,Zaid,Organic Neem Cake
+Clay Soil,Sugarcane,133,30,45,8.3,3.72,37,23,Rabi,DAP
+Red Soil,Banana,33,42,32,6.7,1.87,50,23,Zaid,Urea
+Black Soil,Corn,95,32,39,5.2,1.74,21,24,Zaid,DAP
+Clay Soil,Banana,88,72,31,7.3,2.12,74,19,Kharif,NPK 19-19-19
+Black Soil,Onion,73,26,76,5.6,0.72,61,18,Zaid,DAP
+Sandy Soil,Wheat,110,49,59,5.8,2.35,67,37,Zaid,Zinc Sulfate
+Red Soil,Potato,56,49,38,6.6,3.37,66,40,Kharif,Urea
+Clay Soil,Corn,81,23,32,7.5,1.29,47,23,Kharif,DAP
+Clay Soil,Tomato,64,93,33,6.3,1.44,64,26,Zaid,NPK 19-19-19
+Black Soil,Banana,135,44,24,6.1,0.87,40,25,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,117,42,23,6.9,2.9,39,28,Zaid,MOP (Muriate of Potash)
+Clay Soil,Potato,41,36,27,8.2,1.33,49,31,Zaid,Urea
+Red Soil,Rice,97,85,64,7.1,2.82,49,20,Zaid,Zinc Sulfate
+Laterite Soil,Cotton,117,58,41,6.4,1.69,57,27,Kharif,NPK 19-19-19
+Red Soil,Wheat,31,52,72,6.4,2.24,17,40,Zaid,Urea
+Black Soil,Potato,95,19,19,6.9,0.62,72,29,Zaid,DAP
+Laterite Soil,Rice,44,77,56,6.2,1.06,22,31,Rabi,Urea
+Laterite Soil,Onion,110,31,31,7.3,3.12,60,37,Zaid,DAP
+Red Soil,Tomato,57,37,79,7.0,1.45,36,35,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,66,67,21,8.4,1.45,46,31,Zaid,MOP (Muriate of Potash)
+Clay Soil,Onion,140,16,76,6.5,1.11,18,28,Kharif,DAP
+Sandy Soil,Banana,132,10,59,6.0,3.77,71,21,Rabi,DAP
+Laterite Soil,Tomato,89,52,63,5.6,2.48,22,26,Rabi,Organic Neem Cake
+Sandy Soil,Cotton,19,68,77,5.2,3.82,73,19,Kharif,Urea
+Sandy Soil,Wheat,87,31,41,6.5,0.66,59,23,Kharif,DAP
+Laterite Soil,Onion,131,45,49,7.9,3.59,29,31,Rabi,NPK 19-19-19
+Black Soil,Sugarcane,72,76,44,8.3,3.88,58,20,Rabi,NPK 19-19-19
+Loamy Soil,Tomato,51,54,12,6.0,1.04,57,20,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Corn,33,24,34,7.7,3.27,45,32,Rabi,NPK 19-19-19
+Loamy Soil,Cotton,11,95,50,8.5,1.9,49,35,Kharif,Organic Neem Cake
+Black Soil,Wheat,26,73,68,5.4,2.24,21,29,Zaid,Urea
+Sandy Soil,Onion,13,58,10,8.3,3.69,66,28,Zaid,Urea
+Laterite Soil,Cotton,66,78,19,7.1,2.42,26,27,Kharif,Vermicompost
+Red Soil,Potato,28,46,25,5.2,2.89,69,27,Zaid,Urea
+Laterite Soil,Cotton,56,17,10,8.1,1.15,40,33,Kharif,DAP
+Loamy Soil,Groundnut,87,37,34,5.3,3.2,38,18,Zaid,Organic Neem Cake
+Loamy Soil,Groundnut,63,64,19,7.7,1.31,65,24,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Onion,57,33,12,7.7,1.81,37,18,Zaid,DAP
+Sandy Soil,Cotton,118,49,11,5.8,2.83,59,29,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Tomato,115,85,27,6.1,3.51,51,39,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Tomato,69,78,30,8.2,3.03,74,30,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,102,82,57,6.9,2.48,28,36,Rabi,Zinc Sulfate
+Laterite Soil,Rice,22,92,45,6.8,1.3,31,40,Rabi,Urea
+Loamy Soil,Groundnut,86,20,80,5.0,2.95,41,18,Zaid,DAP
+Loamy Soil,Wheat,87,11,59,6.1,3.9,57,31,Kharif,Vermicompost
+Red Soil,Rice,38,32,32,7.4,0.58,58,24,Rabi,Urea
+Loamy Soil,Corn,49,28,36,7.1,2.87,35,27,Zaid,Urea
+Sandy Soil,Groundnut,83,60,47,6.6,0.7,35,18,Rabi,Urea
+Loamy Soil,Tomato,28,21,72,5.9,3.19,71,40,Rabi,NPK 19-19-19
+Red Soil,Wheat,129,13,34,5.8,0.62,19,27,Kharif,DAP
+Black Soil,Banana,126,72,15,6.8,2.73,45,21,Kharif,MOP (Muriate of Potash)
+Clay Soil,Groundnut,67,44,29,6.8,2.58,26,36,Rabi,MOP (Muriate of Potash)
+Red Soil,Tomato,116,41,21,8.4,0.61,28,25,Kharif,MOP (Muriate of Potash)
+Black Soil,Corn,22,52,21,5.4,2.92,17,23,Kharif,Urea
+Red Soil,Sugarcane,93,22,14,7.1,1.27,35,24,Zaid,DAP
+Loamy Soil,Onion,44,11,77,6.3,1.43,59,29,Zaid,NPK 19-19-19
+Clay Soil,Potato,135,57,28,7.9,3.07,30,38,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Potato,44,91,61,5.8,1.29,60,29,Rabi,Urea
+Black Soil,Corn,47,50,21,5.7,0.83,15,35,Kharif,Urea
+Loamy Soil,Tomato,130,63,42,7.5,2.8,62,35,Zaid,NPK 19-19-19
+Black Soil,Sugarcane,75,99,72,5.7,2.31,59,37,Rabi,Organic Neem Cake
+Sandy Soil,Cotton,72,90,36,7.6,3.57,24,31,Kharif,NPK 19-19-19
+Black Soil,Corn,21,74,56,6.4,2.25,33,23,Rabi,Urea
+Sandy Soil,Wheat,136,26,41,6.6,1.72,64,34,Rabi,DAP
+Loamy Soil,Potato,98,15,24,6.5,2.67,51,36,Rabi,DAP
+Black Soil,Wheat,106,26,40,5.4,3.38,35,20,Zaid,Urea
+Clay Soil,Banana,88,25,57,8.0,3.45,31,39,Kharif,DAP
+Sandy Soil,Onion,140,80,71,6.2,2.86,24,21,Kharif,NPK 19-19-19
+Laterite Soil,Onion,41,64,80,7.5,0.87,50,24,Rabi,Urea
+Loamy Soil,Banana,43,70,25,5.8,1.64,24,39,Kharif,Urea
+Clay Soil,Onion,122,57,53,7.6,3.33,50,20,Rabi,NPK 19-19-19
+Clay Soil,Tomato,108,21,70,7.8,2.81,70,35,Rabi,DAP
+Black Soil,Tomato,137,31,71,5.8,3.58,16,19,Rabi,DAP
+Sandy Soil,Wheat,98,98,73,7.4,3.93,30,34,Kharif,Zinc Sulfate
+Sandy Soil,Onion,26,38,41,7.7,2.65,45,25,Kharif,Organic Neem Cake
+Clay Soil,Groundnut,134,53,68,7.2,0.56,53,33,Kharif,Vermicompost
+Red Soil,Wheat,25,95,18,7.4,2.4,70,26,Rabi,Urea
+Black Soil,Onion,21,96,38,7.0,1.46,31,30,Zaid,Urea
+Black Soil,Wheat,104,81,52,8.1,0.97,32,28,Rabi,Vermicompost
+Sandy Soil,Groundnut,131,82,63,6.5,0.65,55,37,Zaid,Vermicompost
+Red Soil,Cotton,20,73,26,8.0,3.34,34,39,Kharif,Urea
+Red Soil,Banana,15,76,78,7.4,2.83,51,21,Kharif,Urea
+Laterite Soil,Rice,27,48,71,6.4,0.63,39,29,Kharif,Urea
+Red Soil,Rice,98,54,11,7.4,2.39,72,27,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Rice,104,47,26,6.7,2.51,48,20,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Cotton,50,86,79,5.4,3.19,45,18,Kharif,Organic Neem Cake
+Red Soil,Corn,65,56,52,5.0,1.2,65,36,Rabi,Organic Neem Cake
+Laterite Soil,Onion,56,77,30,5.5,0.92,49,26,Zaid,Organic Neem Cake
+Red Soil,Groundnut,83,62,71,6.1,2.74,36,21,Rabi,NPK 19-19-19
+Laterite Soil,Onion,125,43,71,7.7,3.14,38,22,Rabi,NPK 19-19-19
+Loamy Soil,Banana,103,21,60,7.7,1.37,67,20,Zaid,DAP
+Loamy Soil,Rice,121,13,28,6.5,3.15,25,40,Rabi,Organic Neem Cake
+Clay Soil,Groundnut,118,88,39,6.0,3.11,18,39,Zaid,NPK 19-19-19
+Black Soil,Onion,59,95,35,7.5,0.99,58,35,Rabi,Vermicompost
+Loamy Soil,Wheat,135,61,67,8.0,2.22,38,30,Rabi,Zinc Sulfate
+Black Soil,Cotton,46,96,15,5.2,1.98,29,32,Kharif,Urea
+Black Soil,Cotton,50,83,29,5.3,0.85,73,39,Rabi,MOP (Muriate of Potash)
+Black Soil,Potato,84,65,64,7.4,2.63,16,32,Rabi,NPK 19-19-19
+Laterite Soil,Tomato,64,90,27,6.1,3.41,55,40,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Banana,64,19,70,8.0,0.66,39,36,Rabi,DAP
+Red Soil,Banana,69,34,30,8.4,2.72,29,27,Rabi,DAP
+Clay Soil,Rice,115,38,52,8.2,0.59,33,19,Rabi,Vermicompost
+Clay Soil,Sugarcane,47,52,51,6.7,2.98,58,35,Kharif,Urea
+Black Soil,Tomato,18,94,21,7.4,1.16,21,19,Rabi,Urea
+Laterite Soil,Rice,81,79,54,8.0,1.2,15,32,Kharif,Zinc Sulfate
+Laterite Soil,Tomato,95,56,79,7.8,2.13,67,27,Rabi,NPK 19-19-19
+Red Soil,Groundnut,96,96,73,7.5,1.14,31,19,Rabi,Vermicompost
+Red Soil,Onion,48,92,41,5.6,3.81,20,27,Zaid,Urea
+Black Soil,Wheat,79,48,15,7.3,1.58,62,30,Rabi,MOP (Muriate of Potash)
+Clay Soil,Potato,17,49,51,6.4,2.39,33,28,Rabi,Urea
+Black Soil,Groundnut,84,47,18,5.3,2.24,41,38,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Wheat,36,63,62,7.3,0.57,75,31,Rabi,Urea
+Sandy Soil,Banana,80,100,14,8.2,1.43,59,35,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Rice,18,81,11,8.5,1.49,19,39,Zaid,Urea
+Sandy Soil,Tomato,55,29,61,5.4,1.27,37,27,Zaid,DAP
+Laterite Soil,Onion,129,74,60,7.7,2.77,64,20,Zaid,NPK 19-19-19
+Black Soil,Rice,133,69,40,5.4,2.71,29,35,Rabi,Organic Neem Cake
+Laterite Soil,Sugarcane,24,53,47,8.0,1.35,54,35,Rabi,Urea
+Laterite Soil,Groundnut,11,36,20,7.2,3.68,42,35,Rabi,Urea
+Laterite Soil,Tomato,59,37,52,7.2,2.87,75,27,Kharif,NPK 19-19-19
+Red Soil,Cotton,78,63,25,5.4,0.76,37,22,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Corn,42,53,65,6.2,0.62,50,23,Rabi,Urea
+Black Soil,Potato,65,69,77,6.7,0.71,35,34,Rabi,Vermicompost
+Black Soil,Rice,119,77,36,6.1,2.38,27,38,Zaid,Zinc Sulfate
+Laterite Soil,Corn,130,23,48,6.9,1.6,32,20,Zaid,DAP
+Loamy Soil,Sugarcane,29,71,73,5.1,2.81,72,34,Rabi,Urea
+Red Soil,Sugarcane,12,93,32,5.6,1.41,60,32,Zaid,Urea
+Loamy Soil,Groundnut,30,79,46,7.2,3.18,18,39,Kharif,Urea
+Clay Soil,Corn,78,98,53,7.7,2.65,35,29,Zaid,NPK 19-19-19
+Clay Soil,Groundnut,109,94,33,5.4,2.04,41,28,Rabi,Organic Neem Cake
+Laterite Soil,Onion,121,89,29,5.5,3.57,20,18,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Cotton,92,83,43,7.7,1.23,41,35,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,115,78,57,8.2,3.1,26,25,Rabi,NPK 19-19-19
+Clay Soil,Banana,19,60,38,7.5,1.28,20,36,Kharif,Urea
+Black Soil,Wheat,81,36,32,5.6,1.52,32,21,Kharif,Organic Neem Cake
+Loamy Soil,Sugarcane,89,41,41,5.1,3.47,27,22,Kharif,Organic Neem Cake
+Clay Soil,Cotton,44,75,30,5.0,1.67,17,32,Rabi,Urea
+Sandy Soil,Corn,44,53,22,7.6,0.51,67,31,Kharif,Urea
+Loamy Soil,Cotton,61,17,11,6.4,3.68,34,26,Kharif,DAP
+Black Soil,Corn,62,84,25,5.1,1.85,72,28,Kharif,MOP (Muriate of Potash)
+Red Soil,Onion,69,88,77,5.9,2.0,55,27,Kharif,NPK 19-19-19
+Loamy Soil,Potato,15,98,61,8.2,0.68,74,20,Kharif,Organic Neem Cake
+Clay Soil,Corn,140,54,72,7.4,1.43,15,26,Rabi,DAP
+Loamy Soil,Tomato,20,20,28,5.2,3.7,31,31,Kharif,NPK 19-19-19
+Loamy Soil,Banana,123,26,37,7.7,3.69,25,32,Rabi,DAP
+Black Soil,Tomato,45,100,78,7.8,0.71,20,34,Zaid,Urea
+Red Soil,Onion,80,52,53,7.5,2.38,37,37,Rabi,NPK 19-19-19
+Black Soil,Wheat,119,29,40,6.5,1.81,41,31,Zaid,DAP
+Sandy Soil,Cotton,73,39,58,6.7,1.32,71,25,Kharif,NPK 19-19-19
+Laterite Soil,Groundnut,136,43,79,7.7,3.44,20,37,Kharif,NPK 19-19-19
+Black Soil,Sugarcane,131,75,71,8.2,2.85,64,30,Kharif,NPK 19-19-19
+Red Soil,Tomato,41,87,78,6.4,0.76,49,27,Zaid,Urea
+Black Soil,Sugarcane,97,18,32,8.0,3.4,34,25,Zaid,DAP
+Black Soil,Corn,80,43,30,7.7,1.69,52,36,Zaid,NPK 19-19-19
+Red Soil,Wheat,27,76,31,8.1,2.12,56,34,Kharif,Urea
+Clay Soil,Rice,138,99,29,7.7,2.49,29,27,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,101,52,61,8.0,3.77,36,34,Zaid,NPK 19-19-19
+Black Soil,Tomato,47,42,13,6.3,1.89,71,31,Zaid,Urea
+Sandy Soil,Corn,50,20,46,7.6,1.6,67,40,Zaid,NPK 19-19-19
+Sandy Soil,Banana,50,28,11,5.6,3.18,69,32,Rabi,DAP
+Sandy Soil,Wheat,115,20,12,7.4,2.15,19,35,Zaid,DAP
+Loamy Soil,Corn,139,34,44,5.8,1.07,61,28,Kharif,DAP
+Loamy Soil,Potato,120,68,75,6.1,2.01,74,29,Zaid,NPK 19-19-19
+Laterite Soil,Rice,115,23,77,7.2,2.38,69,23,Zaid,DAP
+Loamy Soil,Rice,24,75,14,7.1,1.59,52,19,Zaid,Urea
+Loamy Soil,Banana,90,33,18,6.4,3.1,61,18,Zaid,DAP
+Laterite Soil,Potato,99,97,27,8.0,2.25,70,26,Zaid,MOP (Muriate of Potash)
+Black Soil,Wheat,88,44,74,6.6,3.36,19,40,Rabi,Zinc Sulfate
+Sandy Soil,Rice,85,45,50,7.4,1.07,29,31,Zaid,Vermicompost
+Laterite Soil,Corn,22,23,75,8.0,0.95,55,39,Kharif,NPK 19-19-19
+Laterite Soil,Sugarcane,105,97,52,5.8,2.26,51,24,Kharif,NPK 19-19-19
+Clay Soil,Onion,124,76,64,6.1,1.23,42,40,Zaid,NPK 19-19-19
+Sandy Soil,Tomato,85,56,52,5.2,0.55,18,28,Zaid,Organic Neem Cake
+Laterite Soil,Onion,119,39,46,8.2,2.64,67,36,Kharif,NPK 19-19-19
+Clay Soil,Onion,11,41,17,7.7,2.74,45,20,Zaid,Urea
+Black Soil,Onion,130,76,39,6.3,2.44,24,20,Zaid,NPK 19-19-19
+Loamy Soil,Groundnut,139,63,43,7.3,3.17,45,26,Zaid,NPK 19-19-19
+Black Soil,Tomato,105,62,23,8.3,0.85,28,38,Rabi,MOP (Muriate of Potash)
+Black Soil,Wheat,115,66,47,6.7,3.82,19,22,Zaid,Zinc Sulfate
+Sandy Soil,Cotton,107,83,53,8.4,0.52,34,34,Kharif,Vermicompost
+Clay Soil,Corn,115,32,30,7.4,1.4,20,29,Rabi,DAP
+Clay Soil,Wheat,10,55,21,6.2,1.33,39,40,Zaid,Urea
+Sandy Soil,Wheat,130,52,28,6.9,1.24,54,31,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Rice,18,43,61,6.0,3.07,72,29,Kharif,Urea
+Loamy Soil,Tomato,78,39,65,7.6,2.05,49,26,Zaid,NPK 19-19-19
+Red Soil,Potato,12,68,61,8.4,0.69,16,37,Rabi,Urea
+Loamy Soil,Onion,39,44,30,7.8,3.79,35,40,Zaid,Urea
+Sandy Soil,Onion,87,85,69,5.3,0.74,29,36,Rabi,Organic Neem Cake
+Red Soil,Rice,67,46,78,7.2,0.97,63,37,Kharif,Vermicompost
+Loamy Soil,Rice,124,71,37,5.1,1.1,39,20,Kharif,Organic Neem Cake
+Loamy Soil,Sugarcane,37,89,67,5.2,2.44,61,35,Rabi,Urea
+Sandy Soil,Cotton,131,23,43,6.2,3.86,47,26,Rabi,DAP
+Clay Soil,Groundnut,52,36,49,6.9,3.07,67,25,Kharif,NPK 19-19-19
+Loamy Soil,Banana,44,45,66,7.5,1.63,39,25,Zaid,Urea
+Black Soil,Tomato,31,39,11,7.2,1.92,63,40,Kharif,Urea
+Laterite Soil,Sugarcane,14,40,67,7.1,1.03,22,31,Zaid,Urea
+Black Soil,Cotton,52,35,64,7.9,3.06,65,29,Rabi,NPK 19-19-19
+Laterite Soil,Groundnut,114,31,70,7.2,1.64,33,29,Kharif,DAP
+Clay Soil,Cotton,37,42,45,5.5,2.64,69,26,Kharif,Urea
+Clay Soil,Groundnut,99,56,62,8.4,3.47,25,30,Zaid,NPK 19-19-19
+Clay Soil,Rice,57,52,64,5.2,2.26,28,30,Zaid,Organic Neem Cake
+Black Soil,Tomato,106,93,69,6.4,3.79,69,28,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,73,56,55,7.1,1.85,51,25,Kharif,NPK 19-19-19
+Loamy Soil,Onion,22,28,60,6.5,3.93,61,21,Zaid,NPK 19-19-19
+Loamy Soil,Wheat,61,57,64,6.7,0.7,16,32,Rabi,Vermicompost
+Black Soil,Corn,83,53,35,7.6,2.43,59,23,Zaid,NPK 19-19-19
+Loamy Soil,Banana,55,19,35,7.2,1.11,48,19,Zaid,DAP
+Laterite Soil,Cotton,41,80,47,5.6,1.2,41,24,Rabi,Urea
+Loamy Soil,Onion,62,57,80,8.4,2.84,21,37,Rabi,NPK 19-19-19
+Laterite Soil,Sugarcane,139,11,43,8.1,2.96,47,25,Zaid,DAP
+Red Soil,Cotton,55,23,37,6.5,2.07,56,19,Kharif,DAP
+Black Soil,Groundnut,113,42,36,8.4,2.86,61,18,Zaid,NPK 19-19-19
+Red Soil,Wheat,133,29,79,8.0,0.93,25,33,Kharif,DAP
+Sandy Soil,Banana,11,21,36,5.9,2.66,36,18,Rabi,NPK 19-19-19
+Black Soil,Rice,109,61,13,7.9,2.16,59,22,Zaid,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,60,31,46,7.1,2.14,19,31,Zaid,DAP
+Laterite Soil,Groundnut,23,93,10,7.8,3.47,46,21,Rabi,Urea
+Laterite Soil,Banana,88,20,75,6.1,3.73,69,38,Rabi,DAP
+Red Soil,Wheat,53,23,60,7.9,1.9,71,38,Zaid,DAP
+Loamy Soil,Tomato,43,43,71,7.0,0.53,65,23,Zaid,Urea
+Laterite Soil,Sugarcane,33,89,11,5.6,1.78,64,40,Rabi,Urea
+Clay Soil,Groundnut,74,34,62,7.1,0.6,37,30,Kharif,DAP
+Clay Soil,Groundnut,110,92,38,7.6,3.69,30,40,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,88,76,31,7.4,0.74,24,40,Zaid,Vermicompost
+Sandy Soil,Tomato,91,25,71,5.2,2.92,25,40,Zaid,DAP
+Clay Soil,Groundnut,118,24,31,6.9,3.75,25,27,Kharif,DAP
+Sandy Soil,Wheat,34,16,17,7.3,2.48,22,39,Zaid,NPK 19-19-19
+Laterite Soil,Rice,12,92,17,5.5,0.9,60,22,Rabi,Urea
+Sandy Soil,Tomato,106,20,51,5.9,1.68,28,21,Kharif,DAP
+Loamy Soil,Potato,78,62,67,7.7,2.82,24,33,Rabi,NPK 19-19-19
+Laterite Soil,Cotton,66,80,68,7.6,2.38,60,27,Kharif,NPK 19-19-19
+Laterite Soil,Cotton,85,41,37,7.5,0.71,62,22,Kharif,Vermicompost
+Clay Soil,Wheat,34,66,26,5.4,2.94,16,31,Kharif,Urea
+Sandy Soil,Sugarcane,66,31,79,6.4,1.52,19,39,Kharif,NPK 19-19-19
+Black Soil,Onion,131,13,76,8.2,1.98,43,30,Rabi,DAP
+Laterite Soil,Tomato,125,16,75,8.3,3.01,18,34,Rabi,DAP
+Sandy Soil,Rice,74,93,45,6.9,0.76,21,31,Kharif,Vermicompost
+Clay Soil,Wheat,54,42,77,8.0,1.05,30,20,Zaid,Vermicompost
+Loamy Soil,Corn,89,95,59,8.0,1.41,59,31,Kharif,DAP
+Sandy Soil,Tomato,111,52,76,8.0,3.58,48,31,Kharif,NPK 19-19-19
+Laterite Soil,Banana,138,95,34,6.4,3.74,73,27,Zaid,NPK 19-19-19
+Red Soil,Rice,37,22,44,5.5,2.66,58,22,Kharif,NPK 19-19-19
+Clay Soil,Potato,27,35,22,5.2,0.53,69,26,Kharif,DAP
+Sandy Soil,Corn,121,32,41,8.4,2.04,48,30,Zaid,DAP
+Clay Soil,Banana,64,97,49,5.3,3.55,27,24,Kharif,Organic Neem Cake
+Red Soil,Groundnut,45,60,40,5.3,3.08,48,32,Rabi,Urea
+Loamy Soil,Sugarcane,78,92,80,6.1,3.22,59,32,Zaid,NPK 19-19-19
+Laterite Soil,Potato,36,35,57,8.5,1.96,16,31,Rabi,Urea
+Loamy Soil,Tomato,61,45,17,5.1,2.35,18,40,Rabi,MOP (Muriate of Potash)
+Clay Soil,Cotton,109,11,70,7.4,0.54,44,34,Rabi,DAP
+Sandy Soil,Corn,53,21,52,5.8,2.99,46,23,Kharif,DAP
+Sandy Soil,Tomato,63,94,42,8.3,1.61,53,29,Zaid,NPK 19-19-19
+Laterite Soil,Corn,41,100,28,7.6,2.57,61,40,Zaid,Urea
+Sandy Soil,Cotton,125,14,14,8.5,3.88,43,21,Rabi,DAP
+Black Soil,Cotton,28,16,51,5.3,3.19,56,25,Zaid,NPK 19-19-19
+Red Soil,Groundnut,21,36,68,5.7,2.55,15,21,Kharif,Urea
+Black Soil,Sugarcane,67,53,50,7.7,2.4,23,35,Rabi,NPK 19-19-19
+Black Soil,Rice,90,59,20,8.4,0.82,23,18,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Corn,88,83,80,8.0,0.52,35,21,Rabi,Vermicompost
+Black Soil,Sugarcane,108,42,58,6.0,2.54,35,38,Kharif,NPK 19-19-19
+Sandy Soil,Cotton,91,40,46,5.2,1.32,32,30,Zaid,Organic Neem Cake
+Clay Soil,Wheat,46,64,66,6.8,1.58,74,25,Rabi,Urea
+Red Soil,Potato,61,43,29,6.5,3.57,23,25,Rabi,MOP (Muriate of Potash)
+Black Soil,Onion,18,100,65,5.2,1.11,19,23,Zaid,Urea
+Clay Soil,Wheat,88,28,38,8.0,1.21,21,40,Kharif,DAP
+Clay Soil,Corn,139,95,37,5.7,4.0,59,31,Kharif,Organic Neem Cake
+Red Soil,Sugarcane,113,99,44,7.0,1.51,17,23,Zaid,NPK 19-19-19
+Loamy Soil,Banana,107,52,77,8.3,0.69,28,21,Zaid,Vermicompost
+Loamy Soil,Groundnut,103,59,76,7.0,1.04,75,32,Zaid,Vermicompost
+Red Soil,Rice,91,16,19,6.0,0.58,40,18,Zaid,DAP
+Black Soil,Onion,88,99,51,6.8,2.05,50,32,Rabi,NPK 19-19-19
+Laterite Soil,Rice,75,25,30,6.6,2.11,34,38,Kharif,DAP
+Black Soil,Tomato,27,42,68,8.4,3.54,58,25,Rabi,Urea
+Sandy Soil,Tomato,23,37,36,5.3,1.25,53,26,Rabi,Urea
+Clay Soil,Groundnut,22,57,42,6.2,3.19,43,18,Rabi,Urea
+Loamy Soil,Wheat,33,78,73,8.2,0.96,59,35,Kharif,Urea
+Laterite Soil,Sugarcane,53,43,46,8.4,3.88,68,18,Kharif,NPK 19-19-19
+Sandy Soil,Banana,138,22,22,5.5,2.39,48,38,Rabi,DAP
+Loamy Soil,Potato,82,86,43,6.7,3.4,67,40,Kharif,NPK 19-19-19
+Clay Soil,Groundnut,121,10,20,6.7,3.37,29,32,Kharif,DAP
+Loamy Soil,Rice,16,13,31,5.8,1.16,19,40,Zaid,NPK 19-19-19
+Clay Soil,Tomato,86,80,14,6.3,1.55,43,24,Zaid,MOP (Muriate of Potash)
+Clay Soil,Cotton,86,64,80,8.3,3.47,25,25,Zaid,NPK 19-19-19
+Clay Soil,Groundnut,55,12,72,5.2,0.65,75,30,Rabi,DAP
+Laterite Soil,Wheat,29,73,10,5.2,3.14,32,20,Rabi,Urea
+Black Soil,Wheat,35,61,51,7.7,2.62,70,37,Rabi,Urea
+Sandy Soil,Rice,18,65,69,8.2,1.46,25,32,Zaid,Urea
+Clay Soil,Potato,28,79,18,8.0,0.94,43,39,Rabi,Urea
+Clay Soil,Tomato,97,33,71,6.9,2.1,28,34,Kharif,DAP
+Loamy Soil,Banana,37,23,67,8.1,2.43,44,27,Kharif,NPK 19-19-19
+Loamy Soil,Corn,55,100,26,6.1,1.44,19,34,Kharif,MOP (Muriate of Potash)
+Red Soil,Cotton,51,48,25,7.1,1.64,35,21,Kharif,MOP (Muriate of Potash)
+Red Soil,Sugarcane,33,22,30,5.3,0.68,57,29,Rabi,NPK 19-19-19
+Red Soil,Sugarcane,75,15,46,5.3,2.79,34,18,Kharif,DAP
+Sandy Soil,Onion,94,99,19,7.1,2.49,27,36,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Corn,18,71,49,7.4,1.87,33,34,Zaid,Urea
+Clay Soil,Banana,12,92,30,6.4,1.37,30,24,Kharif,Urea
+Laterite Soil,Corn,64,32,44,7.3,2.4,59,20,Zaid,DAP
+Sandy Soil,Corn,38,90,15,7.4,2.69,15,36,Kharif,Urea
+Sandy Soil,Sugarcane,96,18,61,7.2,1.26,22,29,Kharif,DAP
+Red Soil,Banana,74,73,11,5.9,2.42,38,27,Rabi,MOP (Muriate of Potash)
+Clay Soil,Wheat,62,53,65,7.7,2.33,55,24,Kharif,NPK 19-19-19
+Red Soil,Groundnut,88,36,44,5.2,3.27,66,39,Zaid,Organic Neem Cake
+Sandy Soil,Sugarcane,71,53,76,6.8,1.82,63,40,Kharif,NPK 19-19-19
+Sandy Soil,Wheat,37,96,26,6.6,0.56,39,21,Zaid,DAP
+Loamy Soil,Potato,93,82,18,7.4,2.95,39,36,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Tomato,57,100,66,7.7,3.89,18,39,Zaid,NPK 19-19-19
+Loamy Soil,Sugarcane,68,36,33,6.4,1.85,46,24,Kharif,NPK 19-19-19
+Black Soil,Potato,30,49,76,5.8,2.78,16,23,Rabi,Urea
+Clay Soil,Potato,61,29,61,7.9,3.81,33,22,Kharif,DAP
+Loamy Soil,Sugarcane,56,55,11,8.5,3.31,36,26,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Corn,111,18,43,6.9,1.18,38,24,Rabi,DAP
+Clay Soil,Wheat,45,14,12,7.1,2.27,67,33,Kharif,Vermicompost
+Laterite Soil,Cotton,46,92,12,6.3,0.66,61,31,Rabi,Urea
+Red Soil,Groundnut,42,82,11,6.3,1.89,55,24,Rabi,Urea
+Loamy Soil,Cotton,41,45,44,7.4,3.54,51,28,Kharif,Urea
+Sandy Soil,Groundnut,74,29,51,7.8,1.15,41,37,Kharif,DAP
+Clay Soil,Onion,46,23,69,5.8,3.76,29,22,Zaid,Urea
+Laterite Soil,Banana,94,100,31,8.2,2.23,42,22,Zaid,NPK 19-19-19
+Laterite Soil,Groundnut,25,84,71,6.2,3.27,54,31,Rabi,Urea
+Laterite Soil,Groundnut,138,17,26,7.3,3.39,52,29,Rabi,DAP
+Sandy Soil,Banana,51,54,35,6.2,1.61,45,23,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,34,99,46,7.6,2.47,15,24,Rabi,Urea
+Sandy Soil,Cotton,12,43,14,6.0,2.96,43,22,Rabi,Urea
+Loamy Soil,Corn,115,93,31,6.0,3.12,73,19,Zaid,NPK 19-19-19
+Clay Soil,Wheat,113,89,33,8.1,1.05,17,33,Kharif,Vermicompost
+Black Soil,Banana,104,94,19,5.4,2.86,62,21,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,107,26,19,5.5,3.02,72,22,Zaid,DAP
+Red Soil,Rice,82,73,72,8.0,3.61,27,40,Rabi,Zinc Sulfate
+Clay Soil,Sugarcane,24,95,50,5.5,0.7,63,22,Kharif,Urea
+Red Soil,Onion,92,61,11,7.9,3.7,17,25,Kharif,MOP (Muriate of Potash)
+Black Soil,Corn,131,18,43,5.5,2.58,45,20,Rabi,DAP
+Black Soil,Rice,54,16,27,7.6,3.6,39,27,Zaid,DAP
+Loamy Soil,Wheat,109,92,73,5.3,2.4,28,32,Rabi,Organic Neem Cake
+Clay Soil,Groundnut,51,54,74,8.3,0.76,26,28,Rabi,Vermicompost
+Laterite Soil,Wheat,58,49,50,5.0,0.85,18,33,Zaid,Organic Neem Cake
+Sandy Soil,Sugarcane,12,72,77,8.2,1.81,33,27,Zaid,Urea
+Sandy Soil,Cotton,98,77,79,6.2,1.92,65,33,Zaid,NPK 19-19-19
+Laterite Soil,Onion,125,76,27,6.3,3.74,58,20,Kharif,MOP (Muriate of Potash)
+Red Soil,Wheat,58,30,23,6.3,3.89,42,31,Rabi,DAP
+Sandy Soil,Onion,102,58,44,5.6,0.64,49,36,Rabi,Organic Neem Cake
+Clay Soil,Potato,110,66,47,5.6,1.08,18,18,Zaid,Organic Neem Cake
+Black Soil,Rice,60,18,74,6.5,3.95,53,32,Zaid,DAP
+Black Soil,Cotton,112,100,30,6.8,0.72,42,19,Kharif,Vermicompost
+Sandy Soil,Cotton,48,99,79,5.6,3.77,49,18,Rabi,Urea
+Loamy Soil,Sugarcane,129,94,76,6.7,1.84,33,39,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,73,31,60,7.2,1.32,47,18,Rabi,DAP
+Laterite Soil,Wheat,118,53,69,5.9,1.82,44,27,Rabi,Zinc Sulfate
+Red Soil,Wheat,68,30,67,7.8,3.39,22,40,Zaid,DAP
+Black Soil,Potato,12,55,10,7.4,1.29,52,27,Kharif,Urea
+Loamy Soil,Banana,107,76,49,5.3,2.09,56,37,Kharif,Organic Neem Cake
+Black Soil,Rice,30,24,40,7.4,3.37,66,24,Kharif,NPK 19-19-19
+Red Soil,Rice,109,82,75,7.1,2.15,29,28,Zaid,Organic Neem Cake
+Sandy Soil,Onion,117,34,54,7.8,2.97,27,25,Kharif,DAP
+Red Soil,Onion,63,85,57,7.3,2.95,37,19,Rabi,NPK 19-19-19
+Black Soil,Rice,126,81,74,6.2,0.78,22,23,Rabi,Vermicompost
+Sandy Soil,Sugarcane,28,87,34,8.4,0.9,63,21,Kharif,Urea
+Loamy Soil,Sugarcane,56,83,68,7.5,1.79,20,27,Zaid,NPK 19-19-19
+Black Soil,Potato,73,79,22,8.3,1.12,55,23,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,109,85,71,6.2,3.71,16,19,Kharif,NPK 19-19-19
+Laterite Soil,Corn,56,78,72,7.3,1.79,72,32,Zaid,NPK 19-19-19
+Red Soil,Potato,80,73,33,5.9,3.78,37,29,Rabi,NPK 19-19-19
+Loamy Soil,Wheat,17,57,79,5.6,1.25,42,19,Zaid,Urea
+Clay Soil,Potato,88,83,68,6.6,1.42,32,28,Zaid,NPK 19-19-19
+Laterite Soil,Sugarcane,13,41,49,8.1,3.97,33,25,Kharif,Urea
+Laterite Soil,Groundnut,48,97,47,6.7,1.44,34,33,Rabi,Urea
+Sandy Soil,Sugarcane,124,94,45,5.0,0.73,23,27,Zaid,Organic Neem Cake
+Clay Soil,Sugarcane,76,34,47,6.0,0.62,66,35,Zaid,DAP
+Black Soil,Wheat,58,91,18,6.2,0.51,29,25,Kharif,MOP (Muriate of Potash)
+Black Soil,Groundnut,23,66,27,6.6,1.6,49,37,Kharif,Urea
+Laterite Soil,Sugarcane,130,76,34,8.4,1.43,61,19,Zaid,NPK 19-19-19
+Clay Soil,Corn,13,48,14,6.9,3.15,24,39,Zaid,Urea
+Laterite Soil,Banana,65,34,14,7.3,3.53,33,39,Rabi,DAP
+Sandy Soil,Wheat,53,41,73,7.7,4.0,34,20,Zaid,NPK 19-19-19
+Clay Soil,Onion,83,36,35,5.5,1.95,34,23,Kharif,Organic Neem Cake
+Clay Soil,Wheat,38,97,70,6.7,2.78,38,35,Rabi,Urea
+Laterite Soil,Sugarcane,94,15,45,5.5,1.16,23,33,Rabi,DAP
+Loamy Soil,Onion,20,48,60,7.3,3.4,64,18,Rabi,Urea
+Laterite Soil,Onion,97,37,49,7.2,3.83,17,31,Zaid,NPK 19-19-19
+Black Soil,Corn,123,99,73,5.3,3.05,18,27,Kharif,Organic Neem Cake
+Red Soil,Cotton,118,45,30,7.3,1.84,30,34,Zaid,NPK 19-19-19
+Laterite Soil,Groundnut,139,58,20,6.0,1.83,62,19,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Corn,36,69,49,7.8,3.48,19,40,Rabi,Urea
+Red Soil,Sugarcane,117,26,14,5.9,0.55,47,23,Rabi,DAP
+Loamy Soil,Rice,138,100,74,8.3,0.74,67,33,Rabi,DAP
+Clay Soil,Rice,127,88,11,5.6,1.83,71,24,Kharif,MOP (Muriate of Potash)
+Black Soil,Banana,49,34,32,5.3,3.24,26,19,Rabi,Urea
+Sandy Soil,Cotton,58,39,44,7.0,3.65,54,35,Kharif,NPK 19-19-19
+Black Soil,Groundnut,132,63,79,5.4,1.83,15,24,Rabi,Organic Neem Cake
+Laterite Soil,Rice,74,66,35,6.3,1.92,44,21,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,55,73,10,6.3,1.76,67,39,Rabi,MOP (Muriate of Potash)
+Red Soil,Onion,17,23,58,5.5,0.84,47,24,Zaid,NPK 19-19-19
+Clay Soil,Cotton,134,86,12,6.3,1.94,20,20,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Cotton,75,28,33,5.5,2.96,49,25,Kharif,DAP
+Laterite Soil,Potato,17,60,55,7.4,2.06,46,38,Rabi,Urea
+Loamy Soil,Corn,108,42,50,7.2,1.89,50,23,Rabi,NPK 19-19-19
+Sandy Soil,Corn,87,54,45,7.4,3.24,33,40,Zaid,NPK 19-19-19
+Red Soil,Tomato,129,71,78,6.5,3.84,47,25,Zaid,NPK 19-19-19
+Laterite Soil,Cotton,29,47,77,8.2,0.81,66,29,Rabi,Urea
+Clay Soil,Wheat,115,58,49,5.6,2.07,45,30,Zaid,Organic Neem Cake
+Red Soil,Banana,48,39,15,7.5,1.5,67,33,Rabi,Urea
+Laterite Soil,Groundnut,95,86,31,5.2,0.77,73,18,Rabi,Organic Neem Cake
+Clay Soil,Wheat,23,96,34,7.1,2.8,19,22,Rabi,Urea
+Laterite Soil,Rice,76,30,53,5.8,2.71,19,36,Kharif,DAP
+Black Soil,Groundnut,100,50,23,6.5,1.16,55,22,Rabi,MOP (Muriate of Potash)
+Clay Soil,Corn,106,12,29,5.5,2.77,55,28,Kharif,Vermicompost
+Black Soil,Groundnut,25,32,59,7.6,3.39,55,36,Rabi,NPK 19-19-19
+Sandy Soil,Rice,82,58,14,6.8,2.25,66,23,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Sugarcane,50,67,59,7.8,3.48,34,38,Kharif,NPK 19-19-19
+Loamy Soil,Tomato,23,93,12,6.6,1.56,63,40,Zaid,Urea
+Sandy Soil,Tomato,76,85,37,5.2,3.28,61,21,Kharif,Organic Neem Cake
+Laterite Soil,Groundnut,12,61,41,5.1,3.7,19,30,Rabi,Urea
+Black Soil,Wheat,84,20,13,6.9,2.78,44,23,Zaid,DAP
+Sandy Soil,Banana,113,83,54,5.5,1.07,59,40,Kharif,Organic Neem Cake
+Black Soil,Corn,12,19,15,5.2,1.49,17,30,Zaid,NPK 19-19-19
+Black Soil,Corn,47,91,30,8.4,2.32,22,24,Zaid,Urea
+Red Soil,Banana,25,14,69,6.7,3.68,43,25,Kharif,NPK 19-19-19
+Sandy Soil,Sugarcane,34,50,71,7.1,1.92,33,28,Zaid,Urea
+Sandy Soil,Rice,39,52,65,8.1,2.25,18,19,Zaid,Urea
+Loamy Soil,Cotton,16,75,77,8.2,0.71,26,24,Zaid,Urea
+Loamy Soil,Rice,69,38,74,5.1,1.77,58,29,Rabi,Organic Neem Cake
+Sandy Soil,Rice,64,91,21,5.6,1.69,22,39,Rabi,MOP (Muriate of Potash)
+Red Soil,Corn,56,89,73,5.6,3.21,22,26,Kharif,Organic Neem Cake
+Clay Soil,Sugarcane,113,16,71,5.5,2.88,42,23,Rabi,DAP
+Loamy Soil,Rice,40,23,56,8.5,2.26,66,40,Kharif,NPK 19-19-19
+Clay Soil,Wheat,30,41,53,7.1,2.88,59,26,Rabi,Urea
+Clay Soil,Potato,24,100,20,6.7,1.81,18,39,Kharif,Urea
+Red Soil,Rice,83,97,48,6.9,0.76,20,35,Zaid,Vermicompost
+Red Soil,Groundnut,101,11,56,7.7,3.43,27,29,Kharif,DAP
+Clay Soil,Onion,107,58,34,5.9,2.3,64,35,Zaid,NPK 19-19-19
+Laterite Soil,Tomato,69,82,10,7.2,2.55,55,26,Rabi,MOP (Muriate of Potash)
+Clay Soil,Wheat,87,18,65,7.9,0.58,22,22,Rabi,DAP
+Clay Soil,Sugarcane,97,44,21,8.4,1.02,20,24,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,43,93,34,6.0,0.94,71,34,Rabi,Urea
+Red Soil,Corn,60,22,54,6.6,2.81,67,40,Rabi,DAP
+Black Soil,Cotton,86,28,32,6.9,1.94,66,21,Kharif,DAP
+Black Soil,Cotton,47,23,66,7.4,0.74,68,34,Zaid,Urea
+Loamy Soil,Corn,25,58,51,6.3,0.93,58,39,Kharif,Urea
+Black Soil,Corn,22,64,48,8.4,3.1,21,23,Zaid,Urea
+Black Soil,Onion,49,92,60,7.8,3.93,73,28,Rabi,Urea
+Red Soil,Onion,70,50,63,7.0,1.74,25,31,Kharif,NPK 19-19-19
+Black Soil,Sugarcane,62,28,69,5.0,1.96,44,35,Kharif,DAP
+Loamy Soil,Cotton,53,78,75,5.3,0.8,60,37,Zaid,Organic Neem Cake
+Laterite Soil,Cotton,102,45,71,5.5,0.72,54,39,Zaid,Organic Neem Cake
+Sandy Soil,Rice,126,17,70,6.3,0.89,40,19,Rabi,DAP
+Clay Soil,Onion,33,45,60,6.6,2.73,24,32,Rabi,Urea
+Loamy Soil,Wheat,37,82,58,5.0,0.9,16,20,Zaid,Urea
+Loamy Soil,Cotton,57,32,27,5.1,3.53,49,21,Kharif,DAP
+Loamy Soil,Cotton,71,53,50,7.7,1.3,18,38,Rabi,NPK 19-19-19
+Sandy Soil,Onion,10,96,19,5.6,3.7,47,29,Rabi,Urea
+Clay Soil,Onion,40,82,20,8.1,2.32,27,24,Kharif,Urea
+Laterite Soil,Onion,119,27,22,7.5,1.86,21,35,Rabi,DAP
+Laterite Soil,Rice,78,16,63,5.7,3.77,20,38,Zaid,DAP
+Loamy Soil,Rice,59,13,56,7.5,1.9,55,19,Kharif,DAP
+Black Soil,Corn,125,59,63,5.8,2.38,22,32,Zaid,NPK 19-19-19
+Red Soil,Tomato,71,71,80,5.7,1.34,65,34,Rabi,Organic Neem Cake
+Laterite Soil,Corn,106,40,69,6.9,1.69,15,20,Rabi,NPK 19-19-19
+Laterite Soil,Rice,73,40,34,5.7,2.55,70,26,Zaid,Organic Neem Cake
+Sandy Soil,Tomato,97,75,72,6.4,2.68,37,37,Zaid,NPK 19-19-19
+Sandy Soil,Corn,51,73,12,7.1,3.5,16,37,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Corn,92,56,42,5.6,1.31,74,22,Zaid,Organic Neem Cake
+Red Soil,Rice,21,90,77,7.0,3.19,67,32,Kharif,Urea
+Black Soil,Groundnut,53,95,51,5.0,2.04,70,32,Zaid,Organic Neem Cake
+Loamy Soil,Cotton,29,47,23,6.6,1.61,34,22,Kharif,Urea
+Loamy Soil,Onion,118,49,68,6.3,2.01,61,33,Rabi,NPK 19-19-19
+Laterite Soil,Banana,19,20,57,8.2,1.08,30,19,Rabi,NPK 19-19-19
+Sandy Soil,Cotton,25,59,42,6.8,1.94,18,24,Kharif,Urea
+Clay Soil,Sugarcane,53,20,59,5.5,0.65,37,24,Rabi,DAP
+Clay Soil,Tomato,10,16,62,8.0,1.5,58,20,Kharif,NPK 19-19-19
+Sandy Soil,Corn,18,97,78,7.9,3.4,15,22,Kharif,Urea
+Red Soil,Wheat,28,51,71,8.0,1.4,39,30,Zaid,Vermicompost
+Loamy Soil,Sugarcane,12,10,71,7.4,3.36,72,40,Kharif,NPK 19-19-19
+Red Soil,Banana,43,60,29,5.7,3.32,53,24,Zaid,Urea
+Black Soil,Cotton,64,90,72,7.2,3.1,39,35,Zaid,NPK 19-19-19
+Loamy Soil,Sugarcane,110,37,44,5.3,2.4,71,40,Zaid,Organic Neem Cake
+Red Soil,Groundnut,106,72,45,6.7,2.27,62,27,Kharif,NPK 19-19-19
+Laterite Soil,Banana,55,73,41,7.5,0.78,69,39,Rabi,Urea
+Loamy Soil,Wheat,112,51,18,6.2,3.96,61,24,Kharif,MOP (Muriate of Potash)
+Clay Soil,Cotton,42,57,41,6.3,3.12,62,25,Zaid,Urea
+Clay Soil,Cotton,32,51,16,6.1,0.95,57,25,Rabi,Urea
+Loamy Soil,Groundnut,140,99,17,6.0,0.62,28,23,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Sugarcane,86,17,35,6.3,3.5,52,35,Kharif,DAP
+Loamy Soil,Sugarcane,51,57,57,6.8,3.76,53,21,Rabi,NPK 19-19-19
+Laterite Soil,Rice,70,72,75,7.8,3.03,18,25,Zaid,NPK 19-19-19
+Red Soil,Corn,24,75,28,8.3,2.41,21,39,Rabi,Urea
+Clay Soil,Potato,110,93,17,6.2,1.6,19,21,Zaid,MOP (Muriate of Potash)
+Red Soil,Onion,114,64,33,7.5,3.74,61,27,Kharif,NPK 19-19-19
+Clay Soil,Potato,59,80,25,6.4,2.2,40,26,Rabi,MOP (Muriate of Potash)
+Clay Soil,Corn,52,72,26,7.2,2.61,37,36,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Potato,13,76,75,7.6,0.85,54,33,Zaid,NPK 19-19-19
+Black Soil,Cotton,102,94,33,7.8,0.8,46,35,Zaid,Vermicompost
+Loamy Soil,Sugarcane,69,83,20,5.4,2.76,30,22,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,29,63,22,8.2,3.52,66,29,Kharif,Urea
+Red Soil,Onion,86,63,34,5.8,2.45,41,20,Zaid,NPK 19-19-19
+Red Soil,Groundnut,26,30,41,5.0,1.27,63,40,Zaid,NPK 19-19-19
+Red Soil,Groundnut,90,33,22,5.5,1.43,71,39,Zaid,DAP
+Red Soil,Tomato,83,98,52,8.4,2.31,34,29,Zaid,NPK 19-19-19
+Clay Soil,Banana,87,55,52,6.4,2.22,66,29,Rabi,NPK 19-19-19
+Black Soil,Rice,109,45,80,6.8,3.52,48,37,Zaid,Zinc Sulfate
+Red Soil,Corn,70,54,55,7.1,1.6,38,29,Kharif,NPK 19-19-19
+Laterite Soil,Banana,40,26,77,6.3,3.72,31,25,Kharif,NPK 19-19-19
+Black Soil,Rice,123,27,31,5.3,1.66,68,21,Rabi,DAP
+Clay Soil,Tomato,12,92,47,7.0,3.75,51,33,Zaid,Urea
+Clay Soil,Potato,28,82,42,8.1,1.85,52,36,Zaid,Urea
+Loamy Soil,Cotton,25,73,22,7.4,3.58,47,33,Rabi,Urea
+Red Soil,Sugarcane,106,12,74,8.1,1.33,59,18,Kharif,DAP
+Laterite Soil,Corn,118,76,59,8.1,3.4,67,18,Zaid,NPK 19-19-19
+Laterite Soil,Wheat,10,21,18,7.8,0.63,30,33,Rabi,NPK 19-19-19
+Clay Soil,Cotton,15,96,77,6.8,1.77,56,33,Kharif,Urea
+Black Soil,Banana,26,75,63,7.0,1.23,38,37,Kharif,Urea
+Sandy Soil,Corn,107,97,14,6.6,3.02,73,32,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Onion,15,96,13,5.1,2.27,52,28,Zaid,Urea
+Red Soil,Wheat,59,65,37,7.1,3.47,67,28,Zaid,NPK 19-19-19
+Red Soil,Rice,62,73,29,5.2,0.67,22,21,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Groundnut,29,94,61,7.8,3.96,62,28,Rabi,Urea
+Black Soil,Onion,107,73,71,7.1,0.73,32,39,Zaid,Vermicompost
+Sandy Soil,Potato,82,99,69,7.6,2.51,64,37,Kharif,NPK 19-19-19
+Loamy Soil,Corn,130,67,76,8.0,3.76,35,39,Kharif,NPK 19-19-19
+Laterite Soil,Rice,89,54,31,5.4,3.74,65,35,Rabi,Organic Neem Cake
+Loamy Soil,Cotton,94,64,16,7.6,0.89,72,24,Zaid,MOP (Muriate of Potash)
+Red Soil,Cotton,132,87,60,5.6,3.76,39,18,Zaid,Organic Neem Cake
+Black Soil,Tomato,41,30,74,5.8,1.05,34,29,Rabi,NPK 19-19-19
+Loamy Soil,Onion,59,80,24,8.0,0.9,33,26,Rabi,MOP (Muriate of Potash)
+Clay Soil,Cotton,40,53,55,5.7,3.98,62,36,Zaid,Urea
+Sandy Soil,Onion,129,67,19,7.8,1.01,48,39,Rabi,MOP (Muriate of Potash)
+Red Soil,Sugarcane,125,10,41,8.3,1.99,37,30,Rabi,DAP
+Red Soil,Corn,44,50,78,7.7,2.81,53,26,Rabi,Urea
+Red Soil,Sugarcane,107,26,34,5.1,3.6,42,24,Zaid,DAP
+Red Soil,Groundnut,48,59,59,5.5,3.44,68,19,Rabi,Urea
+Clay Soil,Banana,65,57,72,7.2,2.87,45,39,Zaid,NPK 19-19-19
+Laterite Soil,Cotton,36,67,48,8.3,2.27,26,38,Rabi,Urea
+Sandy Soil,Corn,13,33,22,6.0,2.07,19,24,Rabi,NPK 19-19-19
+Black Soil,Tomato,10,79,38,5.2,1.69,35,38,Zaid,Urea
+Laterite Soil,Sugarcane,129,51,23,7.2,2.24,32,33,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Corn,28,89,45,7.6,2.8,63,29,Rabi,Urea
+Black Soil,Sugarcane,133,41,74,7.8,0.91,66,24,Rabi,Vermicompost
+Sandy Soil,Groundnut,100,42,77,8.3,2.79,40,31,Kharif,NPK 19-19-19
+Black Soil,Tomato,103,46,70,8.1,3.7,16,37,Zaid,NPK 19-19-19
+Clay Soil,Cotton,16,75,26,8.4,2.66,20,39,Kharif,Urea
+Black Soil,Banana,65,53,19,6.5,2.71,21,33,Kharif,MOP (Muriate of Potash)
+Red Soil,Rice,13,53,75,5.5,2.6,60,29,Zaid,Urea
+Black Soil,Groundnut,97,11,47,7.3,2.79,32,21,Rabi,DAP
+Clay Soil,Onion,133,75,67,6.4,3.67,21,20,Zaid,NPK 19-19-19
+Sandy Soil,Potato,112,57,54,5.7,0.78,22,30,Zaid,Organic Neem Cake
+Red Soil,Cotton,10,35,56,6.7,2.9,51,29,Rabi,Urea
+Black Soil,Banana,134,49,41,5.9,1.03,52,23,Rabi,Vermicompost
+Black Soil,Potato,106,51,73,6.7,1.05,49,21,Rabi,Vermicompost
+Clay Soil,Groundnut,86,33,77,6.7,2.47,29,26,Rabi,DAP
+Black Soil,Onion,105,93,44,5.1,1.64,52,39,Zaid,Organic Neem Cake
+Clay Soil,Cotton,59,53,63,5.5,2.2,60,39,Kharif,Organic Neem Cake
+Laterite Soil,Tomato,42,60,46,8.1,3.13,58,37,Zaid,Urea
+Sandy Soil,Cotton,123,80,48,7.7,2.69,55,26,Zaid,NPK 19-19-19
+Loamy Soil,Potato,65,12,21,7.4,1.84,16,37,Rabi,DAP
+Black Soil,Onion,38,83,64,8.2,3.07,37,38,Rabi,Urea
+Black Soil,Potato,61,86,19,8.2,1.81,75,30,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,132,94,41,8.4,1.12,71,30,Rabi,Vermicompost
+Loamy Soil,Banana,26,32,74,8.4,3.35,33,29,Kharif,NPK 19-19-19
+Black Soil,Banana,17,93,49,8.4,0.53,19,37,Rabi,Urea
+Black Soil,Corn,31,21,34,7.1,2.06,17,21,Zaid,NPK 19-19-19
+Loamy Soil,Wheat,30,80,23,6.5,1.75,57,25,Zaid,Urea
+Red Soil,Banana,60,64,21,8.0,1.56,33,37,Zaid,MOP (Muriate of Potash)
+Red Soil,Onion,130,62,46,6.8,2.26,48,27,Kharif,DAP
+Clay Soil,Potato,45,98,19,7.6,2.2,49,30,Zaid,Urea
+Black Soil,Tomato,31,66,54,5.1,3.0,53,37,Kharif,Urea
+Laterite Soil,Groundnut,115,92,49,5.4,3.04,21,32,Kharif,Organic Neem Cake
+Black Soil,Onion,82,24,61,7.4,2.91,54,28,Kharif,DAP
+Red Soil,Groundnut,50,18,33,5.9,1.89,24,38,Rabi,DAP
+Red Soil,Tomato,12,54,77,6.9,3.49,38,31,Zaid,Urea
+Loamy Soil,Potato,50,94,14,7.4,3.93,41,34,Zaid,MOP (Muriate of Potash)
+Red Soil,Cotton,17,96,68,7.8,1.72,47,34,Kharif,Urea
+Clay Soil,Sugarcane,107,24,18,6.3,1.61,50,38,Kharif,DAP
+Clay Soil,Rice,76,62,59,7.6,2.74,69,20,Rabi,Urea
+Sandy Soil,Groundnut,118,38,11,5.4,0.62,57,23,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Cotton,68,60,61,5.4,1.23,37,26,Zaid,Organic Neem Cake
+Laterite Soil,Potato,17,46,29,7.4,2.71,24,20,Kharif,Urea
+Laterite Soil,Tomato,20,18,77,8.5,2.43,16,23,Zaid,NPK 19-19-19
+Clay Soil,Tomato,60,54,52,5.6,3.87,22,33,Kharif,Organic Neem Cake
+Clay Soil,Potato,50,30,35,8.3,1.39,54,26,Kharif,DAP
+Sandy Soil,Onion,43,93,18,5.3,0.82,21,31,Kharif,Urea
+Laterite Soil,Onion,57,100,19,6.8,1.78,16,31,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Tomato,124,47,30,6.3,0.54,33,25,Zaid,Vermicompost
+Loamy Soil,Tomato,18,48,60,7.7,0.71,64,20,Rabi,Urea
+Red Soil,Banana,92,57,41,7.0,3.72,67,18,Zaid,NPK 19-19-19
+Loamy Soil,Sugarcane,108,61,79,5.6,0.98,55,22,Rabi,Organic Neem Cake
+Clay Soil,Tomato,98,62,51,7.9,1.45,66,38,Rabi,NPK 19-19-19
+Black Soil,Tomato,22,72,48,7.8,2.23,15,21,Kharif,Urea
+Laterite Soil,Sugarcane,34,52,23,6.2,1.46,41,35,Zaid,Urea
+Laterite Soil,Rice,58,85,70,8.2,1.61,30,33,Kharif,NPK 19-19-19
+Laterite Soil,Wheat,11,16,71,5.2,3.32,36,37,Kharif,NPK 19-19-19
+Clay Soil,Wheat,103,62,45,6.6,3.91,64,35,Zaid,Zinc Sulfate
+Black Soil,Cotton,46,47,62,5.0,1.55,57,27,Zaid,Urea
+Red Soil,Corn,11,21,56,5.2,0.66,44,18,Kharif,NPK 19-19-19
+Laterite Soil,Onion,131,96,35,5.7,3.07,27,27,Zaid,Organic Neem Cake
+Red Soil,Onion,101,84,12,7.7,3.14,30,35,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Onion,79,47,53,7.0,2.38,45,23,Kharif,NPK 19-19-19
+Clay Soil,Corn,92,94,28,5.4,2.05,67,20,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Groundnut,24,40,45,5.6,3.0,29,19,Kharif,Urea
+Black Soil,Cotton,68,98,79,7.3,3.9,59,38,Kharif,NPK 19-19-19
+Sandy Soil,Onion,115,37,55,6.2,3.6,60,35,Kharif,NPK 19-19-19
+Sandy Soil,Banana,133,49,30,6.7,3.64,49,26,Rabi,NPK 19-19-19
+Sandy Soil,Cotton,72,94,49,5.5,2.57,45,33,Kharif,Organic Neem Cake
+Loamy Soil,Rice,121,11,71,7.6,3.36,42,19,Kharif,DAP
+Black Soil,Onion,35,43,49,6.9,1.45,25,22,Zaid,Urea
+Loamy Soil,Wheat,98,91,27,5.1,3.09,15,19,Zaid,MOP (Muriate of Potash)
+Red Soil,Rice,133,49,77,6.0,1.36,52,34,Zaid,Zinc Sulfate
+Red Soil,Onion,66,95,61,5.3,3.67,29,20,Zaid,Organic Neem Cake
+Loamy Soil,Wheat,133,99,74,5.1,2.88,66,29,Rabi,Organic Neem Cake
+Clay Soil,Rice,98,89,14,6.6,1.14,19,20,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Potato,87,92,49,8.4,3.74,32,30,Kharif,NPK 19-19-19
+Sandy Soil,Rice,29,61,37,5.5,1.61,41,18,Rabi,Urea
+Laterite Soil,Sugarcane,111,34,65,5.9,1.17,47,32,Kharif,DAP
+Red Soil,Rice,75,85,45,7.3,3.25,16,28,Kharif,NPK 19-19-19
+Red Soil,Banana,64,44,27,8.0,2.43,32,40,Zaid,NPK 19-19-19
+Black Soil,Wheat,17,96,71,7.9,1.49,34,37,Kharif,Urea
+Laterite Soil,Wheat,85,39,49,5.0,0.95,74,21,Zaid,Organic Neem Cake
+Black Soil,Onion,10,85,72,8.4,0.85,57,31,Rabi,Urea
+Loamy Soil,Cotton,70,71,58,5.0,0.7,74,21,Kharif,Organic Neem Cake
+Sandy Soil,Cotton,109,72,42,5.5,0.57,63,24,Kharif,Organic Neem Cake
+Sandy Soil,Groundnut,44,59,63,7.5,3.32,30,25,Zaid,Urea
+Loamy Soil,Groundnut,134,84,42,6.0,1.87,15,30,Zaid,NPK 19-19-19
+Clay Soil,Tomato,41,11,20,7.7,3.74,26,32,Kharif,NPK 19-19-19
+Sandy Soil,Rice,95,59,47,5.5,0.87,19,39,Zaid,Organic Neem Cake
+Clay Soil,Tomato,49,41,75,7.6,1.43,23,30,Rabi,Urea
+Black Soil,Rice,20,54,36,7.1,0.95,59,28,Kharif,Urea
+Loamy Soil,Onion,15,36,52,7.1,2.6,57,24,Kharif,Urea
+Loamy Soil,Wheat,27,66,45,5.8,1.78,73,36,Rabi,Urea
+Loamy Soil,Potato,126,89,78,7.3,3.94,71,36,Rabi,NPK 19-19-19
+Red Soil,Groundnut,105,26,73,6.2,1.79,32,40,Rabi,DAP
+Laterite Soil,Banana,25,22,39,6.7,3.76,72,18,Zaid,NPK 19-19-19
+Red Soil,Sugarcane,78,35,60,8.1,3.36,60,33,Rabi,NPK 19-19-19
+Laterite Soil,Potato,33,68,13,5.2,1.68,47,23,Rabi,Urea
+Clay Soil,Potato,118,78,68,8.2,0.61,70,34,Kharif,Vermicompost
+Sandy Soil,Groundnut,34,87,16,7.6,2.85,57,22,Kharif,Urea
+Black Soil,Cotton,46,89,34,5.9,1.11,37,35,Kharif,Urea
+Black Soil,Onion,110,50,80,6.3,2.27,66,36,Kharif,NPK 19-19-19
+Laterite Soil,Rice,126,50,65,5.4,2.35,19,34,Rabi,Organic Neem Cake
+Black Soil,Tomato,87,15,10,7.9,1.4,47,19,Zaid,DAP
+Loamy Soil,Cotton,72,12,37,5.6,2.06,40,25,Zaid,DAP
+Clay Soil,Banana,39,66,36,6.2,3.4,21,22,Kharif,Urea
+Black Soil,Cotton,63,27,58,5.0,2.02,45,19,Zaid,DAP
+Red Soil,Potato,103,65,13,5.0,1.64,38,29,Kharif,MOP (Muriate of Potash)
+Clay Soil,Banana,89,29,49,7.9,3.6,35,18,Rabi,DAP
+Clay Soil,Potato,53,16,26,8.2,0.55,44,18,Kharif,DAP
+Loamy Soil,Wheat,75,12,55,8.3,3.69,60,18,Zaid,DAP
+Clay Soil,Tomato,119,21,33,7.0,3.4,38,40,Rabi,DAP
+Black Soil,Corn,86,12,50,7.2,0.78,62,35,Zaid,DAP
+Black Soil,Banana,95,77,56,6.3,1.73,60,40,Rabi,NPK 19-19-19
+Loamy Soil,Corn,114,81,65,6.4,2.31,22,38,Rabi,NPK 19-19-19
+Clay Soil,Groundnut,123,88,29,8.0,0.88,33,35,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Wheat,136,75,14,7.5,2.45,65,34,Zaid,MOP (Muriate of Potash)
+Red Soil,Potato,58,51,44,7.9,3.29,22,36,Zaid,NPK 19-19-19
+Loamy Soil,Groundnut,34,82,74,6.4,3.68,67,20,Rabi,Organic Neem Cake
+Loamy Soil,Onion,49,42,66,6.8,0.87,36,29,Zaid,Urea
+Clay Soil,Corn,92,42,28,7.1,1.24,75,35,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Banana,129,23,60,7.7,1.82,18,21,Rabi,DAP
+Clay Soil,Sugarcane,70,45,65,7.3,1.53,39,32,Rabi,NPK 19-19-19
+Red Soil,Banana,114,63,16,7.5,3.73,37,26,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Tomato,53,100,17,8.2,3.75,34,23,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Banana,81,80,19,5.7,1.33,40,28,Kharif,MOP (Muriate of Potash)
+Red Soil,Sugarcane,72,53,20,6.0,0.79,30,19,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,105,72,65,6.1,3.31,28,21,Kharif,NPK 19-19-19
+Sandy Soil,Potato,101,14,48,6.1,3.2,20,29,Zaid,DAP
+Clay Soil,Tomato,38,82,21,7.6,1.95,75,27,Kharif,Urea
+Clay Soil,Tomato,134,56,65,6.6,0.97,61,37,Zaid,Vermicompost
+Sandy Soil,Cotton,129,40,48,7.7,0.72,43,38,Zaid,Vermicompost
+Black Soil,Tomato,11,36,38,7.2,2.55,69,31,Kharif,Urea
+Laterite Soil,Onion,112,88,26,6.0,3.53,67,31,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Potato,115,64,21,8.2,2.09,24,26,Kharif,MOP (Muriate of Potash)
+Black Soil,Potato,15,96,27,7.2,2.82,41,18,Kharif,Urea
+Clay Soil,Onion,70,90,30,8.2,0.57,44,30,Zaid,Vermicompost
+Clay Soil,Tomato,22,71,32,8.4,0.97,69,39,Zaid,Organic Neem Cake
+Laterite Soil,Corn,131,97,73,6.2,3.04,38,39,Zaid,NPK 19-19-19
+Loamy Soil,Onion,102,51,28,6.5,2.53,26,31,Rabi,MOP (Muriate of Potash)
+Black Soil,Groundnut,121,78,14,6.7,3.74,59,26,Kharif,MOP (Muriate of Potash)
+Black Soil,Cotton,43,32,25,8.3,3.07,49,19,Rabi,NPK 19-19-19
+Sandy Soil,Potato,140,67,38,5.8,1.78,54,20,Rabi,NPK 19-19-19
+Laterite Soil,Tomato,62,65,45,6.1,2.02,69,19,Kharif,NPK 19-19-19
+Loamy Soil,Tomato,10,39,64,5.4,1.21,54,26,Kharif,Urea
+Sandy Soil,Corn,83,96,23,7.5,0.6,41,38,Zaid,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,136,17,12,5.8,0.78,55,21,Kharif,DAP
+Loamy Soil,Onion,19,41,75,7.2,3.15,34,38,Kharif,Urea
+Red Soil,Corn,97,73,37,5.2,3.25,25,32,Zaid,Organic Neem Cake
+Loamy Soil,Cotton,83,80,42,5.7,1.2,61,30,Kharif,Organic Neem Cake
+Sandy Soil,Onion,70,86,16,5.5,2.4,34,37,Zaid,MOP (Muriate of Potash)
+Black Soil,Tomato,49,72,79,7.8,0.84,68,37,Rabi,Urea
+Loamy Soil,Corn,25,44,70,7.2,1.36,55,32,Kharif,Urea
+Red Soil,Corn,18,67,73,6.1,3.5,60,40,Kharif,Urea
+Laterite Soil,Sugarcane,130,24,11,7.5,3.21,63,38,Zaid,DAP
+Loamy Soil,Groundnut,90,24,49,5.4,1.38,70,20,Kharif,DAP
+Clay Soil,Sugarcane,137,36,68,5.1,3.42,55,24,Rabi,Organic Neem Cake
+Sandy Soil,Onion,75,42,21,8.0,2.9,75,25,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Corn,116,26,29,7.0,1.14,37,19,Kharif,DAP
+Sandy Soil,Onion,99,93,61,7.7,3.78,40,19,Rabi,NPK 19-19-19
+Black Soil,Corn,46,18,41,6.0,0.87,40,18,Kharif,Urea
+Black Soil,Groundnut,61,77,41,7.8,3.52,27,25,Rabi,NPK 19-19-19
+Loamy Soil,Potato,66,74,54,5.4,2.64,17,39,Zaid,Organic Neem Cake
+Black Soil,Cotton,100,75,35,5.7,0.52,55,19,Zaid,Organic Neem Cake
+Laterite Soil,Tomato,100,60,39,5.3,1.63,32,33,Zaid,Organic Neem Cake
+Loamy Soil,Tomato,37,95,29,7.1,2.08,68,31,Kharif,Urea
+Clay Soil,Rice,138,79,43,6.8,1.22,25,18,Zaid,Zinc Sulfate
+Loamy Soil,Banana,19,10,16,5.8,1.56,28,33,Kharif,NPK 19-19-19
+Clay Soil,Sugarcane,51,96,76,7.1,3.1,21,34,Rabi,NPK 19-19-19
+Loamy Soil,Onion,85,57,38,6.2,0.83,65,35,Kharif,Vermicompost
+Black Soil,Tomato,88,18,31,7.0,3.25,15,36,Rabi,DAP
+Red Soil,Cotton,58,39,53,7.7,3.36,35,35,Kharif,NPK 19-19-19
+Laterite Soil,Tomato,125,38,37,6.7,1.74,64,34,Zaid,NPK 19-19-19
+Sandy Soil,Tomato,54,30,70,6.5,1.58,70,20,Rabi,DAP
+Black Soil,Rice,103,34,47,8.3,1.37,34,21,Rabi,DAP
+Black Soil,Potato,37,64,30,6.4,0.8,47,23,Kharif,Urea
+Black Soil,Wheat,135,24,72,7.3,3.97,38,28,Rabi,DAP
+Red Soil,Onion,125,31,34,8.0,3.24,26,18,Kharif,DAP
+Red Soil,Tomato,81,37,34,7.7,3.43,57,40,Rabi,NPK 19-19-19
+Loamy Soil,Wheat,97,38,58,7.5,2.09,35,35,Zaid,Zinc Sulfate
+Black Soil,Banana,124,34,19,7.2,3.72,65,22,Zaid,DAP
+Loamy Soil,Banana,66,36,65,5.4,3.75,59,39,Kharif,Organic Neem Cake
+Sandy Soil,Tomato,121,18,63,5.6,1.64,58,18,Rabi,DAP
+Red Soil,Potato,120,71,54,7.9,2.53,23,22,Rabi,NPK 19-19-19
+Sandy Soil,Cotton,54,83,73,7.1,3.49,37,37,Zaid,NPK 19-19-19
+Loamy Soil,Tomato,18,58,71,6.6,2.53,53,26,Zaid,Urea
+Black Soil,Banana,76,70,71,8.1,0.65,55,27,Rabi,Vermicompost
+Laterite Soil,Wheat,69,12,65,8.1,0.9,64,40,Kharif,DAP
+Laterite Soil,Potato,136,24,29,6.1,3.85,41,33,Rabi,DAP
+Red Soil,Tomato,44,58,22,6.8,2.19,73,34,Zaid,Urea
+Sandy Soil,Rice,100,72,38,5.1,0.76,72,37,Kharif,Organic Neem Cake
+Loamy Soil,Wheat,80,13,50,8.1,3.3,42,25,Zaid,DAP
+Red Soil,Rice,119,91,32,8.1,2.57,30,29,Rabi,Zinc Sulfate
+Red Soil,Potato,36,13,50,6.6,0.94,35,30,Rabi,NPK 19-19-19
+Loamy Soil,Banana,109,67,67,6.4,3.11,40,26,Zaid,NPK 19-19-19
+Red Soil,Potato,54,14,70,6.8,1.08,66,21,Kharif,DAP
+Sandy Soil,Onion,24,79,32,7.2,3.34,16,32,Rabi,Organic Neem Cake
+Black Soil,Cotton,138,18,11,5.1,3.35,55,24,Zaid,DAP
+Black Soil,Corn,84,29,36,7.1,2.92,58,32,Zaid,DAP
+Loamy Soil,Corn,88,51,49,7.7,0.98,36,29,Zaid,Vermicompost
+Loamy Soil,Sugarcane,129,70,22,6.7,3.95,65,27,Rabi,MOP (Muriate of Potash)
+Clay Soil,Cotton,11,23,44,6.7,2.57,23,37,Kharif,NPK 19-19-19
+Clay Soil,Wheat,17,49,40,6.0,0.54,49,20,Zaid,Urea
+Red Soil,Onion,31,80,20,7.2,1.97,74,35,Kharif,Urea
+Laterite Soil,Wheat,24,94,40,5.0,3.67,34,31,Zaid,Urea
+Red Soil,Rice,126,92,36,6.7,0.56,58,27,Zaid,Vermicompost
+Loamy Soil,Corn,75,60,20,7.0,2.8,64,38,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Onion,81,16,55,6.5,1.69,21,35,Rabi,DAP
+Laterite Soil,Potato,71,97,54,5.9,1.04,75,27,Rabi,Vermicompost
+Laterite Soil,Sugarcane,114,32,28,6.7,1.97,42,18,Kharif,DAP
+Red Soil,Groundnut,134,33,21,8.5,3.64,48,19,Rabi,DAP
+Laterite Soil,Potato,66,88,60,7.1,1.94,32,24,Kharif,NPK 19-19-19
+Red Soil,Wheat,26,15,13,7.5,3.48,67,32,Zaid,NPK 19-19-19
+Loamy Soil,Banana,58,25,38,6.0,3.56,45,22,Zaid,DAP
+Sandy Soil,Sugarcane,125,15,44,5.8,0.72,15,29,Kharif,Vermicompost
+Black Soil,Tomato,122,89,19,7.8,0.66,37,26,Zaid,MOP (Muriate of Potash)
+Clay Soil,Rice,28,11,55,7.8,1.81,42,22,Kharif,NPK 19-19-19
+Loamy Soil,Tomato,67,35,58,7.4,1.15,30,36,Rabi,Vermicompost
+Black Soil,Tomato,108,36,80,6.5,2.24,50,21,Zaid,NPK 19-19-19
+Clay Soil,Sugarcane,117,30,18,5.8,2.99,71,38,Zaid,DAP
+Black Soil,Rice,18,46,79,5.5,3.05,21,36,Zaid,Urea
+Red Soil,Wheat,57,85,27,6.8,0.61,69,21,Zaid,MOP (Muriate of Potash)
+Black Soil,Onion,71,74,25,7.3,0.82,73,37,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Onion,136,96,68,7.0,1.43,28,40,Rabi,NPK 19-19-19
+Clay Soil,Tomato,57,89,24,7.4,2.3,71,38,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Cotton,61,16,32,5.1,3.19,47,26,Kharif,DAP
+Red Soil,Onion,38,44,14,6.4,2.91,38,35,Kharif,Urea
+Loamy Soil,Cotton,131,65,23,6.5,0.68,56,28,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Groundnut,77,99,44,6.9,2.7,63,33,Rabi,NPK 19-19-19
+Laterite Soil,Sugarcane,65,59,65,7.7,3.7,22,38,Kharif,NPK 19-19-19
+Laterite Soil,Sugarcane,70,19,28,5.3,1.4,41,19,Kharif,DAP
+Laterite Soil,Sugarcane,125,62,67,5.8,1.03,54,34,Kharif,Vermicompost
+Red Soil,Potato,67,60,36,6.2,0.87,55,27,Zaid,Vermicompost
+Sandy Soil,Cotton,13,66,64,7.2,1.56,42,37,Kharif,Urea
+Red Soil,Sugarcane,42,96,26,8.2,3.23,51,24,Kharif,Urea
+Red Soil,Rice,55,71,50,5.6,2.38,73,33,Kharif,Organic Neem Cake
+Laterite Soil,Cotton,50,96,68,5.9,3.47,30,21,Zaid,NPK 19-19-19
+Red Soil,Potato,112,85,14,6.9,0.7,17,26,Kharif,MOP (Muriate of Potash)
+Red Soil,Groundnut,87,69,30,7.9,1.58,74,24,Rabi,NPK 19-19-19
+Clay Soil,Potato,97,33,31,8.0,3.6,54,26,Rabi,DAP
+Laterite Soil,Cotton,56,58,23,8.4,3.26,75,34,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,33,68,69,8.4,1.85,60,28,Kharif,Urea
+Loamy Soil,Tomato,140,26,12,7.3,2.03,28,25,Rabi,DAP
+Red Soil,Onion,132,32,63,6.6,3.48,19,33,Zaid,DAP
+Clay Soil,Banana,18,49,31,7.2,2.4,74,21,Zaid,Urea
+Sandy Soil,Cotton,81,35,76,7.5,2.51,37,19,Zaid,NPK 19-19-19
+Clay Soil,Groundnut,65,67,55,8.2,3.18,75,25,Zaid,NPK 19-19-19
+Sandy Soil,Groundnut,25,61,69,6.8,1.69,37,28,Kharif,Urea
+Black Soil,Sugarcane,139,56,62,6.0,3.18,57,22,Kharif,NPK 19-19-19
+Clay Soil,Cotton,119,77,74,8.1,1.41,26,39,Kharif,NPK 19-19-19
+Black Soil,Groundnut,116,89,53,6.3,2.08,61,38,Rabi,NPK 19-19-19
+Red Soil,Onion,12,60,31,5.8,2.09,66,34,Kharif,Urea
+Black Soil,Wheat,88,46,68,8.3,2.98,36,29,Rabi,Zinc Sulfate
+Red Soil,Banana,95,50,33,5.3,3.63,46,40,Rabi,Organic Neem Cake
+Sandy Soil,Onion,104,22,14,6.9,0.78,21,40,Zaid,DAP
+Laterite Soil,Rice,13,76,63,5.1,3.98,48,37,Zaid,Urea
+Red Soil,Rice,58,68,33,5.3,2.33,27,18,Rabi,Organic Neem Cake
+Red Soil,Rice,32,60,33,5.3,1.02,25,31,Rabi,Urea
+Red Soil,Rice,23,94,54,5.8,2.07,75,38,Kharif,Urea
+Laterite Soil,Groundnut,44,41,79,7.4,0.84,33,31,Rabi,Urea
+Black Soil,Corn,121,27,29,5.4,3.87,56,25,Zaid,DAP
+Laterite Soil,Rice,56,96,72,8.2,2.16,70,24,Zaid,NPK 19-19-19
+Laterite Soil,Corn,108,61,22,8.4,2.88,21,34,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,99,62,64,8.1,2.13,56,26,Kharif,NPK 19-19-19
+Loamy Soil,Tomato,99,14,29,5.5,1.03,53,19,Zaid,NPK 19-19-19
+Sandy Soil,Cotton,136,28,23,5.7,3.64,61,23,Kharif,DAP
+Sandy Soil,Rice,24,51,10,8.2,2.64,44,35,Rabi,Urea
+Clay Soil,Corn,39,26,19,5.5,0.85,53,34,Kharif,NPK 19-19-19
+Sandy Soil,Wheat,29,26,53,6.0,2.41,46,20,Zaid,NPK 19-19-19
+Sandy Soil,Groundnut,121,86,35,6.9,2.86,71,39,Zaid,NPK 19-19-19
+Clay Soil,Potato,117,47,75,6.1,2.88,63,39,Kharif,Vermicompost
+Laterite Soil,Potato,15,31,65,6.3,1.96,71,28,Rabi,NPK 19-19-19
+Black Soil,Potato,12,85,52,6.0,3.9,60,36,Zaid,Urea
+Loamy Soil,Rice,109,65,38,7.2,2.93,16,39,Rabi,Zinc Sulfate
+Laterite Soil,Groundnut,124,16,15,7.1,2.27,24,27,Kharif,NPK 19-19-19
+Black Soil,Tomato,123,38,64,7.2,2.99,57,18,Kharif,NPK 19-19-19
+Clay Soil,Sugarcane,118,18,18,6.1,2.22,60,34,Zaid,DAP
+Black Soil,Corn,60,83,66,7.8,3.45,37,31,Rabi,DAP
+Red Soil,Banana,112,81,71,7.4,0.77,30,38,Kharif,Vermicompost
+Loamy Soil,Sugarcane,37,78,31,6.7,1.81,25,19,Kharif,Urea
+Black Soil,Cotton,92,32,80,5.1,3.62,66,31,Rabi,DAP
+Red Soil,Banana,30,51,69,6.5,3.97,18,36,Kharif,Urea
+Clay Soil,Corn,106,23,12,8.1,2.02,43,20,Rabi,DAP
+Sandy Soil,Cotton,103,19,34,6.1,3.03,26,25,Zaid,Organic Neem Cake
+Red Soil,Wheat,119,68,39,7.7,0.97,40,26,Rabi,Vermicompost
+Loamy Soil,Rice,41,88,74,5.7,3.77,26,40,Rabi,Urea
+Laterite Soil,Potato,94,57,17,7.7,3.33,24,40,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Cotton,23,97,79,5.5,3.46,57,26,Rabi,Urea
+Sandy Soil,Wheat,90,25,63,5.1,2.5,37,19,Zaid,DAP
+Black Soil,Banana,136,64,55,7.7,3.6,37,29,Rabi,NPK 19-19-19
+Clay Soil,Corn,57,97,27,6.9,2.92,67,32,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,51,37,33,8.4,1.65,29,32,Zaid,NPK 19-19-19
+Red Soil,Sugarcane,129,46,16,7.5,1.46,67,39,Kharif,MOP (Muriate of Potash)
+Black Soil,Wheat,93,62,75,5.9,3.89,74,39,Kharif,DAP
+Black Soil,Rice,48,69,59,6.1,1.72,25,26,Rabi,Urea
+Sandy Soil,Rice,94,85,79,7.1,3.34,41,36,Zaid,Zinc Sulfate
+Sandy Soil,Onion,48,84,66,5.8,3.17,54,24,Zaid,Urea
+Sandy Soil,Groundnut,120,64,65,7.3,2.52,29,36,Kharif,NPK 19-19-19
+Red Soil,Onion,16,50,68,7.5,2.04,26,39,Rabi,Urea
+Red Soil,Tomato,126,92,13,7.6,2.04,51,22,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Cotton,95,71,27,7.6,2.75,75,28,Zaid,MOP (Muriate of Potash)
+Clay Soil,Rice,39,13,47,7.6,3.18,16,22,Zaid,NPK 19-19-19
+Loamy Soil,Tomato,94,65,42,7.9,2.97,45,31,Zaid,NPK 19-19-19
+Black Soil,Groundnut,92,64,32,7.0,3.48,73,32,Zaid,NPK 19-19-19
+Clay Soil,Tomato,99,71,55,8.2,2.87,55,23,Kharif,NPK 19-19-19
+Sandy Soil,Groundnut,19,19,37,5.9,3.12,65,20,Kharif,NPK 19-19-19
+Red Soil,Potato,32,75,13,5.3,2.23,33,25,Zaid,Urea
+Laterite Soil,Onion,80,49,58,5.3,2.72,32,31,Rabi,Organic Neem Cake
+Sandy Soil,Tomato,83,15,54,6.8,0.77,66,27,Rabi,DAP
+Loamy Soil,Rice,28,90,72,8.1,1.11,39,36,Rabi,Urea
+Black Soil,Cotton,134,67,62,5.7,2.36,54,31,Rabi,Organic Neem Cake
+Sandy Soil,Wheat,79,22,78,7.4,3.48,23,18,Rabi,DAP
+Laterite Soil,Sugarcane,58,65,25,6.7,2.8,25,29,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Rice,16,49,67,7.0,3.14,37,40,Rabi,Urea
+Clay Soil,Cotton,39,29,26,7.6,2.9,62,23,Zaid,NPK 19-19-19
+Sandy Soil,Rice,17,72,23,5.3,2.42,19,24,Kharif,Urea
+Red Soil,Banana,113,46,63,5.7,0.55,34,39,Zaid,Organic Neem Cake
+Red Soil,Wheat,64,32,33,6.3,0.88,67,35,Zaid,DAP
+Red Soil,Onion,139,46,73,5.5,1.81,75,18,Rabi,Organic Neem Cake
+Clay Soil,Sugarcane,27,62,72,8.2,3.4,63,35,Rabi,Urea
+Laterite Soil,Tomato,68,65,61,7.7,2.67,25,34,Zaid,NPK 19-19-19
+Loamy Soil,Corn,77,30,36,6.9,2.78,20,19,Kharif,DAP
+Black Soil,Rice,18,88,41,8.3,1.04,69,24,Rabi,Urea
+Black Soil,Corn,68,100,13,6.9,0.74,28,33,Kharif,MOP (Muriate of Potash)
+Clay Soil,Banana,14,86,25,6.0,3.55,54,22,Rabi,Urea
+Clay Soil,Potato,99,91,44,7.4,3.32,60,37,Kharif,NPK 19-19-19
+Black Soil,Onion,53,29,65,5.5,1.38,32,23,Rabi,DAP
+Sandy Soil,Wheat,116,96,78,8.3,0.84,73,25,Rabi,DAP
+Black Soil,Corn,53,84,34,7.2,3.23,40,32,Rabi,NPK 19-19-19
+Red Soil,Tomato,55,75,45,5.7,3.23,52,25,Zaid,Organic Neem Cake
+Sandy Soil,Cotton,65,20,60,7.7,0.53,34,18,Rabi,DAP
+Black Soil,Cotton,129,100,18,6.4,3.36,25,31,Rabi,MOP (Muriate of Potash)
+Red Soil,Banana,58,47,38,7.2,1.58,53,19,Kharif,NPK 19-19-19
+Red Soil,Cotton,21,95,19,8.3,2.44,50,34,Rabi,DAP
+Black Soil,Groundnut,130,31,16,7.6,3.93,50,23,Rabi,DAP
+Red Soil,Wheat,81,54,24,5.1,2.78,59,19,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Corn,22,53,34,6.2,3.8,39,30,Zaid,Urea
+Sandy Soil,Wheat,77,75,57,5.9,3.15,35,33,Rabi,NPK 19-19-19
+Black Soil,Tomato,23,68,55,6.8,3.25,42,28,Kharif,Urea
+Black Soil,Potato,46,91,25,8.5,1.36,53,26,Rabi,Organic Neem Cake
+Black Soil,Potato,117,27,60,6.2,2.02,67,20,Rabi,DAP
+Laterite Soil,Potato,31,33,73,7.8,3.54,17,30,Kharif,NPK 19-19-19
+Red Soil,Banana,62,18,22,7.2,2.26,62,25,Zaid,DAP
+Red Soil,Cotton,54,94,78,5.5,1.36,24,18,Rabi,Organic Neem Cake
+Laterite Soil,Sugarcane,31,22,37,6.4,2.33,49,19,Zaid,NPK 19-19-19
+Loamy Soil,Onion,134,15,13,8.1,0.57,62,23,Kharif,DAP
+Clay Soil,Banana,41,44,12,7.4,0.69,47,18,Rabi,Urea
+Black Soil,Onion,93,44,22,5.3,0.74,18,19,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Rice,43,36,11,7.0,0.78,69,27,Kharif,Urea
+Black Soil,Corn,32,64,23,6.9,1.94,28,40,Zaid,Urea
+Clay Soil,Groundnut,25,84,34,7.5,3.24,34,25,Rabi,Urea
+Sandy Soil,Groundnut,72,25,59,5.7,3.68,26,24,Rabi,DAP
+Black Soil,Corn,11,19,61,5.8,0.81,46,35,Zaid,NPK 19-19-19
+Loamy Soil,Corn,83,38,23,7.9,2.26,34,39,Zaid,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,126,17,17,7.0,3.47,32,24,Rabi,DAP
+Loamy Soil,Banana,103,89,23,6.3,2.96,49,23,Zaid,MOP (Muriate of Potash)
+Red Soil,Sugarcane,38,78,76,7.2,3.7,22,34,Zaid,Urea
+Clay Soil,Wheat,94,91,71,8.4,2.89,66,36,Rabi,Zinc Sulfate
+Sandy Soil,Groundnut,74,38,20,5.2,1.51,39,38,Zaid,MOP (Muriate of Potash)
+Black Soil,Wheat,120,13,14,8.1,1.09,51,34,Rabi,DAP
+Black Soil,Rice,136,76,10,7.5,2.62,28,27,Kharif,MOP (Muriate of Potash)
+Red Soil,Wheat,42,17,46,8.0,0.61,32,37,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,26,78,29,6.1,2.48,45,18,Rabi,Organic Neem Cake
+Sandy Soil,Wheat,87,99,27,5.7,1.36,47,38,Kharif,MOP (Muriate of Potash)
+Red Soil,Sugarcane,85,65,51,6.6,3.01,21,23,Rabi,NPK 19-19-19
+Black Soil,Potato,135,83,65,6.6,1.34,70,28,Zaid,NPK 19-19-19
+Loamy Soil,Onion,24,21,46,5.7,1.51,39,21,Zaid,NPK 19-19-19
+Clay Soil,Tomato,76,20,78,7.4,1.63,48,30,Zaid,DAP
+Sandy Soil,Corn,47,23,16,5.7,0.88,35,26,Rabi,Urea
+Clay Soil,Sugarcane,140,73,78,8.5,2.61,20,30,Rabi,NPK 19-19-19
+Red Soil,Tomato,74,68,52,8.3,2.49,51,23,Kharif,NPK 19-19-19
+Black Soil,Rice,95,96,10,8.3,0.65,65,19,Rabi,NPK 19-19-19
+Sandy Soil,Rice,43,49,21,6.0,1.22,68,40,Rabi,Urea
+Clay Soil,Banana,57,40,12,8.0,3.16,39,18,Rabi,MOP (Muriate of Potash)
+Clay Soil,Tomato,123,64,30,5.7,3.25,73,31,Kharif,Organic Neem Cake
+Loamy Soil,Corn,60,17,14,6.8,0.7,27,27,Rabi,DAP
+Red Soil,Cotton,20,54,27,6.4,2.77,74,19,Zaid,Urea
+Laterite Soil,Groundnut,14,100,20,5.2,2.29,42,40,Rabi,Urea
+Red Soil,Corn,66,55,54,6.5,2.84,34,36,Rabi,NPK 19-19-19
+Sandy Soil,Potato,51,57,54,8.2,3.94,51,29,Kharif,NPK 19-19-19
+Loamy Soil,Cotton,103,88,24,5.1,2.21,44,23,Rabi,MOP (Muriate of Potash)
+Red Soil,Cotton,34,19,63,7.4,1.92,51,18,Zaid,NPK 19-19-19
+Black Soil,Tomato,55,100,80,7.4,1.67,42,23,Zaid,NPK 19-19-19
+Black Soil,Banana,41,12,77,8.3,1.4,74,21,Kharif,NPK 19-19-19
+Loamy Soil,Rice,77,20,34,5.5,1.4,21,18,Rabi,DAP
+Laterite Soil,Tomato,137,56,59,6.7,3.29,31,27,Kharif,NPK 19-19-19
+Sandy Soil,Onion,59,55,37,7.1,0.68,61,21,Rabi,Vermicompost
+Laterite Soil,Rice,69,71,65,8.0,0.51,27,27,Kharif,Vermicompost
+Red Soil,Onion,101,90,44,5.4,3.75,65,31,Rabi,Organic Neem Cake
+Sandy Soil,Potato,115,31,15,7.9,3.12,32,38,Zaid,DAP
+Laterite Soil,Tomato,20,50,30,5.5,1.14,17,19,Kharif,Urea
+Red Soil,Potato,53,62,48,5.2,1.36,30,30,Zaid,Organic Neem Cake
+Laterite Soil,Tomato,132,68,34,6.5,3.22,29,32,Zaid,NPK 19-19-19
+Red Soil,Potato,37,33,75,7.4,3.14,31,38,Kharif,NPK 19-19-19
+Loamy Soil,Wheat,128,10,14,7.9,1.94,26,39,Zaid,DAP
+Sandy Soil,Cotton,53,18,33,7.8,3.0,71,33,Kharif,DAP
+Sandy Soil,Potato,96,73,34,5.4,1.75,47,29,Rabi,Organic Neem Cake
+Black Soil,Wheat,44,48,14,5.5,3.21,66,31,Zaid,Urea
+Red Soil,Corn,139,67,36,6.4,2.42,61,35,Rabi,NPK 19-19-19
+Red Soil,Corn,109,88,77,6.6,2.38,41,31,Kharif,NPK 19-19-19
+Black Soil,Banana,67,41,34,8.1,1.01,35,20,Kharif,Vermicompost
+Black Soil,Groundnut,39,83,42,5.3,0.68,21,38,Kharif,Urea
+Sandy Soil,Corn,74,15,38,8.5,1.0,47,29,Zaid,DAP
+Laterite Soil,Tomato,132,11,74,6.1,1.24,64,37,Kharif,DAP
+Clay Soil,Onion,24,95,53,8.0,0.61,39,18,Rabi,Urea
+Loamy Soil,Onion,30,49,12,6.1,1.49,50,34,Zaid,Urea
+Sandy Soil,Potato,71,55,62,5.3,1.9,22,26,Rabi,Organic Neem Cake
+Laterite Soil,Cotton,100,50,33,6.8,1.33,38,36,Zaid,NPK 19-19-19
+Black Soil,Groundnut,122,63,22,6.9,0.5,51,18,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Corn,128,38,71,8.3,1.95,55,24,Rabi,NPK 19-19-19
+Clay Soil,Potato,109,67,22,8.3,3.39,56,33,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Potato,47,49,60,6.9,0.91,73,27,Kharif,Urea
+Black Soil,Groundnut,83,96,70,7.7,1.94,40,38,Zaid,NPK 19-19-19
+Red Soil,Cotton,15,67,70,8.3,1.87,29,20,Rabi,Urea
+Laterite Soil,Cotton,78,89,69,6.5,3.55,70,18,Rabi,Urea
+Loamy Soil,Potato,136,93,36,5.9,3.84,68,29,Kharif,NPK 19-19-19
+Clay Soil,Cotton,45,99,38,6.5,2.75,21,32,Kharif,Urea
+Black Soil,Potato,126,48,49,7.6,2.22,25,31,Kharif,NPK 19-19-19
+Red Soil,Groundnut,66,27,58,6.8,3.15,66,40,Kharif,DAP
+Loamy Soil,Potato,51,82,71,8.2,2.29,25,34,Kharif,NPK 19-19-19
+Clay Soil,Sugarcane,14,17,47,7.0,1.56,54,28,Kharif,NPK 19-19-19
+Red Soil,Cotton,106,80,36,7.9,2.42,45,19,Kharif,NPK 19-19-19
+Clay Soil,Corn,44,40,29,5.4,3.96,38,32,Zaid,Urea
+Clay Soil,Banana,45,91,10,8.2,1.69,38,31,Kharif,Urea
+Loamy Soil,Banana,52,13,67,7.3,2.11,66,33,Zaid,DAP
+Laterite Soil,Onion,64,41,40,7.4,2.67,23,26,Kharif,NPK 19-19-19
+Black Soil,Corn,47,72,69,7.1,0.56,30,20,Kharif,Urea
+Sandy Soil,Rice,89,49,12,5.1,2.09,27,20,Zaid,MOP (Muriate of Potash)
+Clay Soil,Corn,27,72,33,7.3,1.8,53,31,Zaid,Urea
+Loamy Soil,Tomato,83,14,78,7.2,1.33,35,21,Rabi,DAP
+Loamy Soil,Groundnut,105,11,63,5.4,2.34,57,20,Rabi,DAP
+Clay Soil,Tomato,89,90,77,6.5,2.32,24,24,Kharif,NPK 19-19-19
+Clay Soil,Wheat,16,46,79,5.4,3.05,53,25,Rabi,Urea
+Loamy Soil,Onion,37,72,57,6.8,2.75,31,29,Kharif,Urea
+Loamy Soil,Wheat,104,41,19,7.4,0.66,42,35,Zaid,MOP (Muriate of Potash)
+Red Soil,Potato,10,15,26,5.9,0.99,17,28,Rabi,NPK 19-19-19
+Clay Soil,Corn,87,80,54,5.5,2.56,67,27,Kharif,Organic Neem Cake
+Red Soil,Sugarcane,75,59,55,7.2,0.79,18,19,Rabi,Vermicompost
+Sandy Soil,Onion,37,54,20,6.1,2.05,51,31,Rabi,Urea
+Loamy Soil,Tomato,11,45,74,6.1,1.01,29,39,Zaid,Urea
+Loamy Soil,Banana,108,65,39,7.3,3.36,71,25,Kharif,NPK 19-19-19
+Clay Soil,Groundnut,74,27,73,5.1,2.25,25,18,Zaid,DAP
+Laterite Soil,Groundnut,21,72,29,6.6,0.78,19,36,Kharif,Urea
+Black Soil,Corn,90,17,69,5.7,1.34,50,37,Kharif,DAP
+Black Soil,Cotton,20,24,43,7.5,1.46,56,40,Kharif,NPK 19-19-19
+Black Soil,Potato,84,60,52,6.2,2.15,31,20,Rabi,NPK 19-19-19
+Black Soil,Banana,18,59,10,5.8,1.33,44,21,Zaid,Urea
+Black Soil,Cotton,55,12,76,5.6,1.0,51,24,Kharif,DAP
+Clay Soil,Tomato,19,44,67,5.2,0.65,73,18,Zaid,Urea
+Loamy Soil,Cotton,67,37,53,6.0,2.62,34,37,Rabi,NPK 19-19-19
+Red Soil,Onion,90,95,28,7.3,0.91,71,34,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Banana,104,94,41,6.6,3.85,73,23,Kharif,NPK 19-19-19
+Red Soil,Groundnut,76,71,17,7.3,0.55,60,19,Kharif,MOP (Muriate of Potash)
+Clay Soil,Cotton,70,76,54,6.3,1.26,65,25,Zaid,NPK 19-19-19
+Sandy Soil,Potato,55,16,79,6.8,2.49,28,30,Rabi,DAP
+Sandy Soil,Banana,74,74,71,6.1,2.14,67,37,Rabi,NPK 19-19-19
+Loamy Soil,Onion,42,85,49,6.9,2.03,22,40,Zaid,Urea
+Red Soil,Wheat,69,69,39,7.0,3.7,50,20,Zaid,NPK 19-19-19
+Red Soil,Wheat,130,78,16,5.9,2.11,66,33,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Onion,87,20,76,6.0,1.88,21,25,Rabi,DAP
+Red Soil,Banana,93,27,67,8.3,0.89,72,21,Rabi,DAP
+Black Soil,Tomato,37,18,10,6.0,1.54,41,37,Rabi,NPK 19-19-19
+Red Soil,Sugarcane,64,49,13,7.0,1.54,73,28,Zaid,Organic Neem Cake
+Loamy Soil,Groundnut,25,64,70,7.1,3.63,20,39,Kharif,Urea
+Laterite Soil,Sugarcane,113,89,64,5.5,2.39,66,31,Kharif,Organic Neem Cake
+Laterite Soil,Cotton,64,93,69,7.0,1.2,59,37,Rabi,NPK 19-19-19
+Laterite Soil,Banana,135,76,15,7.4,3.71,22,27,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Wheat,103,99,27,6.1,1.18,44,23,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Banana,104,46,70,8.1,1.87,51,32,Rabi,NPK 19-19-19
+Laterite Soil,Sugarcane,134,94,49,7.1,3.42,58,21,Rabi,NPK 19-19-19
+Loamy Soil,Cotton,13,26,12,7.1,2.23,67,38,Rabi,NPK 19-19-19
+Black Soil,Groundnut,133,99,50,7.5,2.25,63,40,Rabi,NPK 19-19-19
+Red Soil,Wheat,90,13,52,7.6,3.55,34,19,Kharif,DAP
+Clay Soil,Tomato,31,100,43,8.2,0.86,16,24,Kharif,Urea
+Black Soil,Cotton,35,41,11,7.9,2.57,69,18,Rabi,Urea
+Loamy Soil,Rice,104,80,75,6.0,2.05,61,19,Rabi,Zinc Sulfate
+Black Soil,Groundnut,103,82,44,5.8,1.61,27,32,Zaid,NPK 19-19-19
+Clay Soil,Wheat,87,12,49,5.4,0.88,72,38,Zaid,DAP
+Laterite Soil,Wheat,132,76,35,7.9,3.62,65,20,Rabi,Zinc Sulfate
+Sandy Soil,Cotton,43,34,31,7.2,2.98,72,19,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,135,13,65,6.9,2.26,36,27,Zaid,DAP
+Clay Soil,Potato,73,32,19,5.8,1.23,50,24,Kharif,DAP
+Red Soil,Rice,65,100,76,8.4,0.7,50,40,Rabi,Vermicompost
+Sandy Soil,Potato,48,84,45,5.4,0.97,53,23,Rabi,Urea
+Clay Soil,Tomato,31,23,53,7.7,3.56,37,29,Zaid,NPK 19-19-19
+Black Soil,Onion,103,89,30,5.2,2.09,55,38,Kharif,Organic Neem Cake
+Red Soil,Rice,116,71,46,5.9,1.89,37,32,Kharif,Zinc Sulfate
+Clay Soil,Tomato,15,24,26,6.1,1.34,61,35,Rabi,NPK 19-19-19
+Loamy Soil,Groundnut,56,62,21,5.2,1.39,59,39,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Potato,43,27,72,7.9,3.32,62,25,Rabi,NPK 19-19-19
+Clay Soil,Groundnut,100,65,75,7.9,1.69,68,33,Kharif,NPK 19-19-19
+Sandy Soil,Onion,37,54,15,5.8,2.87,67,28,Kharif,Vermicompost
+Clay Soil,Tomato,129,76,59,5.1,3.66,69,34,Kharif,Organic Neem Cake
+Loamy Soil,Onion,138,61,23,5.0,1.46,23,34,Zaid,MOP (Muriate of Potash)
+Black Soil,Onion,23,15,76,7.3,3.01,40,25,Zaid,NPK 19-19-19
+Black Soil,Cotton,103,54,15,7.7,0.97,19,38,Zaid,MOP (Muriate of Potash)
+Red Soil,Tomato,125,48,31,6.4,2.31,54,28,Zaid,NPK 19-19-19
+Red Soil,Tomato,139,17,47,7.2,0.88,58,28,Kharif,DAP
+Loamy Soil,Onion,26,61,61,6.8,2.4,51,21,Kharif,Urea
+Red Soil,Rice,21,50,53,6.3,0.81,30,29,Rabi,DAP
+Loamy Soil,Groundnut,124,31,65,7.8,1.0,68,36,Rabi,DAP
+Red Soil,Sugarcane,99,43,78,7.2,0.85,75,36,Rabi,Vermicompost
+Loamy Soil,Potato,90,64,34,8.3,2.69,75,37,Kharif,Urea
+Black Soil,Sugarcane,122,45,35,6.6,3.65,72,37,Kharif,NPK 19-19-19
+Black Soil,Rice,100,48,54,6.0,3.62,54,37,Kharif,Zinc Sulfate
+Red Soil,Banana,45,89,41,6.3,2.12,56,25,Zaid,Urea
+Sandy Soil,Sugarcane,56,35,36,5.7,1.96,44,32,Zaid,Organic Neem Cake
+Loamy Soil,Wheat,34,56,49,5.7,2.89,60,25,Zaid,Urea
+Loamy Soil,Banana,125,63,23,5.2,3.23,25,38,Rabi,MOP (Muriate of Potash)
+Black Soil,Groundnut,60,87,57,7.4,3.87,53,33,Rabi,NPK 19-19-19
+Clay Soil,Onion,109,90,19,6.4,1.26,50,22,Kharif,MOP (Muriate of Potash)
+Clay Soil,Corn,31,38,24,6.3,3.0,52,31,Zaid,Urea
+Black Soil,Tomato,46,48,42,7.1,1.52,23,27,Kharif,Urea
+Laterite Soil,Onion,138,75,25,5.7,3.03,47,33,Zaid,MOP (Muriate of Potash)
+Red Soil,Sugarcane,54,66,66,7.4,2.01,33,22,Rabi,NPK 19-19-19
+Loamy Soil,Onion,114,65,76,7.3,0.58,41,37,Rabi,NPK 19-19-19
+Loamy Soil,Tomato,50,88,67,6.9,1.71,32,21,Zaid,NPK 19-19-19
+Clay Soil,Onion,80,99,26,8.2,3.72,40,26,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Onion,16,80,33,6.7,3.17,63,39,Kharif,Urea
+Clay Soil,Rice,60,41,53,8.4,2.73,70,29,Kharif,NPK 19-19-19
+Sandy Soil,Banana,111,48,36,7.1,2.28,15,31,Kharif,NPK 19-19-19
+Black Soil,Sugarcane,52,90,55,6.3,3.47,27,19,Zaid,NPK 19-19-19
+Loamy Soil,Corn,69,22,45,6.3,3.51,75,38,Zaid,DAP
+Black Soil,Onion,59,89,29,6.0,0.97,38,40,Zaid,MOP (Muriate of Potash)
+Clay Soil,Banana,64,94,65,6.4,1.73,44,18,Kharif,NPK 19-19-19
+Clay Soil,Groundnut,76,65,66,6.4,3.05,30,39,Rabi,NPK 19-19-19
+Sandy Soil,Banana,43,95,31,8.0,2.4,18,24,Kharif,Urea
+Red Soil,Rice,47,33,20,6.6,0.52,22,34,Zaid,Urea
+Sandy Soil,Cotton,50,51,74,5.0,2.05,31,38,Kharif,Organic Neem Cake
+Black Soil,Corn,67,36,72,5.9,1.02,71,29,Kharif,Vermicompost
+Laterite Soil,Corn,18,89,18,7.5,1.83,27,18,Rabi,Urea
+Black Soil,Rice,15,55,69,6.1,1.46,39,31,Kharif,Urea
+Red Soil,Groundnut,59,26,40,7.1,1.11,54,27,Zaid,DAP
+Red Soil,Onion,101,61,63,5.5,2.95,65,31,Zaid,Organic Neem Cake
+Red Soil,Rice,118,68,71,5.3,2.91,62,19,Kharif,Organic Neem Cake
+Clay Soil,Rice,79,94,15,7.6,3.91,17,25,Rabi,MOP (Muriate of Potash)
+Red Soil,Potato,19,92,78,6.3,2.04,46,21,Zaid,Urea
+Sandy Soil,Rice,49,31,36,5.3,2.33,74,34,Kharif,Urea
+Sandy Soil,Cotton,130,20,35,7.7,2.86,38,21,Kharif,DAP
+Clay Soil,Groundnut,15,86,35,5.9,3.81,62,38,Kharif,Urea
+Loamy Soil,Tomato,111,14,73,6.8,0.65,34,26,Rabi,DAP
+Laterite Soil,Tomato,65,41,53,6.9,3.58,37,26,Kharif,NPK 19-19-19
+Clay Soil,Tomato,36,16,11,6.8,2.98,59,32,Rabi,NPK 19-19-19
+Black Soil,Wheat,122,43,33,6.7,2.15,66,32,Kharif,Organic Neem Cake
+Laterite Soil,Tomato,32,85,26,5.9,0.99,15,19,Kharif,Urea
+Red Soil,Corn,80,76,49,6.7,2.66,34,32,Rabi,NPK 19-19-19
+Black Soil,Cotton,11,66,27,7.1,2.82,33,30,Zaid,Urea
+Sandy Soil,Banana,64,56,13,5.7,1.13,29,39,Kharif,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,83,70,11,7.9,1.61,52,34,Zaid,MOP (Muriate of Potash)
+Clay Soil,Tomato,39,12,40,6.2,3.39,55,27,Kharif,NPK 19-19-19
+Loamy Soil,Onion,38,77,70,7.1,2.44,62,35,Kharif,Urea
+Red Soil,Rice,56,75,21,7.7,1.03,15,19,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Corn,74,12,21,6.7,0.57,43,38,Zaid,DAP
+Sandy Soil,Banana,29,71,27,5.7,2.78,52,35,Kharif,Urea
+Loamy Soil,Corn,119,89,74,5.5,0.69,19,27,Kharif,Organic Neem Cake
+Clay Soil,Tomato,107,15,27,6.5,0.98,45,39,Kharif,Vermicompost
+Red Soil,Rice,88,96,60,5.2,3.43,43,32,Rabi,NPK 19-19-19
+Clay Soil,Banana,26,81,51,6.2,2.7,41,33,Zaid,Urea
+Red Soil,Sugarcane,15,89,12,6.2,1.79,28,32,Rabi,Urea
+Sandy Soil,Banana,131,62,21,8.0,1.05,56,40,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Banana,10,14,72,6.0,1.11,66,18,Rabi,NPK 19-19-19
+Loamy Soil,Rice,83,74,76,8.4,1.22,27,30,Rabi,Zinc Sulfate
+Black Soil,Sugarcane,41,58,10,7.3,1.82,69,20,Rabi,Urea
+Loamy Soil,Cotton,55,13,77,6.0,3.04,33,21,Kharif,DAP
+Sandy Soil,Rice,47,45,42,7.0,2.48,44,35,Kharif,Urea
+Laterite Soil,Sugarcane,110,89,42,5.9,2.2,21,20,Zaid,NPK 19-19-19
+Clay Soil,Potato,68,83,75,6.8,2.15,52,23,Zaid,NPK 19-19-19
+Red Soil,Sugarcane,137,69,60,7.9,1.87,69,29,Kharif,NPK 19-19-19
+Black Soil,Potato,97,31,17,5.1,1.06,54,34,Rabi,DAP
+Laterite Soil,Cotton,133,96,44,5.8,0.95,57,27,Kharif,Vermicompost
+Clay Soil,Groundnut,90,47,69,7.7,2.5,57,22,Kharif,NPK 19-19-19
+Laterite Soil,Onion,87,43,10,5.9,1.74,37,27,Kharif,MOP (Muriate of Potash)
+Clay Soil,Tomato,38,55,36,7.6,2.11,57,27,Kharif,Urea
+Laterite Soil,Onion,26,100,39,6.0,2.32,59,22,Rabi,Urea
+Sandy Soil,Banana,59,67,73,6.2,1.18,42,34,Rabi,Vermicompost
+Red Soil,Sugarcane,114,15,75,8.2,3.97,46,23,Zaid,DAP
+Black Soil,Sugarcane,90,97,41,7.3,1.93,15,40,Zaid,NPK 19-19-19
+Laterite Soil,Sugarcane,29,42,57,6.6,3.55,75,40,Kharif,Urea
+Sandy Soil,Groundnut,30,69,33,8.3,0.68,52,33,Rabi,Organic Neem Cake
+Loamy Soil,Rice,48,52,22,6.0,3.79,62,21,Zaid,Urea
+Sandy Soil,Rice,72,94,68,7.9,1.67,20,18,Kharif,NPK 19-19-19
+Sandy Soil,Corn,112,47,65,7.8,1.56,17,35,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,74,85,51,5.2,1.96,63,23,Kharif,DAP
+Clay Soil,Onion,135,72,47,6.5,3.72,49,25,Kharif,NPK 19-19-19
+Black Soil,Tomato,84,63,35,8.2,1.07,54,29,Zaid,Vermicompost
+Loamy Soil,Cotton,33,28,77,7.5,2.8,72,29,Kharif,NPK 19-19-19
+Black Soil,Potato,59,40,60,6.8,3.24,54,23,Rabi,NPK 19-19-19
+Clay Soil,Banana,61,37,31,7.4,2.74,42,34,Rabi,NPK 19-19-19
+Red Soil,Cotton,77,36,59,5.7,3.21,75,32,Rabi,Organic Neem Cake
+Red Soil,Wheat,96,89,43,6.8,1.26,28,38,Kharif,Zinc Sulfate
+Black Soil,Cotton,118,86,29,7.1,3.86,20,39,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Tomato,53,99,74,7.9,0.79,57,31,Rabi,Vermicompost
+Laterite Soil,Groundnut,114,87,41,8.1,3.24,74,23,Zaid,NPK 19-19-19
+Loamy Soil,Potato,96,58,75,6.6,3.57,65,37,Kharif,NPK 19-19-19
+Laterite Soil,Onion,95,37,27,6.4,3.57,54,40,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Wheat,96,28,62,8.5,1.77,40,28,Rabi,DAP
+Sandy Soil,Cotton,86,54,62,6.8,1.0,39,40,Zaid,Vermicompost
+Laterite Soil,Sugarcane,120,79,30,8.4,0.78,34,20,Rabi,Vermicompost
+Sandy Soil,Rice,128,76,41,6.7,3.49,51,36,Zaid,Vermicompost
+Black Soil,Corn,23,36,17,6.2,0.91,63,23,Zaid,Urea
+Sandy Soil,Groundnut,138,34,20,7.9,1.58,44,21,Rabi,DAP
+Red Soil,Potato,116,79,10,6.5,0.53,64,29,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Cotton,48,13,66,6.1,3.28,62,19,Kharif,Urea
+Loamy Soil,Potato,91,61,22,7.4,0.62,35,32,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Onion,87,100,53,7.1,3.61,51,40,Zaid,NPK 19-19-19
+Black Soil,Tomato,48,96,18,5.3,0.56,55,30,Kharif,Urea
+Red Soil,Corn,110,99,30,8.2,3.75,70,19,Zaid,NPK 19-19-19
+Black Soil,Banana,95,95,25,7.5,1.03,17,34,Zaid,MOP (Muriate of Potash)
+Red Soil,Potato,101,49,24,5.3,1.66,40,37,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Groundnut,94,54,59,7.8,1.2,22,33,Zaid,NPK 19-19-19
+Red Soil,Banana,90,87,43,8.5,3.79,74,31,Rabi,NPK 19-19-19
+Laterite Soil,Rice,28,14,14,7.4,2.58,18,38,Zaid,NPK 19-19-19
+Black Soil,Corn,83,34,34,8.3,0.82,74,20,Kharif,DAP
+Black Soil,Potato,113,56,73,5.4,3.65,42,21,Rabi,DAP
+Black Soil,Wheat,95,59,48,7.3,1.44,18,37,Kharif,Zinc Sulfate
+Clay Soil,Potato,66,79,12,6.5,3.78,51,33,Zaid,MOP (Muriate of Potash)
+Red Soil,Corn,128,98,26,7.3,2.77,49,40,Rabi,MOP (Muriate of Potash)
+Black Soil,Onion,111,14,33,5.7,1.16,72,30,Rabi,DAP
+Clay Soil,Rice,81,59,67,6.3,2.65,53,32,Zaid,Zinc Sulfate
+Laterite Soil,Corn,10,13,40,7.1,2.14,53,39,Rabi,NPK 19-19-19
+Red Soil,Banana,112,52,30,8.5,2.91,35,24,Zaid,NPK 19-19-19
+Clay Soil,Rice,36,54,14,6.5,3.61,56,35,Kharif,Urea
+Black Soil,Cotton,126,80,78,8.1,3.31,69,21,Kharif,NPK 19-19-19
+Clay Soil,Onion,36,24,11,6.4,2.43,67,40,Zaid,NPK 19-19-19
+Black Soil,Tomato,61,88,27,5.4,2.55,24,30,Zaid,MOP (Muriate of Potash)
+Clay Soil,Wheat,119,58,11,5.4,3.7,47,29,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Cotton,13,17,69,7.2,1.83,60,22,Rabi,NPK 19-19-19
+Clay Soil,Tomato,24,56,66,5.7,2.63,37,28,Kharif,Urea
+Loamy Soil,Cotton,42,58,45,5.4,1.61,40,18,Kharif,Urea
+Laterite Soil,Potato,16,100,76,6.7,0.54,47,38,Rabi,Urea
+Loamy Soil,Corn,14,88,57,5.6,0.63,40,26,Zaid,Urea
+Sandy Soil,Onion,50,23,51,5.9,1.06,42,33,Zaid,DAP
+Loamy Soil,Cotton,65,94,28,6.6,3.99,41,36,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,66,39,16,7.9,1.49,59,34,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Rice,109,66,16,5.7,0.67,24,36,Rabi,MOP (Muriate of Potash)
+Red Soil,Cotton,140,33,53,7.5,3.47,53,39,Kharif,DAP
+Sandy Soil,Groundnut,64,80,58,5.1,1.47,28,34,Rabi,Organic Neem Cake
+Sandy Soil,Corn,11,95,17,6.9,2.73,56,18,Rabi,Urea
+Loamy Soil,Groundnut,131,50,78,7.1,2.72,50,38,Kharif,NPK 19-19-19
+Sandy Soil,Banana,103,35,47,5.8,0.58,53,30,Kharif,Vermicompost
+Sandy Soil,Corn,118,78,20,7.0,3.76,46,23,Zaid,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,15,61,57,5.7,1.34,39,31,Kharif,Urea
+Loamy Soil,Cotton,97,67,77,5.5,3.09,16,37,Rabi,Organic Neem Cake
+Black Soil,Cotton,90,57,33,8.2,1.74,37,32,Kharif,NPK 19-19-19
+Black Soil,Potato,30,30,78,6.1,2.32,21,26,Zaid,NPK 19-19-19
+Clay Soil,Onion,58,58,43,6.8,2.98,44,25,Zaid,NPK 19-19-19
+Sandy Soil,Corn,119,90,28,7.7,3.57,21,23,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Banana,109,64,41,7.0,3.89,36,29,Zaid,NPK 19-19-19
+Sandy Soil,Corn,29,44,23,7.7,3.3,52,23,Rabi,Urea
+Loamy Soil,Groundnut,127,22,36,5.6,1.51,39,21,Rabi,DAP
+Loamy Soil,Sugarcane,49,23,32,5.2,3.82,57,36,Rabi,Urea
+Laterite Soil,Rice,130,41,10,7.9,2.79,37,19,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,80,71,21,5.8,1.42,32,30,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,78,30,69,6.7,2.25,70,31,Zaid,DAP
+Clay Soil,Onion,66,70,10,8.3,3.46,59,25,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Cotton,133,47,11,5.3,3.96,32,37,Rabi,MOP (Muriate of Potash)
+Black Soil,Tomato,79,94,42,5.0,2.34,40,19,Rabi,Organic Neem Cake
+Black Soil,Rice,76,62,25,5.8,3.89,36,24,Zaid,MOP (Muriate of Potash)
+Red Soil,Potato,47,97,65,5.7,0.72,51,36,Kharif,Urea
+Sandy Soil,Potato,46,17,54,7.3,1.16,66,39,Kharif,Urea
+Black Soil,Rice,110,30,22,5.8,3.21,36,33,Kharif,DAP
+Sandy Soil,Potato,99,13,17,7.7,2.37,59,25,Rabi,DAP
+Loamy Soil,Groundnut,80,42,56,5.1,3.78,20,35,Kharif,Organic Neem Cake
+Clay Soil,Potato,72,36,51,7.8,3.86,74,36,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,72,41,34,5.9,2.61,66,28,Kharif,NPK 19-19-19
+Red Soil,Rice,132,72,47,7.6,2.89,20,22,Kharif,Zinc Sulfate
+Clay Soil,Groundnut,55,45,80,7.7,1.36,69,38,Rabi,NPK 19-19-19
+Loamy Soil,Banana,118,74,76,6.7,0.88,54,22,Rabi,Vermicompost
+Clay Soil,Rice,32,22,10,7.5,1.33,57,31,Rabi,NPK 19-19-19
+Clay Soil,Tomato,62,93,47,6.2,3.14,57,34,Rabi,NPK 19-19-19
+Loamy Soil,Rice,55,51,51,8.0,3.99,18,24,Kharif,NPK 19-19-19
+Clay Soil,Tomato,89,63,69,7.8,0.83,70,37,Kharif,Vermicompost
+Loamy Soil,Onion,64,63,51,7.1,0.56,50,22,Zaid,Vermicompost
+Sandy Soil,Rice,131,24,26,5.2,3.55,48,39,Rabi,DAP
+Sandy Soil,Sugarcane,125,54,16,8.2,2.26,57,39,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Banana,24,23,80,6.7,2.89,68,19,Kharif,NPK 19-19-19
+Loamy Soil,Corn,29,63,72,6.2,1.97,55,20,Zaid,Urea
+Laterite Soil,Sugarcane,42,77,71,8.3,2.68,25,23,Kharif,Urea
+Red Soil,Cotton,91,47,42,6.2,0.64,40,18,Kharif,Vermicompost
+Loamy Soil,Sugarcane,61,58,58,6.7,1.63,29,30,Kharif,NPK 19-19-19
+Red Soil,Wheat,90,91,62,8.4,3.22,30,29,Zaid,Zinc Sulfate
+Clay Soil,Tomato,28,88,13,5.8,2.49,73,39,Zaid,Urea
+Red Soil,Wheat,58,56,25,6.2,1.56,59,28,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Groundnut,28,31,62,5.6,3.43,28,26,Rabi,NPK 19-19-19
+Laterite Soil,Banana,21,13,19,5.7,0.56,65,26,Kharif,NPK 19-19-19
+Red Soil,Rice,12,47,39,6.0,3.84,33,35,Zaid,Urea
+Black Soil,Corn,98,30,55,5.0,3.81,70,26,Rabi,DAP
+Laterite Soil,Groundnut,51,42,66,5.6,1.04,44,33,Rabi,Organic Neem Cake
+Sandy Soil,Potato,76,77,22,7.1,3.88,68,21,Kharif,MOP (Muriate of Potash)
+Clay Soil,Cotton,91,41,63,7.6,1.9,38,26,Zaid,NPK 19-19-19
+Laterite Soil,Banana,21,81,23,5.0,2.18,62,31,Kharif,Urea
+Loamy Soil,Groundnut,17,68,52,8.1,0.51,40,29,Zaid,Urea
+Loamy Soil,Tomato,76,88,40,5.3,1.48,57,39,Rabi,Organic Neem Cake
+Sandy Soil,Banana,77,54,48,5.7,2.74,40,26,Kharif,Organic Neem Cake
+Red Soil,Wheat,115,41,77,5.5,1.25,18,39,Rabi,Organic Neem Cake
+Red Soil,Wheat,40,28,67,6.5,1.49,47,18,Zaid,NPK 19-19-19
+Laterite Soil,Cotton,100,48,33,6.4,1.34,57,18,Rabi,NPK 19-19-19
+Loamy Soil,Onion,57,55,32,5.5,1.75,25,36,Rabi,Organic Neem Cake
+Black Soil,Tomato,123,33,78,6.9,1.96,40,31,Rabi,DAP
+Laterite Soil,Banana,16,17,26,6.8,1.38,17,23,Zaid,NPK 19-19-19
+Red Soil,Groundnut,40,65,62,6.4,1.35,23,26,Rabi,Urea
+Clay Soil,Sugarcane,24,55,31,7.2,2.43,27,23,Kharif,Urea
+Black Soil,Wheat,81,65,41,5.5,0.8,31,21,Rabi,Organic Neem Cake
+Loamy Soil,Onion,86,68,13,8.0,2.82,54,35,Zaid,MOP (Muriate of Potash)
+Clay Soil,Groundnut,135,28,15,7.1,2.42,38,27,Zaid,DAP
+Black Soil,Corn,133,60,47,8.2,1.49,55,29,Kharif,NPK 19-19-19
+Loamy Soil,Corn,32,40,16,5.6,3.21,49,33,Kharif,Urea
+Red Soil,Rice,82,78,18,7.5,1.75,22,35,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Groundnut,82,56,12,7.1,3.29,39,30,Zaid,MOP (Muriate of Potash)
+Clay Soil,Tomato,91,21,22,8.1,3.52,54,29,Kharif,DAP
+Loamy Soil,Potato,61,85,50,6.7,3.21,36,38,Kharif,NPK 19-19-19
+Red Soil,Banana,67,94,37,6.5,2.07,58,28,Zaid,NPK 19-19-19
+Laterite Soil,Corn,72,85,21,7.1,3.61,56,31,Zaid,Organic Neem Cake
+Clay Soil,Groundnut,56,12,55,7.3,2.43,29,40,Rabi,DAP
+Laterite Soil,Wheat,34,57,80,7.8,3.05,67,24,Kharif,Urea
+Loamy Soil,Banana,123,30,36,6.9,1.98,47,26,Rabi,DAP
+Laterite Soil,Banana,41,61,78,5.8,3.45,22,19,Rabi,Urea
+Clay Soil,Banana,45,95,19,6.6,0.58,50,19,Kharif,Urea
+Black Soil,Banana,106,43,42,6.8,3.4,71,37,Kharif,NPK 19-19-19
+Sandy Soil,Corn,21,28,33,5.5,3.68,19,35,Rabi,NPK 19-19-19
+Laterite Soil,Corn,79,66,63,5.4,1.52,74,40,Zaid,Organic Neem Cake
+Sandy Soil,Groundnut,54,81,25,5.8,3.67,30,31,Kharif,MOP (Muriate of Potash)
+Clay Soil,Rice,81,52,27,8.2,0.6,66,36,Kharif,MOP (Muriate of Potash)
+Clay Soil,Rice,71,41,73,7.9,2.02,65,33,Rabi,NPK 19-19-19
+Laterite Soil,Corn,122,43,36,7.7,3.99,37,19,Zaid,NPK 19-19-19
+Loamy Soil,Tomato,110,14,45,6.5,2.35,39,36,Rabi,DAP
+Red Soil,Potato,130,28,30,7.0,1.46,53,37,Zaid,DAP
+Laterite Soil,Cotton,138,40,27,5.4,3.31,29,21,Rabi,MOP (Muriate of Potash)
+Black Soil,Groundnut,62,13,15,7.4,1.85,65,24,Kharif,DAP
+Loamy Soil,Tomato,57,32,34,7.6,1.47,73,40,Kharif,DAP
+Red Soil,Potato,121,32,41,7.5,1.33,44,36,Zaid,DAP
+Clay Soil,Banana,31,54,61,5.6,2.59,66,25,Zaid,Urea
+Sandy Soil,Cotton,110,29,30,7.5,3.2,67,29,Kharif,DAP
+Black Soil,Onion,61,69,62,6.9,1.12,61,23,Zaid,Vermicompost
+Laterite Soil,Rice,63,81,42,7.9,2.68,23,25,Kharif,NPK 19-19-19
+Black Soil,Banana,81,98,80,6.2,3.92,33,22,Zaid,NPK 19-19-19
+Loamy Soil,Sugarcane,25,54,34,6.3,2.75,37,27,Kharif,Urea
+Laterite Soil,Banana,95,66,48,7.1,3.3,22,19,Rabi,NPK 19-19-19
+Laterite Soil,Sugarcane,131,68,70,8.5,3.73,20,40,Kharif,NPK 19-19-19
+Red Soil,Tomato,13,100,65,7.4,3.34,70,38,Rabi,Urea
+Loamy Soil,Potato,30,38,36,8.0,3.83,58,33,Zaid,Urea
+Loamy Soil,Wheat,50,85,27,6.6,1.62,24,20,Rabi,MOP (Muriate of Potash)
+Black Soil,Wheat,98,22,48,7.4,1.41,30,36,Rabi,DAP
+Clay Soil,Tomato,46,55,54,6.2,3.74,16,32,Kharif,Urea
+Loamy Soil,Tomato,134,51,11,5.7,3.02,43,36,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Corn,77,69,19,7.8,2.42,68,31,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Onion,68,97,27,6.9,3.7,53,32,Kharif,MOP (Muriate of Potash)
+Red Soil,Rice,38,55,32,6.9,0.51,31,36,Rabi,Urea
+Black Soil,Sugarcane,29,41,16,8.3,1.16,68,30,Rabi,Urea
+Black Soil,Onion,35,51,45,5.6,3.47,44,24,Rabi,Urea
+Clay Soil,Sugarcane,104,42,23,8.0,0.54,48,19,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Tomato,125,21,31,5.2,1.96,21,25,Kharif,DAP
+Black Soil,Potato,25,100,50,6.3,1.2,39,27,Kharif,Urea
+Laterite Soil,Rice,93,34,36,5.7,0.63,60,24,Rabi,DAP
+Clay Soil,Corn,112,93,61,6.7,3.76,74,24,Rabi,NPK 19-19-19
+Laterite Soil,Sugarcane,51,80,64,7.2,1.01,31,37,Rabi,Vermicompost
+Red Soil,Sugarcane,42,21,37,7.2,3.21,29,21,Kharif,NPK 19-19-19
+Clay Soil,Tomato,53,69,17,5.6,2.61,35,26,Kharif,MOP (Muriate of Potash)
+Black Soil,Potato,63,17,16,6.3,3.79,24,39,Rabi,DAP
+Clay Soil,Groundnut,49,30,43,5.1,2.25,30,28,Kharif,Urea
+Laterite Soil,Groundnut,34,21,12,6.6,3.19,56,23,Kharif,NPK 19-19-19
+Clay Soil,Onion,89,10,63,7.3,3.4,52,39,Rabi,DAP
+Sandy Soil,Groundnut,93,94,54,7.2,3.77,53,28,Zaid,NPK 19-19-19
+Sandy Soil,Tomato,76,47,72,6.2,1.65,63,23,Zaid,NPK 19-19-19
+Sandy Soil,Onion,115,43,65,6.8,3.85,68,22,Zaid,NPK 19-19-19
+Red Soil,Groundnut,124,90,36,6.2,0.87,52,34,Rabi,Vermicompost
+Sandy Soil,Potato,32,98,27,8.1,3.82,46,22,Zaid,Urea
+Loamy Soil,Groundnut,99,24,24,5.1,0.55,61,23,Rabi,DAP
+Laterite Soil,Rice,133,70,16,6.5,1.41,47,27,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Onion,43,99,37,5.5,2.76,57,28,Zaid,Urea
+Sandy Soil,Wheat,23,52,56,8.5,2.23,28,34,Kharif,Urea
+Sandy Soil,Banana,29,45,80,6.8,2.08,26,24,Zaid,Urea
+Red Soil,Banana,29,17,32,8.1,2.88,49,37,Zaid,NPK 19-19-19
+Black Soil,Banana,50,29,31,6.8,2.78,70,32,Zaid,DAP
+Laterite Soil,Rice,78,99,65,6.9,1.16,52,23,Kharif,Vermicompost
+Loamy Soil,Groundnut,132,65,70,7.5,3.55,54,19,Zaid,NPK 19-19-19
+Laterite Soil,Tomato,83,25,67,6.8,3.4,44,23,Kharif,DAP
+Laterite Soil,Rice,11,90,65,5.5,2.65,15,37,Zaid,Urea
+Sandy Soil,Wheat,91,72,21,8.0,1.28,60,24,Zaid,MOP (Muriate of Potash)
+Red Soil,Groundnut,134,96,27,7.4,3.45,69,27,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Wheat,95,31,36,7.2,3.81,49,22,Zaid,DAP
+Black Soil,Groundnut,44,60,15,7.0,1.12,19,23,Zaid,Urea
+Clay Soil,Wheat,26,25,25,5.8,2.31,42,35,Rabi,NPK 19-19-19
+Clay Soil,Groundnut,135,53,65,7.4,3.97,16,32,Zaid,NPK 19-19-19
+Red Soil,Banana,119,20,78,6.2,3.1,51,32,Zaid,DAP
+Sandy Soil,Wheat,19,72,66,5.9,3.35,66,30,Rabi,Urea
+Sandy Soil,Wheat,29,14,78,5.7,3.51,71,32,Rabi,NPK 19-19-19
+Black Soil,Corn,39,66,38,7.6,3.99,60,19,Rabi,Urea
+Laterite Soil,Wheat,30,54,41,6.2,3.83,50,32,Kharif,Urea
+Black Soil,Banana,96,62,61,5.5,0.75,37,19,Kharif,Organic Neem Cake
+Red Soil,Tomato,27,13,46,6.1,3.25,72,36,Rabi,NPK 19-19-19
+Laterite Soil,Groundnut,57,31,53,6.6,0.95,64,22,Kharif,DAP
+Loamy Soil,Rice,30,91,13,8.5,3.55,75,26,Rabi,Urea
+Laterite Soil,Onion,72,60,31,7.8,2.18,30,25,Zaid,NPK 19-19-19
+Black Soil,Potato,81,74,55,8.4,2.59,31,21,Rabi,NPK 19-19-19
+Sandy Soil,Corn,106,37,60,8.1,0.85,49,28,Kharif,NPK 19-19-19
+Laterite Soil,Potato,46,74,55,5.9,2.34,36,31,Rabi,Urea
+Clay Soil,Wheat,82,10,64,5.7,2.22,30,18,Kharif,DAP
+Black Soil,Rice,74,49,66,6.7,3.42,49,23,Zaid,NPK 19-19-19
+Laterite Soil,Banana,110,11,21,8.1,1.34,25,29,Zaid,DAP
+Laterite Soil,Onion,115,38,36,7.1,3.06,65,19,Rabi,NPK 19-19-19
+Laterite Soil,Groundnut,70,41,33,5.8,3.31,25,20,Kharif,NPK 19-19-19
+Black Soil,Tomato,117,30,11,8.0,2.34,55,20,Rabi,DAP
+Laterite Soil,Cotton,115,25,12,5.8,2.21,57,21,Rabi,DAP
+Loamy Soil,Tomato,39,99,64,6.6,3.32,64,20,Zaid,Organic Neem Cake
+Sandy Soil,Groundnut,56,51,13,8.4,1.27,15,28,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Cotton,100,65,12,7.3,3.45,58,21,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Corn,88,15,79,7.3,3.55,73,34,Kharif,DAP
+Laterite Soil,Wheat,108,54,13,6.8,3.64,74,24,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Potato,140,20,12,7.3,0.58,45,27,Kharif,DAP
+Loamy Soil,Tomato,72,96,30,5.3,1.08,62,34,Zaid,Organic Neem Cake
+Red Soil,Potato,51,12,10,5.9,2.62,18,37,Rabi,DAP
+Clay Soil,Cotton,135,78,27,5.6,0.71,30,35,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Wheat,121,52,79,6.8,3.78,51,31,Zaid,Zinc Sulfate
+Black Soil,Wheat,36,47,21,7.9,3.6,21,38,Kharif,Urea
+Laterite Soil,Banana,55,15,60,8.5,0.72,72,33,Zaid,DAP
+Loamy Soil,Rice,44,49,22,7.1,2.9,58,18,Zaid,Urea
+Laterite Soil,Wheat,136,18,40,6.3,0.74,36,37,Zaid,DAP
+Sandy Soil,Sugarcane,125,91,65,6.6,3.89,70,40,Zaid,NPK 19-19-19
+Laterite Soil,Banana,93,10,13,8.4,3.87,39,40,Kharif,DAP
+Clay Soil,Sugarcane,31,93,71,5.2,1.58,37,33,Rabi,Urea
+Sandy Soil,Groundnut,121,96,10,8.2,3.72,67,26,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Onion,112,18,50,6.6,3.94,31,32,Zaid,DAP
+Black Soil,Onion,78,30,49,7.0,3.8,50,37,Zaid,DAP
+Loamy Soil,Cotton,75,64,37,8.4,2.93,63,28,Rabi,NPK 19-19-19
+Clay Soil,Onion,107,66,54,7.4,1.9,51,20,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,137,61,24,7.6,1.93,23,32,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Wheat,25,41,64,5.5,2.19,28,27,Kharif,Urea
+Black Soil,Groundnut,136,50,40,5.4,0.71,56,34,Kharif,Organic Neem Cake
+Clay Soil,Tomato,123,40,17,8.0,1.25,69,36,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Corn,88,51,58,8.3,3.54,41,19,Rabi,NPK 19-19-19
+Clay Soil,Groundnut,140,95,78,5.8,2.39,48,34,Rabi,NPK 19-19-19
+Clay Soil,Potato,18,36,56,7.0,3.42,23,26,Kharif,Urea
+Red Soil,Tomato,43,48,26,5.1,0.67,70,31,Zaid,Urea
+Black Soil,Cotton,45,98,53,8.2,1.14,54,26,Kharif,Urea
+Black Soil,Cotton,139,100,25,8.2,1.18,42,35,Kharif,MOP (Muriate of Potash)
+Red Soil,Rice,42,91,28,8.2,1.13,45,19,Kharif,Urea
+Sandy Soil,Potato,64,33,56,7.0,1.42,64,19,Rabi,DAP
+Red Soil,Cotton,31,85,65,8.3,1.68,70,25,Rabi,Urea
+Loamy Soil,Corn,64,87,36,6.9,1.19,45,38,Zaid,Vermicompost
+Clay Soil,Wheat,14,64,21,5.9,2.58,25,22,Rabi,Urea
+Red Soil,Onion,96,46,14,7.1,0.7,43,35,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Onion,25,64,54,5.5,2.28,60,40,Kharif,Urea
+Laterite Soil,Groundnut,118,100,34,6.4,0.78,37,36,Zaid,Vermicompost
+Laterite Soil,Banana,134,83,26,5.5,1.72,72,36,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Sugarcane,90,29,71,7.2,3.32,50,21,Kharif,DAP
+Red Soil,Sugarcane,97,37,40,6.2,1.7,46,29,Zaid,NPK 19-19-19
+Red Soil,Onion,97,96,70,5.2,3.94,18,28,Kharif,Organic Neem Cake
+Sandy Soil,Tomato,104,48,19,6.3,1.3,25,23,Rabi,MOP (Muriate of Potash)
+Black Soil,Banana,101,81,49,7.8,3.22,66,34,Rabi,NPK 19-19-19
+Loamy Soil,Banana,139,42,72,6.6,3.86,30,38,Zaid,Urea
+Loamy Soil,Onion,87,57,69,6.3,3.5,15,21,Kharif,NPK 19-19-19
+Black Soil,Sugarcane,72,86,26,8.4,2.51,38,21,Rabi,MOP (Muriate of Potash)
+Clay Soil,Tomato,82,37,34,6.4,2.05,70,35,Kharif,NPK 19-19-19
+Laterite Soil,Banana,123,13,80,6.6,3.57,52,37,Zaid,DAP
+Laterite Soil,Sugarcane,82,19,62,6.1,3.05,73,30,Kharif,DAP
+Sandy Soil,Tomato,44,36,43,8.0,1.42,26,25,Kharif,Urea
+Laterite Soil,Rice,13,71,41,6.7,1.04,75,36,Rabi,Organic Neem Cake
+Laterite Soil,Onion,51,14,59,7.1,2.06,70,29,Kharif,DAP
+Black Soil,Wheat,86,44,28,5.4,3.08,40,19,Zaid,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,135,61,29,6.5,3.52,17,37,Zaid,MOP (Muriate of Potash)
+Clay Soil,Sugarcane,43,72,21,7.1,3.52,51,36,Kharif,Urea
+Laterite Soil,Wheat,74,99,26,6.6,2.84,24,28,Rabi,MOP (Muriate of Potash)
+Red Soil,Groundnut,35,74,49,7.1,2.69,47,38,Rabi,Urea
+Black Soil,Banana,136,22,80,6.9,0.81,27,26,Zaid,DAP
+Loamy Soil,Groundnut,81,68,39,7.2,0.74,49,35,Zaid,Vermicompost
+Laterite Soil,Sugarcane,21,12,56,5.8,1.44,24,26,Kharif,NPK 19-19-19
+Sandy Soil,Groundnut,46,55,80,5.7,1.56,75,21,Kharif,Urea
+Loamy Soil,Cotton,82,81,33,7.2,3.77,40,31,Zaid,NPK 19-19-19
+Loamy Soil,Banana,53,45,28,7.7,0.99,22,25,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Cotton,120,77,25,7.2,1.07,56,27,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Wheat,55,97,25,8.2,3.36,42,24,Kharif,MOP (Muriate of Potash)
+Sandy Soil,Banana,63,13,59,7.8,0.91,33,28,Kharif,DAP
+Black Soil,Sugarcane,92,51,74,5.2,3.65,55,33,Zaid,Organic Neem Cake
+Clay Soil,Onion,106,85,48,5.3,1.0,35,23,Rabi,Organic Neem Cake
+Black Soil,Onion,36,47,69,5.7,0.7,39,26,Kharif,Urea
+Loamy Soil,Tomato,105,91,27,8.2,3.96,70,28,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Cotton,132,48,28,7.2,1.81,61,36,Zaid,MOP (Muriate of Potash)
+Black Soil,Sugarcane,137,19,48,8.1,3.29,16,29,Zaid,DAP
+Loamy Soil,Onion,34,74,15,6.5,0.81,26,35,Rabi,Urea
+Laterite Soil,Potato,113,85,22,6.4,2.72,50,20,Rabi,MOP (Muriate of Potash)
+Sandy Soil,Corn,58,74,33,7.8,1.39,34,36,Zaid,NPK 19-19-19
+Clay Soil,Groundnut,139,73,39,8.3,0.7,69,19,Kharif,Vermicompost
+Laterite Soil,Corn,26,61,69,7.2,3.91,60,37,Rabi,Urea
+Loamy Soil,Rice,82,31,11,5.9,2.16,46,30,Kharif,DAP
+Black Soil,Tomato,136,82,50,6.8,3.26,60,34,Rabi,NPK 19-19-19
+Black Soil,Cotton,103,72,35,5.2,2.01,62,40,Zaid,Organic Neem Cake
+Loamy Soil,Tomato,129,36,47,8.2,1.03,43,26,Kharif,Vermicompost
+Loamy Soil,Tomato,50,69,55,7.5,3.93,52,36,Kharif,Vermicompost
+Red Soil,Groundnut,116,33,65,5.3,2.38,17,26,Kharif,DAP
+Black Soil,Tomato,69,82,61,7.6,1.7,56,39,Kharif,NPK 19-19-19
+Black Soil,Cotton,97,82,19,7.2,0.9,71,27,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Groundnut,21,83,12,6.1,2.54,24,21,Zaid,Urea
+Red Soil,Rice,92,78,17,6.1,0.52,69,21,Kharif,MOP (Muriate of Potash)
+Loamy Soil,Rice,131,98,31,6.3,1.24,48,37,Zaid,Zinc Sulfate
+Loamy Soil,Tomato,98,31,18,8.4,2.59,72,25,Kharif,DAP
+Black Soil,Rice,120,81,30,5.6,3.93,65,40,Zaid,Organic Neem Cake
+Sandy Soil,Tomato,94,76,35,7.0,1.8,75,21,Rabi,NPK 19-19-19
+Sandy Soil,Potato,83,10,65,5.0,3.61,35,27,Rabi,DAP
+Sandy Soil,Tomato,43,56,39,5.4,3.97,70,19,Kharif,Urea
+Clay Soil,Banana,43,21,80,7.5,1.07,51,40,Kharif,DAP
+Black Soil,Wheat,18,21,28,8.5,2.84,15,25,Zaid,NPK 19-19-19
+Red Soil,Rice,86,47,59,8.4,3.4,63,18,Zaid,Zinc Sulfate
+Black Soil,Cotton,82,80,25,8.3,2.32,68,38,Rabi,MOP (Muriate of Potash)
+Black Soil,Corn,87,21,42,5.3,2.84,74,20,Zaid,DAP
+Black Soil,Potato,139,55,13,6.4,2.17,39,34,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Potato,97,77,72,7.7,1.32,75,19,Rabi,NPK 19-19-19
+Laterite Soil,Potato,134,41,14,6.1,2.39,67,36,Rabi,MOP (Muriate of Potash)
+Black Soil,Banana,55,25,64,5.4,1.7,51,40,Zaid,DAP
+Laterite Soil,Cotton,134,21,41,8.0,2.65,51,23,Kharif,DAP
+Loamy Soil,Tomato,25,57,21,8.4,3.12,27,40,Zaid,Urea
+Black Soil,Groundnut,104,12,74,8.1,2.58,32,30,Zaid,DAP
+Black Soil,Corn,63,59,45,8.0,2.27,36,22,Kharif,NPK 19-19-19
+Red Soil,Corn,40,55,36,7.8,3.63,55,38,Rabi,Urea
+Sandy Soil,Banana,132,69,76,6.0,3.12,17,22,Zaid,NPK 19-19-19
+Sandy Soil,Onion,54,65,24,6.2,3.99,26,25,Zaid,MOP (Muriate of Potash)
+Clay Soil,Rice,40,98,25,8.1,1.58,21,20,Kharif,Urea
+Loamy Soil,Wheat,28,45,52,6.1,0.94,41,18,Kharif,Urea
+Red Soil,Sugarcane,138,73,45,5.9,3.35,19,37,Kharif,NPK 19-19-19
+Red Soil,Groundnut,132,11,41,7.0,0.89,65,30,Zaid,DAP
+Sandy Soil,Cotton,59,68,68,6.4,2.28,54,29,Rabi,NPK 19-19-19
+Red Soil,Groundnut,105,78,27,7.5,3.85,22,34,Kharif,MOP (Muriate of Potash)
+Clay Soil,Tomato,116,51,34,7.6,2.86,52,22,Kharif,NPK 19-19-19
+Sandy Soil,Tomato,27,60,56,5.3,1.11,72,21,Rabi,Urea
+Laterite Soil,Tomato,13,66,58,6.1,2.49,33,22,Kharif,Urea
+Loamy Soil,Groundnut,97,71,59,5.3,2.86,64,33,Zaid,Organic Neem Cake
+Black Soil,Potato,30,58,10,7.7,2.59,29,22,Rabi,Urea
+Loamy Soil,Sugarcane,115,69,50,8.1,2.93,34,27,Kharif,NPK 19-19-19
+Laterite Soil,Onion,15,69,66,7.9,0.66,30,33,Zaid,Urea
+Laterite Soil,Banana,117,18,19,7.0,3.93,35,39,Zaid,DAP
+Laterite Soil,Sugarcane,51,78,78,6.7,3.07,38,40,Zaid,NPK 19-19-19
+Red Soil,Sugarcane,16,48,59,7.8,2.71,45,20,Zaid,Organic Neem Cake
+Loamy Soil,Groundnut,66,79,68,6.9,0.81,73,35,Kharif,Urea
+Laterite Soil,Corn,96,11,14,7.5,2.41,45,35,Kharif,DAP
+Red Soil,Potato,107,23,33,5.6,1.66,21,36,Kharif,DAP
+Loamy Soil,Onion,101,20,79,6.1,2.61,71,39,Zaid,DAP
+Laterite Soil,Wheat,118,22,36,7.5,3.29,69,27,Zaid,DAP
+Loamy Soil,Tomato,37,85,14,6.6,3.98,44,40,Zaid,Urea
+Sandy Soil,Corn,70,12,67,7.5,0.95,33,36,Zaid,DAP
+Clay Soil,Onion,40,39,31,5.1,0.71,15,32,Kharif,Urea
+Laterite Soil,Banana,93,90,70,7.5,2.87,42,24,Rabi,Organic Neem Cake
+Black Soil,Cotton,82,96,78,5.8,3.35,18,23,Kharif,NPK 19-19-19
+Sandy Soil,Wheat,104,82,19,7.1,0.75,57,33,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Tomato,35,63,73,6.1,1.45,62,30,Kharif,Urea
+Black Soil,Tomato,103,94,33,5.6,0.96,53,22,Rabi,Organic Neem Cake
+Black Soil,Wheat,25,65,64,6.7,3.45,75,34,Rabi,Urea
+Sandy Soil,Rice,85,48,49,5.7,1.52,60,20,Rabi,Organic Neem Cake
+Laterite Soil,Corn,112,87,20,5.4,0.75,64,36,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Potato,95,52,44,5.0,0.8,67,27,Zaid,Organic Neem Cake
+Clay Soil,Onion,75,83,70,6.7,1.4,25,40,Zaid,NPK 19-19-19
+Black Soil,Tomato,10,100,47,5.1,0.7,54,36,Kharif,Urea
+Red Soil,Wheat,48,39,16,7.4,3.61,38,23,Kharif,Urea
+Black Soil,Banana,65,99,20,8.1,3.71,74,19,Rabi,NPK 19-19-19
+Red Soil,Groundnut,138,83,50,7.3,3.4,73,28,Kharif,NPK 19-19-19
+Loamy Soil,Sugarcane,33,79,28,7.1,2.91,52,28,Rabi,Urea
+Laterite Soil,Rice,70,47,14,5.1,3.57,32,20,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Cotton,129,58,41,6.8,1.87,38,37,Zaid,NPK 19-19-19
+Laterite Soil,Potato,121,10,61,5.4,2.26,62,31,Rabi,DAP
+Sandy Soil,Corn,70,63,60,7.8,2.61,46,18,Kharif,NPK 19-19-19
+Sandy Soil,Wheat,23,52,34,8.3,2.54,31,32,Rabi,Urea
+Sandy Soil,Wheat,68,85,75,6.9,3.72,43,35,Zaid,NPK 19-19-19
+Clay Soil,Potato,121,52,74,6.8,3.19,55,37,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,27,91,66,6.0,0.78,59,40,Kharif,Urea
+Black Soil,Potato,117,12,71,5.2,2.08,75,23,Zaid,DAP
+Sandy Soil,Tomato,102,74,30,6.9,3.8,47,19,Kharif,NPK 19-19-19
+Loamy Soil,Sugarcane,101,81,33,6.9,1.79,26,39,Zaid,NPK 19-19-19
+Clay Soil,Rice,81,24,51,7.6,0.98,75,22,Zaid,DAP
+Sandy Soil,Sugarcane,68,24,38,5.3,2.1,61,23,Rabi,DAP
+Laterite Soil,Wheat,75,32,44,7.4,2.61,24,21,Zaid,DAP
+Laterite Soil,Tomato,98,10,10,7.0,0.71,70,21,Zaid,DAP
+Clay Soil,Wheat,38,36,68,8.1,2.27,62,26,Kharif,Urea
+Loamy Soil,Cotton,20,20,62,8.1,2.56,75,30,Zaid,NPK 19-19-19
+Sandy Soil,Corn,139,100,12,5.0,1.6,24,37,Zaid,MOP (Muriate of Potash)
+Red Soil,Rice,98,37,74,5.7,1.2,75,26,Kharif,Organic Neem Cake
+Black Soil,Tomato,38,29,76,7.8,3.37,64,22,Rabi,NPK 19-19-19
+Clay Soil,Rice,60,36,62,5.9,3.56,45,30,Zaid,NPK 19-19-19
+Laterite Soil,Groundnut,134,74,70,7.6,1.71,42,29,Zaid,NPK 19-19-19
+Sandy Soil,Onion,68,69,31,6.8,1.75,41,19,Zaid,NPK 19-19-19
+Clay Soil,Corn,109,37,67,6.1,3.98,39,27,Rabi,NPK 19-19-19
+Sandy Soil,Groundnut,11,77,11,5.7,2.75,35,22,Zaid,Urea
+Laterite Soil,Groundnut,73,52,29,7.5,2.01,18,37,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Sugarcane,22,34,41,6.7,0.82,65,24,Kharif,NPK 19-19-19
+Red Soil,Onion,51,48,70,7.6,1.8,68,25,Rabi,NPK 19-19-19
+Laterite Soil,Rice,53,12,20,7.9,1.79,26,24,Kharif,DAP
+Laterite Soil,Onion,88,87,18,7.1,1.42,65,23,Kharif,MOP (Muriate of Potash)
+Clay Soil,Cotton,100,79,28,6.1,3.71,54,40,Rabi,DAP
+Laterite Soil,Rice,120,88,15,8.2,3.97,40,36,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Banana,120,90,75,5.5,0.98,20,30,Rabi,Organic Neem Cake
+Clay Soil,Onion,63,100,79,7.2,1.27,62,19,Rabi,NPK 19-19-19
+Loamy Soil,Cotton,105,13,53,8.0,1.36,66,36,Rabi,DAP
+Laterite Soil,Potato,74,54,61,6.9,0.85,17,36,Rabi,Vermicompost
+Loamy Soil,Cotton,104,92,43,5.8,3.83,47,29,Rabi,NPK 19-19-19
+Sandy Soil,Sugarcane,125,39,19,7.8,1.41,30,27,Rabi,MOP (Muriate of Potash)
+Black Soil,Corn,20,71,73,7.6,1.37,46,24,Zaid,Urea
+Laterite Soil,Cotton,61,24,47,6.2,1.1,66,28,Zaid,DAP
+Loamy Soil,Sugarcane,126,69,53,7.6,3.33,70,28,Rabi,NPK 19-19-19
+Sandy Soil,Wheat,38,20,12,6.9,1.29,68,35,Kharif,NPK 19-19-19
+Red Soil,Sugarcane,66,83,42,6.6,0.56,51,36,Kharif,Vermicompost
+Red Soil,Sugarcane,99,24,28,5.7,0.65,61,26,Kharif,DAP
+Black Soil,Groundnut,44,66,20,8.0,1.88,19,29,Kharif,Urea
+Sandy Soil,Rice,61,32,36,6.1,1.29,48,38,Zaid,DAP
+Loamy Soil,Groundnut,102,26,24,6.4,1.53,66,19,Kharif,DAP
+Laterite Soil,Sugarcane,125,76,79,8.3,0.68,68,35,Zaid,Vermicompost
+Black Soil,Cotton,115,94,52,6.0,3.2,67,21,Kharif,NPK 19-19-19
+Loamy Soil,Rice,22,47,29,5.1,2.65,44,37,Rabi,Urea
+Clay Soil,Potato,22,68,71,5.5,0.65,73,22,Zaid,Urea
+Laterite Soil,Sugarcane,24,76,40,7.2,3.63,48,28,Kharif,Urea
+Laterite Soil,Onion,34,94,78,7.5,2.98,47,38,Kharif,Urea
+Sandy Soil,Sugarcane,71,30,67,5.7,3.97,74,19,Rabi,DAP
+Loamy Soil,Banana,121,90,55,5.5,3.59,60,37,Rabi,Organic Neem Cake
+Laterite Soil,Cotton,21,72,79,7.4,3.74,36,37,Rabi,Urea
+Sandy Soil,Wheat,16,37,17,6.6,2.96,61,37,Zaid,Urea
+Sandy Soil,Sugarcane,36,37,63,5.6,3.18,19,18,Rabi,Urea
+Sandy Soil,Groundnut,112,71,16,8.0,1.84,68,21,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Sugarcane,119,88,65,6.1,3.04,21,36,Kharif,NPK 19-19-19
+Sandy Soil,Rice,59,14,18,7.9,3.36,19,18,Rabi,DAP
+Black Soil,Banana,121,15,18,7.9,2.72,38,28,Zaid,DAP
+Laterite Soil,Groundnut,87,16,27,6.4,2.19,31,38,Kharif,DAP
+Black Soil,Onion,45,44,72,6.6,3.06,66,40,Zaid,Urea
+Loamy Soil,Groundnut,126,55,35,7.8,1.24,47,20,Zaid,NPK 19-19-19
+Red Soil,Cotton,12,20,68,7.3,0.52,20,38,Rabi,NPK 19-19-19
+Sandy Soil,Banana,67,88,37,8.4,1.59,61,25,Zaid,NPK 19-19-19
+Clay Soil,Rice,42,23,44,6.1,3.11,18,36,Zaid,NPK 19-19-19
+Clay Soil,Groundnut,103,99,55,7.6,2.68,58,25,Zaid,NPK 19-19-19
+Laterite Soil,Rice,93,24,56,7.4,2.07,45,24,Kharif,DAP
+Sandy Soil,Banana,69,89,76,8.1,3.53,43,24,Kharif,NPK 19-19-19
+Loamy Soil,Rice,103,69,36,5.9,3.01,66,38,Kharif,Zinc Sulfate
+Clay Soil,Rice,13,94,10,5.3,0.78,70,40,Kharif,Vermicompost
+Laterite Soil,Cotton,36,31,56,7.0,1.79,20,28,Zaid,NPK 19-19-19
+Loamy Soil,Corn,121,88,55,5.6,1.18,27,21,Zaid,Organic Neem Cake
+Sandy Soil,Tomato,115,78,75,8.2,1.87,16,26,Kharif,NPK 19-19-19
+Black Soil,Potato,84,25,69,5.6,3.31,26,24,Rabi,DAP
+Red Soil,Wheat,76,11,58,6.1,2.97,20,23,Zaid,DAP
+Red Soil,Rice,16,27,17,7.0,2.62,56,33,Zaid,NPK 19-19-19
+Sandy Soil,Wheat,110,24,16,8.0,3.74,36,32,Rabi,DAP
+Red Soil,Rice,42,60,65,7.7,3.99,57,20,Rabi,Urea
+Black Soil,Rice,36,53,77,6.5,0.95,47,35,Zaid,Urea
+Sandy Soil,Sugarcane,48,11,61,5.5,3.92,54,27,Rabi,Urea
+Black Soil,Groundnut,36,84,51,5.1,3.72,45,34,Rabi,Urea
+Black Soil,Potato,64,43,55,5.4,2.72,33,19,Rabi,Organic Neem Cake
+Black Soil,Wheat,14,61,21,7.4,3.1,21,33,Zaid,Urea
+Sandy Soil,Sugarcane,56,11,18,7.9,3.21,32,33,Rabi,DAP
+Sandy Soil,Potato,116,23,33,6.4,1.16,15,24,Rabi,DAP
+Laterite Soil,Corn,103,45,18,5.9,1.6,68,24,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Onion,120,33,27,8.4,2.76,62,27,Kharif,DAP
+Loamy Soil,Rice,39,37,76,7.8,1.92,68,22,Zaid,Urea
+Sandy Soil,Corn,106,18,11,6.6,3.71,48,36,Kharif,DAP
+Black Soil,Cotton,33,12,44,8.1,1.71,42,37,Kharif,NPK 19-19-19
+Laterite Soil,Cotton,57,76,31,8.4,2.89,52,31,Kharif,NPK 19-19-19
+Black Soil,Wheat,88,83,61,6.9,0.8,59,18,Rabi,Vermicompost
+Red Soil,Cotton,75,23,69,7.2,1.35,51,24,Kharif,DAP
+Loamy Soil,Sugarcane,100,83,75,5.4,1.14,47,27,Rabi,Organic Neem Cake
+Laterite Soil,Corn,23,32,12,6.7,3.5,51,37,Rabi,NPK 19-19-19
+Laterite Soil,Potato,84,71,26,6.9,0.89,58,26,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Groundnut,26,61,18,7.4,0.64,25,34,Kharif,Urea
+Clay Soil,Tomato,10,16,56,5.1,2.26,52,26,Zaid,DAP
+Clay Soil,Onion,70,40,75,7.1,2.17,47,40,Zaid,NPK 19-19-19
+Loamy Soil,Sugarcane,89,10,53,8.5,2.16,42,18,Kharif,DAP
+Laterite Soil,Wheat,34,26,26,7.1,3.31,44,27,Zaid,NPK 19-19-19
+Laterite Soil,Groundnut,33,13,78,5.6,1.23,41,19,Zaid,NPK 19-19-19
+Clay Soil,Sugarcane,83,88,26,6.0,2.76,19,31,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Tomato,132,74,76,7.7,2.59,21,21,Zaid,NPK 19-19-19
+Red Soil,Wheat,87,23,12,5.7,3.4,28,26,Zaid,DAP
+Red Soil,Onion,42,79,48,8.2,3.07,58,36,Rabi,Urea
+Clay Soil,Tomato,78,78,58,7.9,1.0,35,34,Kharif,Vermicompost
+Clay Soil,Onion,71,17,41,5.5,3.99,28,33,Kharif,DAP
+Red Soil,Sugarcane,72,14,13,7.2,1.7,55,28,Kharif,DAP
+Sandy Soil,Corn,64,72,48,8.0,1.03,23,40,Rabi,Vermicompost
+Black Soil,Wheat,32,13,24,6.1,1.97,26,39,Zaid,NPK 19-19-19
+Black Soil,Rice,60,51,11,6.4,2.99,43,40,Kharif,MOP (Muriate of Potash)
+Black Soil,Wheat,96,68,43,8.0,3.01,41,28,Kharif,Zinc Sulfate
+Loamy Soil,Wheat,81,29,18,7.3,0.58,23,21,Kharif,DAP
+Clay Soil,Sugarcane,30,97,31,6.9,1.03,50,36,Zaid,Urea
+Sandy Soil,Onion,27,12,64,8.4,3.64,73,27,Rabi,Organic Neem Cake
+Clay Soil,Sugarcane,117,59,45,6.2,2.53,61,36,Zaid,NPK 19-19-19
+Black Soil,Cotton,22,27,35,8.3,3.2,41,37,Kharif,NPK 19-19-19
+Clay Soil,Potato,103,16,59,7.7,3.6,40,21,Zaid,DAP
+Clay Soil,Sugarcane,50,22,66,8.0,3.54,47,29,Kharif,DAP
+Clay Soil,Rice,133,64,25,7.6,2.76,41,23,Rabi,MOP (Muriate of Potash)
+Red Soil,Onion,30,86,67,8.4,2.84,26,39,Zaid,Urea
+Loamy Soil,Cotton,71,89,27,6.7,3.12,27,25,Kharif,MOP (Muriate of Potash)
+Black Soil,Cotton,93,42,14,6.9,2.99,68,30,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Onion,132,60,67,8.5,3.74,68,25,Kharif,NPK 19-19-19
+Clay Soil,Cotton,90,16,53,7.3,2.97,59,29,Rabi,DAP
+Laterite Soil,Rice,36,74,64,6.0,2.61,25,29,Kharif,Urea
+Black Soil,Groundnut,97,19,59,5.6,2.41,49,18,Kharif,DAP
+Clay Soil,Banana,76,63,32,5.9,2.72,24,40,Zaid,NPK 19-19-19
+Loamy Soil,Potato,35,100,57,6.7,1.85,74,32,Kharif,Urea
+Laterite Soil,Onion,78,68,75,7.7,1.55,39,19,Zaid,NPK 19-19-19
+Black Soil,Tomato,49,32,79,7.9,2.6,47,23,Zaid,Urea
+Clay Soil,Potato,134,55,57,6.1,3.16,67,31,Rabi,NPK 19-19-19
+Loamy Soil,Rice,139,70,18,5.3,1.89,35,31,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Cotton,31,27,72,7.5,4.0,59,33,Zaid,NPK 19-19-19
+Clay Soil,Sugarcane,76,74,51,5.0,1.98,40,29,Zaid,Organic Neem Cake
+Clay Soil,Potato,19,24,61,6.0,3.88,41,39,Zaid,NPK 19-19-19
+Laterite Soil,Onion,135,80,14,5.4,2.09,61,28,Zaid,MOP (Muriate of Potash)
+Laterite Soil,Cotton,16,93,30,7.6,2.91,50,30,Rabi,Urea
+Loamy Soil,Banana,89,53,53,5.8,2.15,40,27,Kharif,NPK 19-19-19
+Clay Soil,Wheat,59,63,60,8.2,0.77,66,39,Rabi,NPK 19-19-19
+Laterite Soil,Groundnut,136,59,59,5.4,3.7,32,33,Rabi,Organic Neem Cake
+Black Soil,Corn,115,54,48,5.2,1.49,32,22,Kharif,Organic Neem Cake
+Laterite Soil,Wheat,20,94,21,7.6,0.98,16,35,Zaid,Urea
+Black Soil,Cotton,18,70,43,8.4,0.51,27,24,Rabi,Urea
+Loamy Soil,Wheat,105,97,42,8.2,3.63,20,40,Kharif,Zinc Sulfate
+Red Soil,Onion,33,68,42,5.6,2.31,69,31,Rabi,Urea
+Clay Soil,Onion,115,12,36,6.3,1.89,61,35,Zaid,DAP
+Black Soil,Sugarcane,59,91,21,7.6,3.03,16,21,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Banana,23,73,59,8.3,0.57,75,38,Rabi,Urea
+Sandy Soil,Wheat,12,74,46,5.0,3.65,60,28,Rabi,Urea
+Laterite Soil,Rice,31,28,22,8.2,3.15,38,35,Rabi,NPK 19-19-19
+Clay Soil,Corn,57,85,58,5.9,0.51,75,38,Kharif,Vermicompost
+Loamy Soil,Groundnut,114,88,39,6.9,1.02,58,35,Rabi,Vermicompost
+Clay Soil,Cotton,31,85,69,5.9,0.52,70,29,Zaid,Urea
+Red Soil,Wheat,92,87,73,5.7,2.39,55,24,Kharif,Organic Neem Cake
+Black Soil,Onion,54,85,75,6.9,3.49,60,19,Zaid,Urea
+Loamy Soil,Corn,140,82,37,5.3,1.11,18,20,Kharif,Organic Neem Cake
+Red Soil,Groundnut,44,54,45,7.1,1.1,25,35,Kharif,Urea
+Sandy Soil,Tomato,54,15,71,6.6,1.7,47,33,Zaid,DAP
+Red Soil,Corn,76,58,75,5.2,3.23,46,21,Zaid,Organic Neem Cake
+Sandy Soil,Potato,50,11,21,8.1,1.55,64,29,Kharif,DAP
+Black Soil,Wheat,37,44,39,7.9,3.62,33,31,Zaid,Urea
+Clay Soil,Banana,65,60,62,6.6,1.96,68,32,Zaid,NPK 19-19-19
+Loamy Soil,Tomato,114,32,21,8.0,2.08,26,19,Kharif,DAP
+Black Soil,Potato,69,25,74,8.3,3.88,66,28,Zaid,DAP
+Red Soil,Rice,130,44,24,6.5,1.71,19,32,Rabi,MOP (Muriate of Potash)
+Clay Soil,Corn,90,97,26,7.3,3.61,28,20,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Sugarcane,48,14,19,7.0,1.86,28,34,Kharif,Urea
+Loamy Soil,Banana,137,84,52,5.9,1.3,20,35,Rabi,NPK 19-19-19
+Black Soil,Cotton,34,43,29,7.5,4.0,21,31,Rabi,Urea
+Loamy Soil,Banana,56,10,72,5.6,1.08,21,30,Rabi,DAP
+Red Soil,Potato,102,60,64,7.2,1.05,45,21,Zaid,Vermicompost
+Sandy Soil,Potato,76,25,49,7.4,2.28,53,39,Zaid,DAP
+Red Soil,Banana,123,47,74,8.0,1.1,33,24,Kharif,Vermicompost
+Laterite Soil,Potato,39,88,61,7.7,3.68,73,39,Zaid,Urea
+Sandy Soil,Banana,121,10,32,5.9,1.01,29,26,Rabi,DAP
+Black Soil,Cotton,60,36,72,7.3,1.47,69,20,Rabi,NPK 19-19-19
+Sandy Soil,Wheat,104,65,19,8.4,1.0,54,29,Kharif,MOP (Muriate of Potash)
+Laterite Soil,Corn,24,13,45,7.5,3.98,25,34,Zaid,NPK 19-19-19
+Red Soil,Rice,24,34,51,7.0,2.08,38,37,Zaid,NPK 19-19-19
+Laterite Soil,Tomato,110,74,47,8.5,3.76,18,33,Rabi,NPK 19-19-19
+Laterite Soil,Potato,20,78,12,7.4,3.93,52,39,Zaid,Urea
+Loamy Soil,Sugarcane,70,32,42,6.4,1.78,30,30,Rabi,DAP
+Loamy Soil,Sugarcane,46,59,16,7.9,1.1,51,34,Zaid,Urea
+Sandy Soil,Sugarcane,10,10,71,7.0,1.02,53,18,Zaid,NPK 19-19-19
+Red Soil,Banana,139,92,49,5.1,2.43,59,39,Rabi,Organic Neem Cake
+Sandy Soil,Banana,60,62,14,7.6,2.47,69,34,Rabi,MOP (Muriate of Potash)
+Loamy Soil,Wheat,115,27,71,5.2,3.6,54,32,Zaid,DAP
+Clay Soil,Tomato,138,17,39,5.1,3.27,54,22,Rabi,DAP
+Laterite Soil,Corn,36,60,23,6.2,0.97,46,24,Kharif,Urea
+Red Soil,Corn,76,90,28,7.0,3.0,43,39,Zaid,MOP (Muriate of Potash)
+Clay Soil,Cotton,53,34,80,7.2,3.99,68,40,Zaid,DAP
+Loamy Soil,Wheat,47,62,45,7.3,3.85,32,24,Zaid,Urea
+Loamy Soil,Sugarcane,128,31,50,7.5,1.6,21,20,Rabi,DAP
+Red Soil,Rice,67,71,69,5.9,1.49,72,18,Rabi,NPK 19-19-19
+Clay Soil,Sugarcane,56,56,70,7.2,2.59,48,18,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,71,88,29,7.5,3.2,26,32,Rabi,MOP (Muriate of Potash)
+Laterite Soil,Onion,136,52,33,6.4,3.4,67,19,Rabi,NPK 19-19-19
+Sandy Soil,Cotton,88,24,18,7.5,0.89,29,18,Rabi,DAP
+Clay Soil,Rice,48,93,65,7.4,1.31,47,33,Zaid,Urea
+Laterite Soil,Cotton,132,18,15,7.3,1.87,53,20,Kharif,DAP
+Laterite Soil,Banana,109,82,48,6.4,1.41,26,33,Zaid,NPK 19-19-19
+Laterite Soil,Banana,133,36,73,8.5,1.73,34,28,Rabi,NPK 19-19-19
+Red Soil,Rice,125,16,21,7.0,2.69,35,24,Kharif,DAP
+Sandy Soil,Corn,52,55,32,6.5,3.73,16,33,Kharif,NPK 19-19-19
+Red Soil,Sugarcane,53,83,56,8.2,0.85,68,27,Zaid,Vermicompost
+Black Soil,Cotton,67,97,76,8.2,3.09,37,22,Zaid,NPK 19-19-19
+Laterite Soil,Groundnut,25,73,60,5.6,2.34,56,22,Kharif,Urea
+Red Soil,Cotton,27,79,56,8.2,2.55,58,20,Kharif,Urea
+Clay Soil,Corn,32,52,58,7.7,3.79,20,29,Rabi,Urea
+Loamy Soil,Banana,119,45,67,6.9,2.14,25,25,Kharif,NPK 19-19-19
+Clay Soil,Groundnut,88,95,17,5.9,2.99,71,33,Rabi,MOP (Muriate of Potash)
+Red Soil,Rice,31,62,47,7.6,2.02,40,31,Rabi,Urea
+Sandy Soil,Tomato,31,74,32,7.5,3.22,61,30,Zaid,Urea
+Sandy Soil,Potato,134,89,54,7.8,3.21,36,24,Rabi,NPK 19-19-19
+Laterite Soil,Rice,65,32,73,6.3,3.7,29,25,Kharif,DAP
+Laterite Soil,Banana,10,100,41,5.7,1.63,59,32,Kharif,Urea
+Clay Soil,Groundnut,100,78,45,6.7,1.24,70,40,Rabi,NPK 19-19-19
+Red Soil,Corn,134,82,67,7.2,1.14,58,22,Zaid,Vermicompost
+Laterite Soil,Onion,62,64,79,6.0,3.58,48,31,Zaid,NPK 19-19-19
+Black Soil,Sugarcane,95,44,42,6.8,2.49,61,32,Zaid,NPK 19-19-19
+Laterite Soil,Tomato,98,86,76,5.6,3.98,63,26,Kharif,Organic Neem Cake
+Loamy Soil,Banana,77,12,50,7.5,3.54,24,21,Rabi,DAP
+Red Soil,Corn,17,92,66,7.9,1.11,18,32,Rabi,Urea
+Laterite Soil,Groundnut,14,69,26,6.3,0.6,37,20,Zaid,Urea
+Loamy Soil,Groundnut,113,88,30,6.7,1.98,55,23,Kharif,NPK 19-19-19
+Clay Soil,Onion,46,60,78,7.4,3.26,75,31,Kharif,Urea
+Sandy Soil,Rice,96,39,10,5.5,1.54,16,23,Kharif,MOP (Muriate of Potash)
+Red Soil,Corn,127,74,48,8.3,0.93,55,27,Kharif,Vermicompost
+Loamy Soil,Groundnut,101,53,63,7.7,2.0,37,20,Rabi,NPK 19-19-19
+Sandy Soil,Onion,121,69,66,8.2,1.75,75,39,Rabi,NPK 19-19-19
+Black Soil,Onion,97,99,14,6.4,1.39,27,31,Zaid,MOP (Muriate of Potash)
+Sandy Soil,Groundnut,15,63,79,7.1,0.96,70,35,Kharif,Urea
+Black Soil,Rice,97,38,66,6.2,1.09,21,27,Rabi,Vermicompost
+Clay Soil,Corn,107,80,66,8.2,3.47,19,27,Kharif,NPK 19-19-19
+Clay Soil,Rice,30,43,65,7.0,1.4,56,36,Rabi,Urea
+Laterite Soil,Corn,34,30,18,7.0,1.7,35,32,Zaid,DAP
+Laterite Soil,Potato,78,70,34,6.6,1.25,44,19,Kharif,NPK 19-19-19
+Loamy Soil,Potato,109,90,79,5.7,3.74,46,23,Kharif,Organic Neem Cake
+Loamy Soil,Cotton,11,14,24,8.4,3.09,40,29,Kharif,NPK 19-19-19
+Loamy Soil,Banana,86,12,66,7.9,2.84,69,23,Kharif,DAP
+Red Soil,Rice,42,62,22,8.1,2.14,75,40,Zaid,Urea
+Clay Soil,Wheat,49,79,34,7.1,2.9,32,33,Rabi,Urea
+Red Soil,Potato,135,61,22,8.2,3.77,41,26,Rabi,MOP (Muriate of Potash)
+Black Soil,Rice,35,52,34,5.9,0.57,62,26,Rabi,Urea
+Clay Soil,Banana,12,34,70,8.5,3.54,31,18,Kharif,NPK 19-19-19
+Red Soil,Sugarcane,104,32,64,7.7,1.99,29,37,Kharif,DAP
+Sandy Soil,Corn,140,11,50,7.5,2.53,29,30,Zaid,DAP
+Black Soil,Onion,112,62,61,5.8,3.47,59,26,Rabi,NPK 19-19-19
+Clay Soil,Potato,80,86,68,8.2,3.22,60,25,Kharif,NPK 19-19-19
+Black Soil,Rice,57,45,61,8.3,1.14,29,37,Kharif,Vermicompost
+Black Soil,Corn,54,80,35,7.7,1.67,73,35,Kharif,NPK 19-19-19
+Laterite Soil,Sugarcane,64,82,19,8.1,2.12,63,29,Kharif,MOP (Muriate of Potash)
+Black Soil,Sugarcane,70,18,17,6.6,2.59,34,38,Rabi,DAP
+Red Soil,Groundnut,128,59,80,6.9,3.33,37,18,Zaid,NPK 19-19-19
+Black Soil,Onion,23,55,10,8.1,3.0,55,22,Zaid,DAP
+Clay Soil,Sugarcane,26,22,61,8.1,2.82,29,31,Zaid,NPK 19-19-19
+Red Soil,Potato,27,36,71,6.2,3.86,35,34,Rabi,Urea
+Red Soil,Corn,48,62,47,7.4,3.71,61,27,Rabi,Urea
+Clay Soil,Potato,112,100,60,6.2,2.4,71,27,Zaid,NPK 19-19-19
+Clay Soil,Sugarcane,20,29,69,7.2,0.54,69,33,Zaid,NPK 19-19-19
+Clay Soil,Potato,114,11,19,7.9,3.4,48,25,Zaid,DAP
+Black Soil,Potato,39,62,33,7.8,1.91,20,31,Rabi,Urea
+Sandy Soil,Banana,63,17,75,7.7,0.65,40,20,Rabi,DAP
+Laterite Soil,Cotton,87,91,58,8.1,1.12,52,19,Kharif,Vermicompost
+Clay Soil,Banana,128,18,34,5.1,2.61,17,32,Kharif,DAP
+Red Soil,Wheat,43,100,52,5.9,0.78,29,40,Kharif,Urea
+Black Soil,Rice,107,88,30,6.2,1.86,30,37,Zaid,Zinc Sulfate
+Laterite Soil,Groundnut,64,88,37,6.5,2.25,43,38,Rabi,NPK 19-19-19
+Loamy Soil,Sugarcane,27,80,80,8.3,1.68,29,33,Zaid,Urea
+Red Soil,Potato,118,88,15,5.0,0.6,74,37,Rabi,MOP (Muriate of Potash)
+Clay Soil,Onion,53,92,63,6.3,1.37,21,35,Zaid,NPK 19-19-19
+Laterite Soil,Potato,113,93,76,7.0,2.45,32,39,Kharif,NPK 19-19-19
+Clay Soil,Tomato,95,67,13,6.8,1.52,33,37,Zaid,MOP (Muriate of Potash)
+Loamy Soil,Potato,98,71,57,5.1,3.95,44,21,Rabi,Vermicompost
+Loamy Soil,Sugarcane,119,45,67,6.8,3.99,46,25,Zaid,NPK 19-19-19
+Laterite Soil,Sugarcane,97,10,43,6.7,2.94,19,19,Kharif,DAP
+Clay Soil,Wheat,116,79,70,7.0,2.16,60,34,Kharif,Zinc Sulfate
+Black Soil,Groundnut,48,66,47,5.5,3.27,47,34,Kharif,Urea
+Laterite Soil,Cotton,73,82,58,5.8,3.83,68,30,Kharif,NPK 19-19-19
+Laterite Soil,Sugarcane,82,20,18,7.1,0.92,19,36,Rabi,DAP
+Sandy Soil,Banana,75,84,41,5.1,0.85,68,33,Rabi,Organic Neem Cake
+Loamy Soil,Rice,32,83,18,6.7,2.59,73,30,Kharif,Urea
+Clay Soil,Tomato,109,19,28,8.2,2.7,32,19,Zaid,DAP
+Laterite Soil,Rice,70,71,54,7.7,3.31,69,37,Zaid,Vermicompost
+Sandy Soil,Sugarcane,107,68,34,5.7,3.57,62,18,Rabi,Organic Neem Cake
+Laterite Soil,Onion,25,36,74,7.6,0.74,23,28,Rabi,Urea
+Clay Soil,Cotton,92,78,50,7.6,1.62,54,27,Kharif,NPK 19-19-19
+Red Soil,Groundnut,86,66,42,6.6,2.19,67,22,Zaid,NPK 19-19-19
+Red Soil,Sugarcane,58,65,72,7.0,1.0,42,31,Zaid,Vermicompost
+Loamy Soil,Banana,122,93,57,8.1,1.72,19,36,Zaid,NPK 19-19-19
+Black Soil,Rice,87,20,64,8.1,1.75,56,39,Kharif,DAP
+Black Soil,Cotton,12,90,29,5.6,1.61,23,20,Kharif,Urea
+Red Soil,Rice,51,88,49,5.2,2.21,58,34,Zaid,Organic Neem Cake
+Laterite Soil,Potato,21,26,62,6.6,2.66,69,36,Rabi,NPK 19-19-19
+Loamy Soil,Groundnut,65,43,40,6.6,3.17,34,38,Kharif,NPK 19-19-19
+Laterite Soil,Sugarcane,73,54,42,5.9,2.41,60,37,Kharif,NPK 19-19-19
+Sandy Soil,Rice,43,89,47,7.7,0.84,53,36,Kharif,Urea
+Loamy Soil,Tomato,41,82,25,5.2,2.33,46,21,Kharif,Urea
+Red Soil,Groundnut,21,78,35,5.6,2.95,55,23,Zaid,Urea

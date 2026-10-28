@@ -1,0 +1,97 @@
+{
+  "model_name": "Random Forest Fertilizer Recommender",
+  "dataset_split": "75% Train / 25% Test",
+  "train_samples": 1875,
+  "test_samples": 625,
+  "test_accuracy": 0.9488,
+  "precision": 0.9486,
+  "recall": 0.9488,
+  "f1_score": 0.9477,
+  "feature_importances": {
+    "soil_type": 0.0122,
+    "crop": 0.0318,
+    "nitrogen": 0.3,
+    "phosphorus": 0.2626,
+    "potassium": 0.1588,
+    "ph": 0.1,
+    "organic_matter": 0.0814,
+    "moisture": 0.0249,
+    "temperature": 0.0218,
+    "season": 0.0067
+  },
+  "confusion_matrix": [
+    [
+      114,
+      0,
+      2,
+      1,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      86,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      162,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      51,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      4,
+      0,
+      143,
+      3,
+      0
+    ],
+    [
+      1,
+      2,
+      1,
+      1,
+      1,
+      28,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      9
+    ]
+  ],
+  "classification_report": "                         precision    recall  f1-score   support\n\n                    DAP       0.96      0.96      0.96       119\nMOP (Muriate of Potash)       0.96      1.00      0.98        86\n           NPK 19-19-19       0.93      0.97      0.95       167\n      Organic Neem Cake       0.96      0.94      0.95        54\n                   Urea       0.98      0.95      0.97       150\n           Vermicompost       0.88      0.82      0.85        34\n           Zinc Sulfate       0.90      0.60      0.72        15\n\n               accuracy                           0.95       625\n              macro avg       0.94      0.89      0.91       625\n           weighted avg       0.95      0.95      0.95       625\n",
+  "classes": [
+    "DAP",
+    "MOP (Muriate of Potash)",
+    "NPK 19-19-19",
+    "Organic Neem Cake",
+    "Urea",
+    "Vermicompost",
+    "Zinc Sulfate"
+  ]
+}

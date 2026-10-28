@@ -1,0 +1,104 @@
+{
+  "model_name": "MobileNetV2 Crop Disease Classifier",
+  "dataset_split": "75% Train / 25% Test",
+  "train_samples": 720,
+  "test_samples": 240,
+  "test_loss": 0.2445,
+  "test_accuracy": 0.95,
+  "precision": 0.9508,
+  "recall": 0.95,
+  "f1_score": 0.95,
+  "confusion_matrix": [
+    [
+      30,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      30,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      30,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      28,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      25,
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      29,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      30,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      26
+    ]
+  ],
+  "classification_report": "                     precision    recall  f1-score   support\n\n   Corn_Common_Rust       1.00      1.00      1.00        30\n       Corn_Healthy       1.00      1.00      1.00        30\nPotato_Early_Blight       0.97      1.00      0.98        30\n     Potato_Healthy       1.00      0.93      0.97        30\n Potato_Late_Blight       0.86      0.83      0.85        30\nTomato_Early_Blight       1.00      0.97      0.98        30\n     Tomato_Healthy       0.94      1.00      0.97        30\n Tomato_Late_Blight       0.84      0.87      0.85        30\n\n           accuracy                           0.95       240\n          macro avg       0.95      0.95      0.95       240\n       weighted avg       0.95      0.95      0.95       240\n",
+  "classes": [
+    "Corn_Common_Rust",
+    "Corn_Healthy",
+    "Potato_Early_Blight",
+    "Potato_Healthy",
+    "Potato_Late_Blight",
+    "Tomato_Early_Blight",
+    "Tomato_Healthy",
+    "Tomato_Late_Blight"
+  ]
+}

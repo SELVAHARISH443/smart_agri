@@ -1,0 +1,273 @@
+{
+  "Soil Classifier": {
+    "model_name": "MobileNetV2 Soil Classifier",
+    "dataset_split": "75% Train / 25% Test",
+    "train_samples": 540,
+    "test_samples": 180,
+    "test_loss": 0.2293,
+    "test_accuracy": 0.9111,
+    "precision": 0.9391,
+    "recall": 0.9111,
+    "f1_score": 0.9056,
+    "confusion_matrix": [
+      [
+        30,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        30,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        15,
+        0,
+        15,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        29,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        30,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        30
+      ]
+    ],
+    "classification_report": "               precision    recall  f1-score   support\n\n   Black_Soil       0.97      1.00      0.98        30\n    Clay_Soil       1.00      1.00      1.00        30\nLaterite_Soil       1.00      0.50      0.67        30\n   Loamy_Soil       1.00      0.97      0.98        30\n     Red_Soil       0.67      1.00      0.80        30\n   Sandy_Soil       1.00      1.00      1.00        30\n\n     accuracy                           0.91       180\n    macro avg       0.94      0.91      0.91       180\n weighted avg       0.94      0.91      0.91       180\n",
+    "classes": [
+      "Black_Soil",
+      "Clay_Soil",
+      "Laterite_Soil",
+      "Loamy_Soil",
+      "Red_Soil",
+      "Sandy_Soil"
+    ]
+  },
+  "Crop Disease Classifier": {
+    "model_name": "MobileNetV2 Crop Disease Classifier",
+    "dataset_split": "75% Train / 25% Test",
+    "train_samples": 720,
+    "test_samples": 240,
+    "test_loss": 0.2445,
+    "test_accuracy": 0.95,
+    "precision": 0.9508,
+    "recall": 0.95,
+    "f1_score": 0.95,
+    "confusion_matrix": [
+      [
+        30,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        30,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        30,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        28,
+        0,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        25,
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        0,
+        29,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        30,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0,
+        26
+      ]
+    ],
+    "classification_report": "                     precision    recall  f1-score   support\n\n   Corn_Common_Rust       1.00      1.00      1.00        30\n       Corn_Healthy       1.00      1.00      1.00        30\nPotato_Early_Blight       0.97      1.00      0.98        30\n     Potato_Healthy       1.00      0.93      0.97        30\n Potato_Late_Blight       0.86      0.83      0.85        30\nTomato_Early_Blight       1.00      0.97      0.98        30\n     Tomato_Healthy       0.94      1.00      0.97        30\n Tomato_Late_Blight       0.84      0.87      0.85        30\n\n           accuracy                           0.95       240\n          macro avg       0.95      0.95      0.95       240\n       weighted avg       0.95      0.95      0.95       240\n",
+    "classes": [
+      "Corn_Common_Rust",
+      "Corn_Healthy",
+      "Potato_Early_Blight",
+      "Potato_Healthy",
+      "Potato_Late_Blight",
+      "Tomato_Early_Blight",
+      "Tomato_Healthy",
+      "Tomato_Late_Blight"
+    ]
+  },
+  "Fertilizer Recommender": {
+    "model_name": "Random Forest Fertilizer Recommender",
+    "dataset_split": "75% Train / 25% Test",
+    "train_samples": 1875,
+    "test_samples": 625,
+    "test_accuracy": 0.9488,
+    "precision": 0.9486,
+    "recall": 0.9488,
+    "f1_score": 0.9477,
+    "feature_importances": {
+      "soil_type": 0.0122,
+      "crop": 0.0318,
+      "nitrogen": 0.3,
+      "phosphorus": 0.2626,
+      "potassium": 0.1588,
+      "ph": 0.1,
+      "organic_matter": 0.0814,
+      "moisture": 0.0249,
+      "temperature": 0.0218,
+      "season": 0.0067
+    },
+    "confusion_matrix": [
+      [
+        114,
+        0,
+        2,
+        1,
+        1,
+        0,
+        1
+      ],
+      [
+        0,
+        86,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        162,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        51,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        0,
+        143,
+        3,
+        0
+      ],
+      [
+        1,
+        2,
+        1,
+        1,
+        1,
+        28,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        9
+      ]
+    ],
+    "classification_report": "                         precision    recall  f1-score   support\n\n                    DAP       0.96      0.96      0.96       119\nMOP (Muriate of Potash)       0.96      1.00      0.98        86\n           NPK 19-19-19       0.93      0.97      0.95       167\n      Organic Neem Cake       0.96      0.94      0.95        54\n                   Urea       0.98      0.95      0.97       150\n           Vermicompost       0.88      0.82      0.85        34\n           Zinc Sulfate       0.90      0.60      0.72        15\n\n               accuracy                           0.95       625\n              macro avg       0.94      0.89      0.91       625\n           weighted avg       0.95      0.95      0.95       625\n",
+    "classes": [
+      "DAP",
+      "MOP (Muriate of Potash)",
+      "NPK 19-19-19",
+      "Organic Neem Cake",
+      "Urea",
+      "Vermicompost",
+      "Zinc Sulfate"
+    ]
+  }
+}

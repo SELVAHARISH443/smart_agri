@@ -1,0 +1,51 @@
+
+--- Testing Soil ML Prediction Service on Unseen Test Images ---
+File (Black_Soil): Black_Soil_test_0001.jpg
+  -> Predicted Soil Type: Black Soil (Confidence: 93.0%)
+  -> Soil Health: Highly Fertile | Fertilizer Rec: NPK 19-19-19
+File (Black_Soil): Black_Soil_test_0002.jpg
+  -> Predicted Soil Type: Black Soil (Confidence: 97.8%)
+  -> Soil Health: Highly Fertile | Fertilizer Rec: NPK 19-19-19
+File (Black_Soil): Black_Soil_test_0003.jpg
+  -> Predicted Soil Type: Black Soil (Confidence: 94.8%)
+  -> Soil Health: Highly Fertile | Fertilizer Rec: NPK 19-19-19
+File (Black_Soil): Black_Soil_test_0004.jpg
+  -> Predicted Soil Type: Black Soil (Confidence: 97.5%)
+  -> Soil Health: Highly Fertile | Fertilizer Rec: NPK 19-19-19
+File (Black_Soil): Black_Soil_test_0005.jpg
+  -> Predicted Soil Type: Black Soil (Confidence: 93.7%)
+  -> Soil Health: Highly Fertile | Fertilizer Rec: NPK 19-19-19
+File (Black_Soil): Black_Soil_test_0006.jpg
+  -> Predicted Soil Type: Black Soil (Confidence: 98.1%)
+  -> Soil Health: Highly Fertile | Fertilizer Rec: NPK 19-19-19
+
+--- Testing Crop Disease ML Prediction Service on Unseen Test Images ---
+File (Corn_Common_Rust): Corn_Common_Rust_test_0001.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 99.6%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0002.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 95.2%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0003.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 86.6%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0004.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 98.9%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0005.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 97.7%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0006.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 97.0%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0007.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 98.0%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+File (Corn_Common_Rust): Corn_Common_Rust_test_0008.jpg
+  -> Predicted Crop: Corn | Condition: Common Rust (Confidence: 97.4%)
+  -> Treatment Action: Spray fungicides upon first appearance of pustules to protect upper leaves.
+
+--- Testing Fertilizer Recommendation ML Service ---
+Input: Black Soil, Rice, low N/P/K -> Recommended: NPK 19-19-19 (Confidence: 86.0%)
+
+ALL BACKEND ML SERVICE PREDICTION TESTS PASSED!
