@@ -1,6 +1,7 @@
 import os
 import sys
 import importlib
+import sqlite3
 
 import pytest
 
@@ -129,3 +130,13 @@ def test_database_directory_permission_error_is_explicit(tmp_path, monkeypatch):
     assert str(configured_path) in str(error.value)
     assert "permission denied" in str(error.value)
     assert not fallback_path.exists()
+
+
+def test_database_connection_is_closed_after_use(tmp_path):
+    service = AuthService(database_path=tmp_path / "auth.sqlite3")
+
+    with service.connect() as connection:
+        connection.execute("SELECT 1")
+
+    with pytest.raises(sqlite3.ProgrammingError, match="closed"):
+        connection.execute("SELECT 1")

@@ -4,6 +4,7 @@ import re
 import secrets
 import sqlite3
 import time
+from contextlib import contextmanager
 from functools import wraps
 
 from flask import jsonify, request
@@ -46,13 +47,13 @@ class AuthService:
             ) from error
         self.initialize_database()
 
+    @contextmanager
     def connect(self):
         connection = None
         try:
             connection = sqlite3.connect(self.database_path, timeout=10)
             connection.row_factory = sqlite3.Row
             connection.execute("PRAGMA foreign_keys = ON")
-            return connection
         except sqlite3.Error as error:
             if connection is not None:
                 connection.close()
@@ -61,6 +62,11 @@ class AuthService:
                 f"'{self.database_path}'; check DATABASE_PATH and filesystem "
                 f"permissions: {error}"
             ) from error
+        try:
+            with connection:
+                yield connection
+        finally:
+            connection.close()
 
     def initialize_database(self):
         try:
