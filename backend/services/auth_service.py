@@ -19,39 +19,76 @@ SESSION_DURATION_SECONDS = 7 * 24 * 60 * 60
 
 class AuthService:
     def __init__(self, database_path=None):
-        self.database_path = database_path or os.environ.get(
-            "AGRI_AUTH_DB", DEFAULT_DATABASE_PATH
-        )
-        os.makedirs(os.path.dirname(os.path.abspath(self.database_path)), exist_ok=True)
+        if database_path is not None:
+            self.database_path = os.fspath(database_path)
+        elif "DATABASE_PATH" in os.environ:
+            self.database_path = os.environ["DATABASE_PATH"]
+        elif "AGRI_AUTH_DB" in os.environ:
+            self.database_path = os.environ["AGRI_AUTH_DB"]
+        else:
+            self.database_path = DEFAULT_DATABASE_PATH
+
+        if not self.database_path:
+            raise ValueError("The authentication database path cannot be empty.")
+        if os.path.isdir(self.database_path):
+            raise ValueError(
+                f"The authentication database path '{self.database_path}' is a directory; "
+                "set DATABASE_PATH to a SQLite file path, for example /var/data/auth.sqlite3."
+            )
+
+        database_directory = os.path.dirname(os.path.abspath(self.database_path))
+        try:
+            os.makedirs(database_directory, exist_ok=True)
+        except OSError as error:
+            raise RuntimeError(
+                f"Cannot create authentication database directory "
+                f"'{database_directory}' for DATABASE_PATH='{self.database_path}': {error}"
+            ) from error
         self.initialize_database()
 
     def connect(self):
-        connection = sqlite3.connect(self.database_path, timeout=10)
-        connection.row_factory = sqlite3.Row
-        connection.execute("PRAGMA foreign_keys = ON")
-        return connection
+        connection = None
+        try:
+            connection = sqlite3.connect(self.database_path, timeout=10)
+            connection.row_factory = sqlite3.Row
+            connection.execute("PRAGMA foreign_keys = ON")
+            return connection
+        except sqlite3.Error as error:
+            if connection is not None:
+                connection.close()
+            raise RuntimeError(
+                f"Cannot open authentication database at "
+                f"'{self.database_path}'; check DATABASE_PATH and filesystem "
+                f"permissions: {error}"
+            ) from error
 
     def initialize_database(self):
-        with self.connect() as connection:
-            connection.executescript(
-                """
-                CREATE TABLE IF NOT EXISTS users (
-                    id INTEGER PRIMARY KEY AUTOINCREMENT,
-                    email TEXT NOT NULL UNIQUE COLLATE NOCASE,
-                    password_hash TEXT NOT NULL,
-                    created_at INTEGER NOT NULL
-                );
+        try:
+            with self.connect() as connection:
+                connection.executescript(
+                    """
+                    CREATE TABLE IF NOT EXISTS users (
+                        id INTEGER PRIMARY KEY AUTOINCREMENT,
+                        email TEXT NOT NULL UNIQUE COLLATE NOCASE,
+                        password_hash TEXT NOT NULL,
+                        created_at INTEGER NOT NULL
+                    );
 
-                CREATE TABLE IF NOT EXISTS auth_sessions (
-                    token_hash TEXT PRIMARY KEY,
-                    user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
-                    expires_at INTEGER NOT NULL
-                );
+                    CREATE TABLE IF NOT EXISTS auth_sessions (
+                        token_hash TEXT PRIMARY KEY,
+                        user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                        expires_at INTEGER NOT NULL
+                    );
 
-                CREATE INDEX IF NOT EXISTS auth_sessions_expiry_idx
-                    ON auth_sessions(expires_at);
-                """
-            )
+                    CREATE INDEX IF NOT EXISTS auth_sessions_expiry_idx
+                        ON auth_sessions(expires_at);
+                    """
+                )
+        except sqlite3.Error as error:
+            raise RuntimeError(
+                f"Cannot initialize authentication database at "
+                f"'{self.database_path}': {error}"
+            ) from error
 
     @staticmethod
     def normalize_email(email):
