@@ -7,7 +7,7 @@ import pytest
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from app import app
+from app import app, parse_cors_origins
 from services.auth_service import AuthService, auth_service
 
 auth_service_module = importlib.import_module("services.auth_service")
@@ -154,6 +154,79 @@ def test_auth_cors_allows_local_frontend_credentials(client):
 
     assert response.headers["Access-Control-Allow-Origin"] == "http://localhost:3000"
     assert response.headers["Access-Control-Allow-Credentials"] == "true"
+
+
+@pytest.mark.parametrize(
+    ("path", "method", "headers"),
+    [
+        ("/api/auth/login", "POST", "content-type"),
+        ("/api/auth/register", "POST", "content-type"),
+        ("/api/auth/me", "GET", "authorization"),
+        ("/api/auth/logout", "POST", "content-type"),
+        ("/api/health", "GET", "content-type"),
+        ("/api/soil/analyze", "POST", "content-type,authorization"),
+        ("/api/crop/analyze", "POST", "content-type"),
+        ("/api/fertilizer/recommend", "POST", "content-type"),
+        ("/api/crop/season", "GET", "content-type"),
+        ("/api/crops", "GET", "authorization"),
+    ],
+)
+def test_vercel_origin_preflight_for_api_routes(client, path, method, headers):
+    origin = "https://smart-agri-os7rl3dd9-selvaharish443s-projects.vercel.app"
+    response = client.options(
+        path,
+        headers={
+            "Origin": origin,
+            "Access-Control-Request-Method": method,
+            "Access-Control-Request-Headers": headers,
+        },
+    )
+
+    assert response.status_code == 200
+    assert response.headers["Access-Control-Allow-Origin"] == origin
+    assert response.headers["Access-Control-Allow-Credentials"] == "true"
+    assert method in response.headers["Access-Control-Allow-Methods"]
+    allowed_headers = response.headers["Access-Control-Allow-Headers"].lower()
+    assert all(header in allowed_headers for header in headers.split(","))
+
+
+def test_cors_is_present_on_auth_error_responses(client):
+    origin = "https://smart-agri-os7rl3dd9-selvaharish443s-projects.vercel.app"
+
+    me_response = client.get("/api/auth/me", headers={"Origin": origin})
+    login_response = client.post(
+        "/api/auth/login",
+        json={"email": "missing@example.com", "password": "securepass123"},
+        headers={"Origin": origin},
+    )
+    register_response = client.post(
+        "/api/auth/register",
+        json={},
+        headers={"Origin": origin},
+    )
+
+    assert me_response.status_code == 401
+    assert login_response.status_code == 401
+    assert register_response.status_code == 400
+    for response in (me_response, login_response, register_response):
+        assert response.headers["Access-Control-Allow-Origin"] == origin
+        assert response.headers["Access-Control-Allow-Credentials"] == "true"
+
+
+def test_cors_rejects_unconfigured_origin(client):
+    response = client.get(
+        "/api/health",
+        headers={"Origin": "https://untrusted.example"},
+    )
+
+    assert response.status_code == 200
+    assert "Access-Control-Allow-Origin" not in response.headers
+
+
+def test_cors_origin_parser_keeps_explicit_origins_only():
+    assert parse_cors_origins(
+        "https://stable.example, *, https://invalid.example/path"
+    ) == ["https://stable.example"]
 
 
 def test_auth_cookie_supports_cross_site_production_session(client, monkeypatch):

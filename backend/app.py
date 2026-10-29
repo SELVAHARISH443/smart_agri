@@ -1,4 +1,6 @@
 import os
+from urllib.parse import urlsplit
+
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 
@@ -15,15 +17,48 @@ from services.season_service import season_service
 from services.lazy_resource import ResourceLoadError
 
 app = Flask(__name__)
-frontend_origins = [
-    origin.strip()
-    for origin in os.environ.get(
-        "FRONTEND_ORIGINS",
-        "http://localhost:3000,http://127.0.0.1:3000",
-    ).split(",")
-    if origin.strip()
-]
-CORS(app, origins=frontend_origins, supports_credentials=True)
+default_cors_origins = (
+    "https://smart-agri-os7rl3dd9-selvaharish443s-projects.vercel.app,"
+    "http://localhost:3000,http://127.0.0.1:3000"
+)
+configured_cors_origins = ",".join(
+    value
+    for value in (
+        os.environ.get("CORS_ORIGINS", ""),
+        os.environ.get("FRONTEND_ORIGINS", ""),
+        default_cors_origins,
+    )
+    if value
+)
+
+
+def parse_cors_origins(configured_origins):
+    allowed_origins = set()
+    for value in configured_origins.split(","):
+        origin = value.strip().rstrip("/")
+        if not origin or origin == "*":
+            continue
+        parsed_origin = urlsplit(origin)
+        if parsed_origin.scheme not in {"http", "https"} or not parsed_origin.netloc:
+            continue
+        if parsed_origin.path or parsed_origin.query or parsed_origin.fragment:
+            continue
+        allowed_origins.add(origin)
+    return sorted(allowed_origins)
+
+
+cors_origins = parse_cors_origins(configured_cors_origins)
+CORS(
+    app,
+    resources={
+        r"/api/*": {
+            "origins": cors_origins,
+            "methods": ["GET", "POST", "OPTIONS"],
+            "allow_headers": ["Content-Type", "Authorization"],
+        }
+    },
+    supports_credentials=True,
+)
 
 
 def auth_cookie_options():
