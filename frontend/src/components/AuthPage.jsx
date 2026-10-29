@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import api from '../api';
 import { useLanguage } from '../i18n';
 
 export default function AuthPage({ onAuthenticated }) {
@@ -19,12 +19,17 @@ export default function AuthPage({ onAuthenticated }) {
 
     try {
       const endpoint = isRegistering ? '/api/auth/register' : '/api/auth/login';
-      const response = await axios.post(endpoint, { email, password });
+      const response = await api.post(endpoint, { email, password });
+      if (!response.data?.user) {
+        throw new Error('The account service returned an invalid response.');
+      }
       onAuthenticated(response.data.user);
     } catch (requestError) {
       setError(
         requestError.response?.data?.error ||
-        t('Unable to connect to the account service. Please try again.')
+        (requestError.response?.status === 404
+          ? t('The account service endpoint was not found. Check the API URL configuration.')
+          : t('Unable to connect to the account service. Please try again.'))
       );
     } finally {
       setLoading(false);

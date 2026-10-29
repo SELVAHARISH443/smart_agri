@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import api from '../api';
 import { useLanguage } from '../i18n';
 
 export default function CropAnalyzer() {
@@ -34,7 +34,7 @@ export default function CropAnalyzer() {
     formData.append('image', file);
 
     try {
-      const res = await axios.post('/api/crop/analyze', formData, {
+      const res = await api.post('/api/crop/analyze', formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
       setResult(res.data);

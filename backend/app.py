@@ -15,7 +15,27 @@ from services.season_service import season_service
 from services.lazy_resource import ResourceLoadError
 
 app = Flask(__name__)
-CORS(app)
+frontend_origins = [
+    origin.strip()
+    for origin in os.environ.get(
+        "FRONTEND_ORIGINS",
+        "http://localhost:3000,http://127.0.0.1:3000",
+    ).split(",")
+    if origin.strip()
+]
+CORS(app, origins=frontend_origins, supports_credentials=True)
+
+
+def auth_cookie_options():
+    secure = request.is_secure or os.environ.get(
+        "SESSION_COOKIE_SECURE", ""
+    ).lower() == "true"
+    return {
+        "httponly": True,
+        "secure": secure,
+        "samesite": "None" if secure else "Lax",
+        "path": "/",
+    }
 
 @app.route("/api/health", methods=["GET"])
 def health():
@@ -41,10 +61,7 @@ def set_auth_cookie(response, token):
         SESSION_COOKIE_NAME,
         token,
         max_age=SESSION_DURATION_SECONDS,
-        httponly=True,
-        secure=request.is_secure,
-        samesite="Lax",
-        path="/",
+        **auth_cookie_options(),
     )
     return response
 
@@ -87,10 +104,7 @@ def logout():
     response = jsonify({"message": "Logged out."})
     response.delete_cookie(
         SESSION_COOKIE_NAME,
-        httponly=True,
-        secure=request.is_secure,
-        samesite="Lax",
-        path="/",
+        **auth_cookie_options(),
     )
     return response
 

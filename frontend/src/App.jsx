@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import api from './api';
 import SoilAnalyzer from './components/SoilAnalyzer';
 import CropAnalyzer from './components/CropAnalyzer';
 import CropSeason from './components/CropSeason';
@@ -21,7 +21,7 @@ function AppContent() {
 
   const checkSession = async () => {
     try {
-      const res = await axios.get('/api/auth/me');
+      const res = await api.get('/api/auth/me');
       setUser(res.data.user);
     } catch (err) {
       if (err.response?.status !== 401) {
@@ -35,7 +35,7 @@ function AppContent() {
 
   const checkHealth = async () => {
     try {
-      const res = await axios.get('/api/health');
+      const res = await api.get('/api/health');
       setHealthStatus(res.data);
     } catch (err) {
       console.error('Backend API offline or unreachable:', err);
@@ -45,7 +45,7 @@ function AppContent() {
 
   const handleLogout = async () => {
     try {
-      await axios.post('/api/auth/logout');
+      await api.post('/api/auth/logout');
       setUser(null);
     } catch (err) {
       console.error('Unable to log out:', err);

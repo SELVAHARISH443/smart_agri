@@ -140,3 +140,30 @@ def test_database_connection_is_closed_after_use(tmp_path):
 
     with pytest.raises(sqlite3.ProgrammingError, match="closed"):
         connection.execute("SELECT 1")
+
+
+def test_auth_cors_allows_local_frontend_credentials(client):
+    response = client.options(
+        "/api/auth/login",
+        headers={
+            "Origin": "http://localhost:3000",
+            "Access-Control-Request-Method": "POST",
+            "Access-Control-Request-Headers": "content-type",
+        },
+    )
+
+    assert response.headers["Access-Control-Allow-Origin"] == "http://localhost:3000"
+    assert response.headers["Access-Control-Allow-Credentials"] == "true"
+
+
+def test_auth_cookie_supports_cross_site_production_session(client, monkeypatch):
+    monkeypatch.setenv("SESSION_COOKIE_SECURE", "true")
+    response = client.post(
+        "/api/auth/register",
+        json={"email": "cookie@example.com", "password": "securepass123"},
+    )
+
+    cookie = response.headers["Set-Cookie"]
+    assert response.status_code == 201
+    assert "Secure" in cookie
+    assert "SameSite=None" in cookie

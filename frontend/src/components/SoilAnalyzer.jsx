@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import api from '../api';
 import { useLanguage } from '../i18n';
 
 export default function SoilAnalyzer() {
@@ -44,7 +44,7 @@ export default function SoilAnalyzer() {
     if (pH) formData.append('pH', pH);
 
     try {
-      const res = await axios.post('/api/soil/analyze', formData, {
+      const res = await api.post('/api/soil/analyze', formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
       setResult(res.data);

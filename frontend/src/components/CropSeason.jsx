@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import api from '../api';
 import { useLanguage } from '../i18n';
 
 export default function CropSeason() {
@@ -18,7 +18,7 @@ export default function CropSeason() {
 
   const fetchCrops = async () => {
     try {
-      const res = await axios.get('/api/crops');
+      const res = await api.get('/api/crops');
       if (res.data.crops) {
         setAvailableCrops(res.data.crops);
       }
@@ -37,7 +37,7 @@ export default function CropSeason() {
     setError(null);
 
     try {
-      const res = await axios.get('/api/crop/season', {
+      const res = await api.get('/api/crop/season', {
         params: { crop: targetCrop, region: targetRegion }
       });
 
